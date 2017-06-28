@@ -2,6 +2,16 @@
 
 ## Follow-along tutorial PyData Berlin 2017
 
+Pandas is the Swiss-Multipurpose Knife for Data Analysis in Python. With Pandas dealing with data-analysis is easy and simple but there are some things you need to get your head around first as Data-Frames and Data-Series. 
+
+The tutorial provides a compact introduction to Pandas for beginners for I/O, data visualisation, statistical data analysis and aggregation within Jupiter notebooks.
+
+### Installation
+
+Having [Anaconda](https://www.continuum.io/downloads) installed simply create your ENV with 
+
+```conda env create -f environment.yml``` 
+
 ![alt tag](pic/front.jpeg)
 
 * reading and writing data across multiple formats (CSV, Excel, JSON, SQL, HTML,…)

@@ -71,5 +71,3 @@ dependencies:
   - jupyter-console==5.1.0
   - jupyter-core==4.3.0
   - prompt-toolkit==1.0.14
-prefix: /Users/hendorf/anaconda/envs/pandas-pydata-berlin-2017
-
