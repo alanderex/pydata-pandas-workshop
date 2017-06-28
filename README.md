@@ -60,7 +60,8 @@ jupyter notebook
  * mention Index but don't go deep
 
 #### Data Visualisation
-plot your data directly into your notebook
+
+ * plot your data directly into your notebook
 
 #### Peek Into Statistical Data Analysis & Aggregation
 
