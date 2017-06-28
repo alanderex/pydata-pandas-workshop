@@ -50,18 +50,22 @@ jupyter notebook
 * returns a copy // inplace
 * boolean indexing via visualisation | after selecting same order
 
-* operations
-    * add/substract
-    * multiply
-    * mention Index but don't go deep
+#### DataSeries & DataFrames / Numpy
 
-* data visualisation
-* work with built-in data visualisation
+#### Selecting Data
 
-* statistical data analysis and aggregation.
+#### Operations
+    
+ * add/substract
+ * multiply
+ * mention Index but don't go deep
 
-* inner-mechanics of Pandas: Data-Frames, Data-Series & Numpy.
+#### Data Visualisation
+plot your data directly into your notebook
 
-* working and making the most of indexes.
+#### Peek Into Statistical Data Analysis & Aggregation
 
-* how to mangle, reshape and pivot
+#### How to Mangle, Reshape and Pivot
+
+#### Ode to Indexes
+
