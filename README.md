@@ -31,15 +31,14 @@ jupyter notebook
 ![alt tag](pic/front.jpeg)
 
 #### A Practical Start: Reading and Writing Data Across Multiple Formats 
-###### (CSV, Excel, JSON, SQL, HTML,…)
 
- * CSV
- * Excel
- * JSON
- * HTML
- * Clipboard
+* CSV
+* Excel
+* JSON
+* HTML
+* Clipboard
  
- * data
+* data
     * .info
     * .describe
 
