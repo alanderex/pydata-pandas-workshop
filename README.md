@@ -1,6 +1,6 @@
 # Introduction to Data-Analysis with Pandas
 
-## Follow-along tutorial PyData Berlin 2017
+## Follow-Along Tutorial PyData Berlin 2017
 
 Pandas is the Swiss-Multipurpose Knife for Data Analysis in Python. With Pandas dealing with data-analysis is easy and simple but there are some things you need to get your head around first as Data-Frames and Data-Series. 
 
@@ -30,21 +30,25 @@ jupyter notebook
 
 ![alt tag](pic/front.jpeg)
 
-* reading and writing data across multiple formats (CSV, Excel, JSON, SQL, HTML,…)
-    * CSV
-    * JSON
-    * HTML
-    * Clipboard
-    * EXCEL
-* data
+#### A Practical Start: Reading and Writing Data Across Multiple Formats 
+###### (CSV, Excel, JSON, SQL, HTML,…)
+
+ * CSV
+ * Excel
+ * JSON
+ * HTML
+ * Clipboard
+ 
+ * data
     * .info
     * .describe
 
-* Selecting Data {from Paris Index talk with visualisation}
-    * Colums
-    * Rows
-    * returns a copy // inplace
-    * boolean indexing via visualisation | after selecting same order
+#### Selecting Data
+
+* Colums
+* Rows
+* returns a copy // inplace
+* boolean indexing via visualisation | after selecting same order
 
 * operations
     * add/substract
