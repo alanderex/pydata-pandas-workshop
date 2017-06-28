@@ -46,8 +46,8 @@ jupyter notebook
 
 * Colums
 * Rows
-* returns a copy // inplace
-* boolean indexing via visualisation | after selecting same order
+* Returns a copy / inplace
+* Boolean indexing
 
 #### DataSeries & DataFrames / Numpy
 
