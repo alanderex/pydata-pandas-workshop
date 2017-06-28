@@ -10,7 +10,12 @@ The tutorial provides a compact introduction to Pandas for beginners for I/O, da
 
 Having [Anaconda](https://www.continuum.io/downloads) installed simply create your ENV with 
 
-```conda env create -f environment.yml``` 
+```
+git clone https://github.com/alanderex/pandas-pydata-berlin-2017
+cd pandas-pydata-berlin-2017
+conda env create -n pandas-pydata-berlin-2017 -f environment.yml
+jupyter notebook
+``` 
 
 ![alt tag](pic/front.jpeg)
 
