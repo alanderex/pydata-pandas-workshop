@@ -20,8 +20,10 @@ conda env create -n pandas-pydata-berlin-2017 -f environment.yml
 
 # environment should be activated now
 # if not type: source activate pandas-pydata-berlin-2017
+
 # start juypter notebook
 jupyter notebook
+
 # paste the url displayed in your browser, looks like:
 # http://localhost:8888/?token=fa08a1f56d3d0fbbdf7d07fec0c39cd471e06501f79a782a
 ``` 
