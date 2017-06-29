@@ -60,8 +60,6 @@ jupyter notebook
 * Returns a copy / inplace
 * Boolean indexing
 
-#### Selecting Data
-
 #### Operations
     
  * add/substract
