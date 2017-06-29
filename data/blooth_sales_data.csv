@@ -1,1001 +1,1001 @@
-name,birthday,orderdate,customer,product,units,unitprice
-Vicky,1970-01-25,2016-07-11 09:20:13.188906,Net Omega Alpha Incorporated,Thriller record,27,16.14
-Brock,1977-12-27,2016-07-18 09:20:13.185943,North Incorporated,PlayStation,23,249.85
-Georgia,1973-09-19,2016-07-03 09:20:13.186600,Application Advanced Star Group,Corolla,37,24486.77
-Lorine,1983-11-12,2016-07-28 09:20:13.187013,Consulting International,Lipitor,2,11.87
-Logan,1997-08-03,2015-07-29 09:20:13.190504,Max LLC,banana,47,10.0
-Augustus,1982-12-12,2016-07-27 09:20:13.186279,Technology Organization,Rubik’s Cube,28,15.55
-Jordon,1979-05-23,2016-07-01 09:20:13.189978,Atlantic Architecture Solutions Organization,banana,42,10.0
-Roxanna,1977-11-10,2016-07-10 09:20:13.189187,Provider Industries East Co,PlayStation,30,236.58
-Lou,1983-03-19,2016-07-11 09:20:13.189099,Industries Internet Telecom LLC,iPad,24,317.35
-Walker,1981-10-11,2016-07-24 09:20:13.187882,Max Telecom Organization,iPad,46,1034.31
-Theron,1969-11-29,2016-06-30 09:20:13.187523,Interactive Incorporated,Rubik’s Cube,30,15.66
-Charlotte,1956-02-08,2015-07-13 09:20:13.189731,Net Network Co,iPad,44,902.27
-Belen,1984-04-15,2016-07-02 09:20:13.186730,Signal Universal North Corporation,banana,49,10.0
-Ashley,1985-05-13,2015-07-27 09:20:13.187033,Omega Construction Incorporated,Harry Potter book,12,18.6
-Humberto,1967-04-29,2015-07-12 09:20:13.188884,North Hardware Limited,Lipitor,50,11.98
-Jordon,1979-05-23,2016-07-01 09:20:13.189978,Atlantic Architecture Solutions Organization,Corolla,10,24607.27
-Celina,1978-01-12,2016-07-03 09:20:13.188081,Omega Incorporated,iPad,33,892.22
-Rhonda,1955-07-09,2015-07-13 09:20:13.190128,Source Co,Harry Potter book,27,20.62
-Cherie,1981-07-31,2016-07-15 09:20:13.189773,People Industries Agency,banana,18,10.0
-Geraldo,1998-04-09,2015-07-02 09:20:13.187905,General Industries Organization,Lipitor,21,10.76
-Elissa,1993-10-19,2015-07-12 09:20:13.184708,Internet North Industries,PlayStation,33,240.4
-Pierre,1982-07-27,2016-07-25 09:20:13.188208,Virtual Internet South Organization,Thriller record,44,13.74
-Claudine,1993-01-07,2015-07-26 09:20:13.184360,Star Limited,iPad,45,512.98
-Logan,1965-09-16,2015-07-29 09:20:13.188752,Systems Provider Electronics Inc,Corolla,38,20923.69
-Claudine,1993-01-07,2015-07-26 09:20:13.184360,Star Limited,Corolla,6,24321.25
-Tosha,1967-05-26,2016-07-11 09:20:13.187994,Atlantic Star Limited,Corolla,34,21630.79
-Young,1983-01-02,2015-07-20 09:20:13.189410,Frontier South International,banana,14,10.0
-Lynette,1977-10-13,2016-07-08 09:20:13.187609,Electronics Adventure Incorporated,Lipitor,2,10.7
-Jillian,1973-11-09,2015-07-03 09:20:13.184427,Application People Agency,iPad,6,439.34
-Brandon,1956-03-28,2015-07-10 09:20:13.189860,Design Corporation,Rubik’s Cube,23,15.48
-Belen,1984-04-15,2016-07-02 09:20:13.186730,Signal Universal North Corporation,PlayStation,15,299.89
-Richard,1963-03-20,2015-07-05 09:20:13.184931,Construction Industries,Corolla,9,23424.68
-Delmer,1978-05-11,2016-07-16 09:20:13.187412,Source Solutions Organization,banana,43,10.0
-Michal,1985-04-24,2016-06-30 09:20:13.188731,Omega Limited,PlayStation,33,209.28
-Georgia,1984-11-28,2016-07-17 09:20:13.187190,Digital Internet Telecom Group,Rubik’s Cube,48,18.0
-Drew,1982-02-21,2016-07-05 09:20:13.187258,Electronics Co,iPad,30,771.48
-Leisa,1984-07-30,2016-07-20 09:20:13.185873,Virtual West Internet Limited,iPad,34,561.55
-Vicky,1970-01-25,2016-07-11 09:20:13.188906,Net Omega Alpha Incorporated,Harry Potter book,13,13.71
-Georgia,1973-09-19,2016-07-03 09:20:13.186600,Application Advanced Star Group,Harry Potter book,1,26.67
-Valorie,1985-02-13,2016-07-14 09:20:13.189058,Source Corporation,iPhone,29,774.4
-Randell,1987-06-09,2016-07-06 09:20:13.185185,Adventure Architecture Hill Incorporated,iPad,38,954.14
-Jane,1962-08-13,2015-07-16 09:20:13.186578,Consulting Building Incorporated,PlayStation,20,238.51
-Nick,1976-11-12,2015-07-18 09:20:13.183955,Systems Inc,Lipitor,20,11.32
-Mi,1970-02-14,2016-07-04 09:20:13.187926,Analysis Bell Solutions Incorporated,Thriller record,20,14.34
-Brock,1977-12-27,2016-07-18 09:20:13.185943,North Incorporated,Corolla,2,23571.46
-Jacques,1974-09-24,2016-07-27 09:20:13.186256,Contract Solutions Hill LLC,PlayStation,46,203.37
-Paris,1981-03-30,2016-07-22 09:20:13.189452,Telecom East Building Group,iPhone,37,762.16
-Sallie,1980-10-03,2016-07-03 09:20:13.184473,Net Inc,Corolla,35,23161.76
-Tory,1975-11-29,2016-07-09 09:20:13.188841,Medicine Consulting Group,Lipitor,48,10.55
-Allison,1980-04-02,2016-07-14 09:20:13.186352,Galaxy Solutions Internet Co,Harry Potter book,30,26.31
-Tristan,1987-03-03,2016-07-26 09:20:13.188016,Construction Co,iPhone,44,862.77
-Vicky,1970-01-25,2016-07-11 09:20:13.188906,Net Omega Alpha Incorporated,Thriller record,1,16.17
-Pam,1982-04-06,2016-07-02 09:20:13.189122,Systems Corporation,iPad,21,458.88
-Millicent,1987-04-05,2016-07-27 09:20:13.188188,Technology LLC,Harry Potter book,46,22.9
-Grant,1983-08-07,2016-07-11 09:20:13.187077,Industries Federated Telecom Corporation,Corolla,42,20291.94
-Fannie,1979-04-22,2015-07-16 09:20:13.187565,Speed Bell Agency,Lipitor,17,10.51
-Judi,1954-05-11,2015-07-22 09:20:13.189342,Hardware Limited,Harry Potter book,32,20.14
-Caroline,1965-03-02,2015-07-13 09:20:13.186304,Contract Graphics Speed Corporation,Corolla,31,22556.62
-Tiana,1982-10-29,2016-07-17 09:20:13.188536,Adventure Atlantic Organization,Star Wars,27,9.17
-Ethel,1956-09-18,2015-07-04 09:20:13.189077,Solutions Analysis Electronic LLC,Star Wars,19,9.06
-Jacques,1974-09-24,2016-07-27 09:20:13.186256,Contract Solutions Hill LLC,iPhone,27,698.31
-Melvin,1987-05-08,2016-07-21 09:20:13.184065,Studio Graphics Direct Industries,Lipitor,18,10.23
-Leisa,1978-01-25,2016-07-17 09:20:13.188795,General Federated Vision Inc,Harry Potter book,23,17.04
-Young,1983-01-02,2015-07-20 09:20:13.189410,Frontier South International,iPhone,50,759.48
-Delmer,1978-05-11,2016-07-16 09:20:13.187412,Source Solutions Organization,iPad,35,582.14
-Rudy,1961-10-31,2015-07-08 09:20:13.187433,Frontier Bell Group,Rubik’s Cube,32,16.08
-Jillian,1973-11-09,2015-07-03 09:20:13.184427,Application People Agency,Harry Potter book,31,27.49
-Augustus,1982-12-12,2016-07-27 09:20:13.186279,Technology Organization,iPad,30,610.76
-Candi,1994-09-30,2015-07-27 09:20:13.185683,Venture West Hardware Corporation,Rubik’s Cube,36,15.41
-Pearline,1988-02-19,2015-07-10 09:20:13.185821,Innovation Resource West LLC,Harry Potter book,10,16.04
-Candi,1978-12-31,2016-06-30 09:20:13.184001,Contract Co,Thriller record,9,13.3
-Jodie,1955-11-27,2015-07-14 09:20:13.185551,Virtual International,Rubik’s Cube,3,16.63
-Shameka,1982-03-26,2016-07-03 09:20:13.189880,Hardware Limited,Thriller record,38,19.48
-Wilber,1966-11-06,2016-07-06 09:20:13.185918,Resource Virtual Electronics Organization,iPhone,8,708.73
-Jacques,1974-09-24,2016-07-27 09:20:13.186256,Contract Solutions Hill LLC,Harry Potter book,32,28.5
-Gustavo,1957-11-10,2015-07-22 09:20:13.184089,Contract Electronics LLC,iPad,4,861.87
-Becky,1975-08-13,2016-07-28 09:20:13.190211,Consulting Industries,PlayStation,29,276.36
-Bridget,1984-01-29,2016-07-18 09:20:13.187653,Studio Signal Building Limited,Lipitor,39,11.29
-Marybeth,1982-09-25,2016-07-04 09:20:13.187544,People Group,iPhone,43,527.47
-Brianna,1969-04-03,2016-07-15 09:20:13.188775,Federated Agency,Rubik’s Cube,39,17.56
-Elijah,1980-10-29,2016-07-15 09:20:13.189516,Federated Digital Group,banana,47,10.0
-Andrea,1981-09-18,2016-07-12 09:20:13.185325,Vision Interactive Design International,Corolla,26,22589.0
-Jesse,1980-11-08,2016-07-15 09:20:13.190334,Provider Alpha Telecom Co,banana,17,10.0
-Leticia,1976-05-20,2016-07-02 09:20:13.185507,Graphics Atlantic Co,Star Wars,48,10.51
-Lillian,1978-01-16,2016-07-03 09:20:13.188252,Federated International,banana,7,10.0
-Harland,1982-12-15,2016-06-30 09:20:13.184824,Hardware Contract Vision Inc,iPhone,41,468.64
-Flossie,1983-04-18,2016-07-03 09:20:13.183977,Star Net International,Harry Potter book,42,17.01
-Tory,1975-11-29,2016-07-09 09:20:13.188841,Medicine Consulting Group,Thriller record,27,10.81
-Charlotte,1956-02-08,2015-07-13 09:20:13.189731,Net Network Co,banana,50,10.0
-Hank,1978-11-07,2016-07-15 09:20:13.184267,Resource Star Signal LLC,Corolla,3,24307.01
-Geraldo,1973-02-20,2015-07-29 09:20:13.188689,Star Adventure Industries,Rubik’s Cube,14,17.65
-Alecia,1981-04-20,2016-07-14 09:20:13.190020,Power Alpha Organization,Harry Potter book,16,21.52
-Wiley,1983-02-24,2016-07-27 09:20:13.185045,Net Galaxy Technology International,Harry Potter book,50,29.23
-Georgia,1973-09-19,2016-07-03 09:20:13.186600,Application Advanced Star Group,Rubik’s Cube,38,15.78
-Harry,1969-09-14,2016-07-28 09:20:13.189816,Direct Data Industries,Rubik’s Cube,6,17.88
-Romona,1973-04-27,2016-07-26 09:20:13.184381,Solutions Industries,banana,5,10.0
-Louella,1976-06-05,2016-07-06 09:20:13.184044,Hardware Inc,PlayStation,2,211.42
-Allison,1980-04-02,2016-07-14 09:20:13.186352,Galaxy Solutions Internet Co,Star Wars,44,9.94
-Milan,1978-06-09,2016-07-23 09:20:13.185090,Adventure Graphics International,PlayStation,31,207.36
-Carissa,1980-09-29,2016-07-01 09:20:13.187213,Power Omega Organization,iPhone,15,524.12
-Lou,1983-03-19,2016-07-11 09:20:13.189099,Industries Internet Telecom LLC,iPad,45,355.14
-Pearline,1988-02-19,2015-07-10 09:20:13.185821,Innovation Resource West LLC,Star Wars,6,9.95
-Otha,1956-06-28,2015-07-23 09:20:13.189664,Provider Advanced Incorporated,Harry Potter book,3,23.38
-Gilda,1972-07-23,2015-07-16 09:20:13.189017,Net LLC,Thriller record,21,16.35
-Mable,1975-06-12,2016-07-03 09:20:13.188124,Venture Research Industries,iPhone,43,660.97
-Guadalupe,1980-06-12,2016-07-11 09:20:13.186944,Telecom Star Technology Corporation,PlayStation,23,238.77
-Twila,1976-01-13,2016-07-13 09:20:13.190588,Resource Analysis Federated International,iPhone,31,627.59
-Edgardo,1977-07-03,2016-07-01 09:20:13.190086,Software General Group,Star Wars,14,9.64
-Nannie,1972-12-26,2015-07-12 09:20:13.187698,Universal Net Inc,iPhone,13,748.37
-Rachelle,1972-09-18,2015-07-01 09:20:13.188037,Design Software Group,Rubik’s Cube,21,15.52
-Monica,1984-03-17,2015-07-18 09:20:13.188951,Hardware Galaxy Future Corporation,PlayStation,24,299.36
-Kip,1980-08-12,2016-07-09 09:20:13.186075,Star Virtual International,banana,2,10.0
-Charles,1986-12-19,2015-07-12 09:20:13.188559,Hill Future Agency,banana,18,10.0
-Chadwick,1973-02-13,2016-07-16 09:20:13.185302,Federated Application Industries,Harry Potter book,48,20.9
-Vernon,1986-05-19,2016-07-22 09:20:13.184619,Speed Co,Rubik’s Cube,30,17.51
-Noe,1996-03-01,2015-07-24 09:20:13.188623,Pacific Atlantic Architecture LLC,Lipitor,3,11.45
-Samantha,1976-09-24,2015-07-07 09:20:13.189599,West Industries Corporation,PlayStation,21,291.79
-Brandie,1986-11-30,2016-07-14 09:20:13.185254,Internet Solutions Contract LLC,iPad,26,1031.96
-Marcella,1971-08-07,2016-07-06 09:20:13.187790,General Research Inc,Thriller record,3,16.14
-Katherine,1979-11-10,2016-07-21 09:20:13.186842,Internet Future Technology Group,Thriller record,28,9.77
-Howard,1986-07-28,2015-07-21 09:20:13.187103,Net Hardware Inc,banana,25,10.0
-Harry,1981-02-28,2016-07-22 09:20:13.185660,Systems Solutions Innovation LLC,PlayStation,6,229.68
-Edgardo,1977-07-03,2016-07-01 09:20:13.190086,Software General Group,Lipitor,10,11.94
-Cheri,1975-07-24,2016-07-13 09:20:13.184884,Star Internet Limited,Harry Potter book,28,24.86
-Theron,1969-11-29,2016-06-30 09:20:13.187523,Interactive Incorporated,Corolla,17,24516.45
-Geraldo,1973-02-20,2015-07-29 09:20:13.188689,Star Adventure Industries,PlayStation,29,294.76
-Teri,1978-12-15,2016-07-04 09:20:13.190168,Internet Future East Agency,iPad,40,452.33
-Michal,1985-04-24,2016-06-30 09:20:13.188731,Omega Limited,banana,30,10.0
-Dena,1969-11-27,2016-07-20 09:20:13.185160,Resource Design Pacific Co,Lipitor,5,10.86
-Delilah,1982-10-10,2016-07-17 09:20:13.187344,General North International,Lipitor,33,10.62
-Annetta,1980-03-03,2016-07-02 09:20:13.185844,Digital Source Solutions Co,banana,12,10.0
-Cody,1971-01-19,2016-07-12 09:20:13.188580,Provider Research LLC,Lipitor,16,11.86
-Ollie,1969-02-23,2016-07-18 09:20:13.184731,Application Group,Lipitor,41,11.56
-Donnie,1978-10-21,2016-07-11 09:20:13.188385,Network Organization,Harry Potter book,14,12.44
-Cherie,1981-07-31,2016-07-15 09:20:13.189773,People Industries Agency,Star Wars,7,8.35
-Alice,1971-04-06,2016-07-23 09:20:13.189622,South Future Hardware Organization,Star Wars,43,11.13
-Candi,1994-09-30,2015-07-27 09:20:13.185683,Venture West Hardware Corporation,Thriller record,16,19.93
-Young,1983-01-02,2015-07-20 09:20:13.189410,Frontier South International,banana,36,10.0
-Matilde,1979-02-04,2016-07-25 09:20:13.186141,Galaxy Building Star LLC,Corolla,19,23957.69
-Bernardo,1986-08-17,2016-07-12 09:20:13.187861,Provider LLC,Thriller record,48,17.16
-Terrell,1997-10-31,2015-07-13 09:20:13.186901,Source Corporation,banana,34,10.0
-Jefferson,1975-04-04,2016-07-24 09:20:13.188452,Telecom Agency,Lipitor,17,10.76
-Walker,1981-10-11,2016-07-24 09:20:13.187882,Max Telecom Organization,Rubik’s Cube,20,16.2
-Malissa,1971-04-26,2015-07-09 09:20:13.187299,Net Hill Max Industries,iPad,4,395.7
-Grant,1983-08-07,2016-07-11 09:20:13.187077,Industries Federated Telecom Corporation,banana,22,10.0
-Josiah,1992-11-20,2015-07-14 09:20:13.186821,Innovation Incorporated,Corolla,9,23634.52
-Josiah,1992-11-20,2015-07-14 09:20:13.186821,Innovation Incorporated,Lipitor,4,11.22
-Fabian,1982-08-22,2016-07-13 09:20:13.184134,Pacific Building Design Inc,iPad,26,915.07
-Alfonzo,1974-10-07,2016-07-05 09:20:13.185439,Hardware West Incorporated,Corolla,5,22516.25
-Terrell,1997-10-31,2015-07-13 09:20:13.186901,Source Corporation,Rubik’s Cube,18,15.27
-Pearline,1988-02-19,2015-07-10 09:20:13.185821,Innovation Resource West LLC,iPad,28,798.96
-Milo,1986-06-06,2016-07-12 09:20:13.189711,Electronic Industries,Harry Potter book,40,15.03
-Anthony,1970-03-08,2015-07-04 09:20:13.188363,Analysis North Industries,Rubik’s Cube,17,17.77
-Delilah,1982-10-10,2016-07-17 09:20:13.187344,General North International,Thriller record,15,10.52
-Romona,1973-04-27,2016-07-26 09:20:13.184381,Solutions Industries,Thriller record,24,13.79
-Graciela,1993-03-26,2015-07-01 09:20:13.185136,South Interactive Technology Agency,banana,48,10.0
-Fernando,1981-09-26,2016-07-20 09:20:13.187128,Frontier Industries,PlayStation,39,288.87
-Damion,1986-02-07,2016-07-18 09:20:13.189579,Design Limited,iPad,12,364.84
-Melvin,1987-05-08,2016-07-21 09:20:13.184065,Studio Graphics Direct Industries,Rubik’s Cube,31,16.9
-Georgia,1984-11-28,2016-07-17 09:20:13.187190,Digital Internet Telecom Group,Thriller record,15,11.99
-Brandon,1956-03-28,2015-07-10 09:20:13.189860,Design Corporation,Harry Potter book,34,19.87
-Houston,1984-02-11,2016-07-12 09:20:13.190041,East Electronic Resource Incorporated,Harry Potter book,23,14.07
-Harry,1969-09-14,2016-07-28 09:20:13.189816,Direct Data Industries,PlayStation,49,213.19
-Millicent,1987-04-05,2016-07-27 09:20:13.188188,Technology LLC,Star Wars,21,8.08
-Elbert,1983-03-08,2016-07-07 09:20:13.185595,Application Electronics Vision Limited,PlayStation,33,218.77
-Earle,1971-07-11,2016-07-18 09:20:13.189557,Graphics Application Inc,banana,35,10.0
-Candace,1977-08-06,2016-06-30 09:20:13.183906,Contract Virtual Group,Thriller record,32,17.96
-Jaime,1987-06-09,2015-07-01 09:20:13.187972,Hill Design Organization,iPad,13,857.12
-Gilda,1972-07-23,2015-07-16 09:20:13.189017,Net LLC,iPad,50,682.22
-Emanuel,1966-01-30,2015-07-19 09:20:13.185208,Signal Organization,banana,45,10.0
-Esteban,1968-09-27,2016-07-10 09:20:13.185988,People Co,Thriller record,30,13.37
-Georgiana,1976-08-11,2015-07-26 09:20:13.190566,Source Virtual Digital Group,Rubik’s Cube,33,16.66
-Darnell,1982-05-25,2016-07-04 09:20:13.190231,Net Solutions International,PlayStation,45,277.29
-Gussie,1973-11-11,2016-07-06 09:20:13.186709,Industries Incorporated,iPhone,16,621.79
-Porter,1987-08-05,2015-07-04 09:20:13.188168,Galaxy LLC,PlayStation,10,254.25
-Josiah,1992-11-20,2015-07-14 09:20:13.186821,Innovation Incorporated,PlayStation,49,270.15
-Emanuel,1966-01-30,2015-07-19 09:20:13.185208,Signal Organization,iPad,26,363.34
-Ashley,1985-05-13,2015-07-27 09:20:13.187033,Omega Construction Incorporated,Star Wars,27,11.03
-Charlie,1982-06-17,2016-07-05 09:20:13.188973,Max Telecom General Group,iPhone,3,556.89
-Randell,1987-06-09,2016-07-06 09:20:13.185185,Adventure Architecture Hill Incorporated,iPad,50,1012.77
-Mandi,1982-06-05,2016-07-24 09:20:13.186397,North Atlantic Inc,banana,18,10.0
-Bernardo,1986-08-17,2016-07-12 09:20:13.187861,Provider LLC,PlayStation,2,218.28
-Candi,1978-12-31,2016-06-30 09:20:13.184001,Contract Co,Thriller record,4,18.2
-Ashley,1978-12-10,2015-07-29 09:20:13.189794,Omega Federated Organization,Thriller record,40,10.23
-Calvin,1980-01-23,2016-07-24 09:20:13.185775,South Group,Lipitor,25,11.25
-Logan,1997-08-03,2015-07-29 09:20:13.190504,Max LLC,Lipitor,9,10.14
-Iris,1967-09-30,2016-07-04 09:20:13.184596,West Solutions Signal Organization,Harry Potter book,37,11.24
-Tiana,1982-10-29,2016-07-17 09:20:13.188536,Adventure Atlantic Organization,iPhone,26,605.93
-Theron,1969-11-29,2016-06-30 09:20:13.187523,Interactive Incorporated,Thriller record,1,17.89
-Twila,1976-01-13,2016-07-13 09:20:13.190588,Resource Analysis Federated International,Rubik’s Cube,19,16.33
-Ashley,1978-12-10,2015-07-29 09:20:13.189794,Omega Federated Organization,PlayStation,38,283.63
-Harry,1981-02-28,2016-07-22 09:20:13.185660,Systems Solutions Innovation LLC,Lipitor,24,10.06
-Fannie,1979-04-22,2015-07-16 09:20:13.187565,Speed Bell Agency,iPhone,11,872.31
-Sonja,1983-10-15,2016-07-24 09:20:13.188146,Systems Telecom Federated Inc,Lipitor,45,10.51
-Jarrett,1996-09-26,2015-07-30 09:20:13.184641,Electronic Bell Organization,Star Wars,44,11.56
-Grace,1981-05-28,2016-07-16 09:20:13.185021,Hill Digital Systems Industries,Lipitor,50,10.36
-Viviana,1983-07-04,2016-07-14 09:20:13.186776,Star Agency,iPad,16,861.49
-Cole,1980-12-15,2016-07-21 09:20:13.185462,North Frontier Agency,banana,8,10.0
-Hipolito,1968-03-19,2016-07-07 09:20:13.188515,South Industries Industries,Lipitor,3,11.36
-Antoine,1982-03-26,2016-06-30 09:20:13.188995,Omega Industries Hardware LLC,banana,34,10.0
-Xavier,1975-12-31,2015-07-03 09:20:13.190000,North Industries,Lipitor,35,10.12
-Francis,1994-09-24,2015-07-02 09:20:13.190251,Technology Advanced Inc,iPhone,36,483.44
-Michal,1985-04-24,2016-06-30 09:20:13.188731,Omega Limited,iPhone,9,827.42
-Lorenzo,1974-01-25,2015-07-14 09:20:13.189274,Max Adventure Limited,Thriller record,11,10.66
-Brandon,1956-03-28,2015-07-10 09:20:13.189860,Design Corporation,Corolla,22,24935.1
-Alecia,1981-04-20,2016-07-14 09:20:13.190020,Power Alpha Organization,Thriller record,20,9.95
-Ignacio,1990-09-27,2015-07-23 09:20:13.185965,Network Systems Incorporated,PlayStation,8,231.59
-Gertrude,1968-07-19,2016-07-27 09:20:13.185574,Industries Inc,Star Wars,47,8.19
-Leroy,1984-08-20,2015-07-09 09:20:13.184852,Analysis Future Co,Rubik’s Cube,9,16.26
-Ollie,1969-02-23,2016-07-18 09:20:13.184731,Application Group,Corolla,1,23367.94
-Otha,1956-06-28,2015-07-23 09:20:13.189664,Provider Advanced Incorporated,iPhone,50,690.11
-Georgia,1984-11-28,2016-07-17 09:20:13.187190,Digital Internet Telecom Group,banana,36,10.0
-Lynnette,1952-12-26,2015-07-14 09:20:13.187834,Research Net Advanced Inc,iPhone,45,891.99
-Vernon,1986-05-19,2016-07-22 09:20:13.184619,Speed Co,Star Wars,39,8.69
-Bridget,1984-01-29,2016-07-18 09:20:13.187653,Studio Signal Building Limited,Rubik’s Cube,17,16.5
-Nannie,1972-12-26,2015-07-12 09:20:13.187698,Universal Net Inc,Star Wars,23,8.52
-Teri,1978-12-15,2016-07-04 09:20:13.190168,Internet Future East Agency,iPhone,25,874.66
-Griselda,1974-11-16,2016-07-14 09:20:13.187054,Net Systems Consulting Industries,iPhone,40,648.71
-Jane,1962-08-13,2015-07-16 09:20:13.186578,Consulting Building Incorporated,iPhone,41,528.46
-Lawrence,1982-09-28,2015-07-27 09:20:13.184223,Medicine Incorporated,Corolla,33,22397.67
-Randell,1987-06-09,2016-07-06 09:20:13.185185,Adventure Architecture Hill Incorporated,Harry Potter book,36,14.14
-Michal,1985-04-24,2016-06-30 09:20:13.188731,Omega Limited,Thriller record,5,8.85
-Boris,1987-05-27,2016-07-05 09:20:13.188862,Bell Galaxy Analysis LLC,iPhone,47,649.9
-Grant,1983-08-07,2016-07-11 09:20:13.187077,Industries Federated Telecom Corporation,banana,16,10.0
-Fabian,1982-08-22,2016-07-13 09:20:13.184134,Pacific Building Design Inc,banana,38,10.0
-Carlo,1978-01-22,2016-07-06 09:20:13.188274,People Research Organization,banana,6,10.0
-Guadalupe,1980-06-12,2016-07-11 09:20:13.186944,Telecom Star Technology Corporation,Corolla,16,22657.29
-Leroy,1984-08-20,2015-07-09 09:20:13.184852,Analysis Future Co,iPad,13,984.05
-Rudy,1961-10-31,2015-07-08 09:20:13.187433,Frontier Bell Group,Corolla,50,22380.54
-Logan,1968-08-14,2016-06-30 09:20:13.186464,Data Research Future Agency,Lipitor,13,11.19
-Alecia,1981-04-20,2016-07-14 09:20:13.190020,Power Alpha Organization,Star Wars,50,10.94
-Joanne,1977-12-06,2016-07-04 09:20:13.189644,Advanced Inc,Star Wars,25,8.4
-Pam,1982-04-06,2016-07-02 09:20:13.189122,Systems Corporation,Thriller record,41,13.64
-Milan,1978-06-09,2016-07-23 09:20:13.185090,Adventure Graphics International,Star Wars,27,8.81
-Brittany,1982-11-09,2016-07-21 09:20:13.186009,Hill Incorporated,iPhone,18,661.46
-Ashley,1978-12-10,2015-07-29 09:20:13.189794,Omega Federated Organization,Harry Potter book,5,21.94
-Latricia,1984-02-04,2016-07-12 09:20:13.190107,Studio Industries,Corolla,23,21863.99
-Viviana,1983-07-04,2016-07-14 09:20:13.186776,Star Agency,PlayStation,3,217.81
-Gussie,1973-11-11,2016-07-06 09:20:13.186709,Industries Incorporated,Lipitor,33,11.43
-Antony,1991-12-24,2015-07-14 09:20:13.186966,Building Incorporated,banana,41,10.0
-Dwight,1987-05-17,2016-07-20 09:20:13.184663,Design Incorporated,Corolla,13,23333.21
-Carissa,1980-09-29,2016-07-01 09:20:13.187213,Power Omega Organization,banana,38,10.0
-Pearline,1988-02-19,2015-07-10 09:20:13.185821,Innovation Resource West LLC,Thriller record,14,12.18
-Mandi,1982-06-05,2016-07-24 09:20:13.186397,North Atlantic Inc,Lipitor,14,11.3
-Leroy,1984-08-20,2015-07-09 09:20:13.184852,Analysis Future Co,Corolla,21,24526.61
-Freddie,1952-05-01,2015-07-09 09:20:13.184494,Analysis East Vision LLC,Corolla,33,21783.47
-Otha,1956-06-28,2015-07-23 09:20:13.189664,Provider Advanced Incorporated,Star Wars,32,9.98
-Boris,1987-05-27,2016-07-05 09:20:13.188862,Bell Galaxy Analysis LLC,banana,27,10.0
-Georgiana,1976-08-11,2015-07-26 09:20:13.190566,Source Virtual Digital Group,iPhone,39,528.73
-Harland,1982-12-15,2016-06-30 09:20:13.184824,Hardware Contract Vision Inc,Thriller record,7,8.65
-John,1976-03-19,2016-07-07 09:20:13.190397,Net Construction Industries,iPhone,20,850.59
-Hank,1978-11-07,2016-07-15 09:20:13.184267,Resource Star Signal LLC,PlayStation,14,264.95
-Darleen,1984-07-10,2016-07-08 09:20:13.190419,Alpha Co,Corolla,18,22154.09
-Norma,1984-09-11,2016-07-12 09:20:13.190524,Power Application Consulting International,Harry Potter book,4,23.02
-Dena,1969-11-27,2016-07-20 09:20:13.185160,Resource Design Pacific Co,Lipitor,9,11.27
-Lyndon,1995-07-16,2015-07-01 09:20:13.189476,Venture International,Thriller record,18,8.26
-Alton,1990-08-13,2015-07-09 09:20:13.186685,Network Net Organization,iPad,10,955.33
-Jillian,1973-11-09,2015-07-03 09:20:13.184427,Application People Agency,iPad,39,889.2
-Clarence,1978-04-14,2016-06-30 09:20:13.187278,Signal Net Inc,iPad,25,843.08
-Cody,1971-01-19,2016-07-12 09:20:13.188580,Provider Research LLC,banana,11,10.0
-Cheri,1975-07-24,2016-07-13 09:20:13.184884,Star Internet Limited,PlayStation,44,298.97
-Angelique,1998-01-24,2015-07-08 09:20:13.183872,Bell Group,banana,39,10.0
-Judi,1954-05-11,2015-07-22 09:20:13.189342,Hardware Limited,Lipitor,16,10.21
-Arnulfo,1974-10-17,2015-07-02 09:20:13.189538,Hardware Limited,banana,48,10.0
-Wilber,1966-11-06,2016-07-06 09:20:13.185918,Resource Virtual Electronics Organization,Corolla,28,24165.17
-Tiana,1982-10-29,2016-07-17 09:20:13.188536,Adventure Atlantic Organization,Lipitor,41,11.99
-Carmelo,1975-10-27,2015-07-17 09:20:13.184158,Net Hardware Technology Industries,Thriller record,39,10.52
-Elissa,1993-10-19,2015-07-12 09:20:13.184708,Internet North Industries,PlayStation,45,294.91
-Louella,1976-06-05,2016-07-06 09:20:13.184044,Hardware Inc,Corolla,1,23668.17
-Dena,1969-11-27,2016-07-20 09:20:13.185160,Resource Design Pacific Co,iPad,12,350.47
-Jeannie,1979-03-13,2016-07-20 09:20:13.184545,Medicine Architecture Vision Limited,Lipitor,42,11.56
-Fernando,1981-09-26,2016-07-20 09:20:13.187128,Frontier Industries,Rubik’s Cube,8,18.84
-Jarrett,1996-09-26,2015-07-30 09:20:13.184641,Electronic Bell Organization,Lipitor,31,10.99
-Brianna,1969-04-03,2016-07-15 09:20:13.188775,Federated Agency,Lipitor,50,10.15
-Antonia,1993-11-02,2015-07-29 09:20:13.185415,Innovation Systems Consulting Incorporated,Star Wars,25,9.98
-Joanne,1977-12-06,2016-07-04 09:20:13.189644,Advanced Inc,Rubik’s Cube,21,18.69
-Lawrence,1982-09-28,2015-07-27 09:20:13.184223,Medicine Incorporated,PlayStation,5,274.86
-Demarcus,1967-09-29,2016-07-25 09:20:13.186991,Graphics Data Agency,iPad,24,781.6
-Latricia,1984-02-04,2016-07-12 09:20:13.190107,Studio Industries,PlayStation,31,277.82
-Wilber,1966-11-06,2016-07-06 09:20:13.185918,Resource Virtual Electronics Organization,iPad,43,695.46
-Viviana,1983-07-04,2016-07-14 09:20:13.186776,Star Agency,iPad,6,937.95
-Trinidad,1982-06-28,2016-07-04 09:20:13.187148,Venture Inc,Lipitor,46,11.32
-Perla,1985-12-27,2015-07-19 09:20:13.190190,Studio South Agency,banana,43,10.0
-Jacques,1974-09-24,2016-07-27 09:20:13.186256,Contract Solutions Hill LLC,Lipitor,39,10.02
-Logan,1997-08-03,2015-07-29 09:20:13.190504,Max LLC,iPad,36,1027.38
-Ashley,1978-12-10,2015-07-29 09:20:13.189794,Omega Federated Organization,banana,33,10.0
-Mable,1975-06-12,2016-07-03 09:20:13.188124,Venture Research Industries,Thriller record,14,16.54
-Antonette,1986-05-02,2016-07-03 09:20:13.184402,Source Corporation,Harry Potter book,9,34.42
-Chadwick,1973-02-13,2016-07-16 09:20:13.185302,Federated Application Industries,Star Wars,13,8.84
-Clarence,1978-04-14,2016-06-30 09:20:13.187278,Signal Net Inc,Rubik’s Cube,23,17.98
-Samantha,1976-09-24,2015-07-07 09:20:13.189599,West Industries Corporation,Rubik’s Cube,3,18.79
-Donnie,1978-10-21,2016-07-11 09:20:13.188385,Network Organization,banana,9,10.0
-Alice,1971-04-06,2016-07-23 09:20:13.189622,South Future Hardware Organization,Thriller record,33,19.99
-Allison,1980-04-02,2016-07-14 09:20:13.186352,Galaxy Solutions Internet Co,iPhone,48,730.24
-Sallie,1980-10-03,2016-07-03 09:20:13.184473,Net Inc,Star Wars,18,10.83
-Delilah,1982-10-10,2016-07-17 09:20:13.187344,General North International,iPad,36,812.54
-Marlon,1971-08-07,2016-07-27 09:20:13.184112,Bell LLC,Corolla,43,20961.53
-Jane,1962-08-13,2015-07-16 09:20:13.186578,Consulting Building Incorporated,PlayStation,39,264.69
-Oliver,1966-02-24,2015-07-20 09:20:13.184290,Star East Venture Corporation,iPad,39,1013.42
-Malissa,1971-04-26,2015-07-09 09:20:13.187299,Net Hill Max Industries,Star Wars,5,11.53
-Demarcus,1967-09-29,2016-07-25 09:20:13.186991,Graphics Data Agency,Rubik’s Cube,33,16.08
-Paulina,1970-11-05,2016-07-16 09:20:13.188710,Design Star Agency,Harry Potter book,13,15.58
-Roxanna,1977-11-10,2016-07-10 09:20:13.189187,Provider Industries East Co,Corolla,8,20779.98
-Cruz,1982-10-18,2016-07-26 09:20:13.186922,Software Star LLC,Thriller record,9,15.99
-Vicky,1970-01-25,2016-07-11 09:20:13.188906,Net Omega Alpha Incorporated,iPhone,47,772.22
-Jeannie,1979-03-13,2016-07-20 09:20:13.184545,Medicine Architecture Vision Limited,Lipitor,13,11.3
-Twila,1976-01-13,2016-07-13 09:20:13.190588,Resource Analysis Federated International,Harry Potter book,47,18.41
-Porter,1980-11-05,2016-07-28 09:20:13.184450,Omega Advanced Group,Rubik’s Cube,35,17.39
-Tessa,1967-05-04,2016-07-21 09:20:13.189431,Software Architecture Organization,banana,10,10.0
-Mack,1974-11-09,2016-07-10 09:20:13.184181,Resource Corporation,Lipitor,12,11.94
-Jodie,1955-11-27,2015-07-14 09:20:13.185551,Virtual International,iPad,33,459.35
-Augustus,1982-12-12,2016-07-27 09:20:13.186279,Technology Organization,Thriller record,16,16.76
-Carlo,1978-01-22,2016-07-06 09:20:13.188274,People Research Organization,banana,38,10.0
-Celina,1978-01-12,2016-07-03 09:20:13.188081,Omega Incorporated,Lipitor,22,11.44
-Caroline,1965-03-02,2015-07-13 09:20:13.186304,Contract Graphics Speed Corporation,Rubik’s Cube,22,16.05
-Claudine,1993-01-07,2015-07-26 09:20:13.184360,Star Limited,banana,11,10.0
-Gustavo,1957-11-10,2015-07-22 09:20:13.184089,Contract Electronics LLC,iPad,25,354.52
-Fannie,1979-04-22,2015-07-16 09:20:13.187565,Speed Bell Agency,Corolla,12,23894.35
-Una,1986-01-15,2016-07-26 09:20:13.186623,Studio Organization,Harry Potter book,25,16.07
-Rob,1991-01-11,2015-07-30 09:20:13.187235,Design Group,iPhone,7,757.58
-Richard,1963-03-20,2015-07-05 09:20:13.184931,Construction Industries,Thriller record,48,11.69
-Marybeth,1982-09-25,2016-07-04 09:20:13.187544,People Group,Corolla,46,21715.11
-Lisa,1967-04-28,2016-07-09 09:20:13.185639,Net International,Lipitor,11,11.24
-Lyndon,1995-07-16,2015-07-01 09:20:13.189476,Venture International,Lipitor,22,11.51
-Mathew,1982-01-25,2016-07-19 09:20:13.188646,Construction Group,Star Wars,44,8.67
-Rudy,1961-10-31,2015-07-08 09:20:13.187433,Frontier Bell Group,Corolla,41,20150.8
-Jillian,1973-11-09,2015-07-03 09:20:13.184427,Application People Agency,Lipitor,45,11.85
-Antonia,1993-11-02,2015-07-29 09:20:13.185415,Innovation Systems Consulting Incorporated,Rubik’s Cube,34,18.57
-Alfonzo,1974-10-07,2016-07-05 09:20:13.185439,Hardware West Incorporated,Thriller record,7,11.56
-Roxanna,1977-11-10,2016-07-10 09:20:13.189187,Provider Industries East Co,Corolla,47,24165.07
-Annetta,1980-03-03,2016-07-02 09:20:13.185844,Digital Source Solutions Co,Harry Potter book,3,15.48
-Tiana,1982-10-29,2016-07-17 09:20:13.188536,Adventure Atlantic Organization,Corolla,30,23031.75
-Grant,1983-08-07,2016-07-11 09:20:13.187077,Industries Federated Telecom Corporation,Harry Potter book,25,14.5
-Franklin,1984-05-06,2016-07-06 09:20:13.188601,Virtual Adventure Industries,iPhone,7,504.93
-Porter,1987-08-05,2015-07-04 09:20:13.188168,Galaxy LLC,Corolla,38,24696.08
-Whitney,1979-07-01,2015-07-06 09:20:13.187767,Star East Network Incorporated,Thriller record,36,12.22
-Darnell,1982-05-25,2016-07-04 09:20:13.190231,Net Solutions International,iPhone,16,739.26
-Rosario,1986-07-20,2016-07-13 09:20:13.188406,General Architecture Limited,Thriller record,7,13.84
-Gustavo,1957-11-10,2015-07-22 09:20:13.184089,Contract Electronics LLC,Harry Potter book,21,27.72
-Pam,1982-04-06,2016-07-02 09:20:13.189122,Systems Corporation,Star Wars,46,9.82
-Alton,1990-08-13,2015-07-09 09:20:13.186685,Network Net Organization,iPhone,2,494.41
-Howard,1986-07-28,2015-07-21 09:20:13.187103,Net Hardware Inc,Star Wars,4,9.65
-Humberto,1967-04-29,2015-07-12 09:20:13.188884,North Hardware Limited,Rubik’s Cube,11,18.25
-Reid,1952-04-30,2015-07-12 09:20:13.186030,Alpha Building Inc,Star Wars,40,10.83
-Jeanine,1972-05-11,2015-07-07 09:20:13.186442,East Systems Corporation,PlayStation,5,261.63
-Jerrold,1980-04-04,2015-07-07 09:20:13.190377,Hardware Net International,Thriller record,2,12.95
-Jodie,1955-11-27,2015-07-14 09:20:13.185551,Virtual International,iPad,2,861.26
-Delores,1957-07-22,2015-07-19 09:20:13.189145,Galaxy Network Group,Corolla,10,23515.84
-Lou,1983-03-19,2016-07-11 09:20:13.189099,Industries Internet Telecom LLC,banana,46,10.0
-Boris,1987-05-27,2016-07-05 09:20:13.188862,Bell Galaxy Analysis LLC,Thriller record,33,19.89
-Michal,1985-04-24,2016-06-30 09:20:13.188731,Omega Limited,iPhone,49,510.95
-Belen,1984-04-15,2016-07-02 09:20:13.186730,Signal Universal North Corporation,banana,43,10.0
-Candi,1978-12-31,2016-06-30 09:20:13.184001,Contract Co,iPhone,50,490.65
-Chase,1985-01-16,2016-07-05 09:20:13.185730,West Atlantic Agency,iPhone,46,664.7
-Geraldo,1973-02-20,2015-07-29 09:20:13.188689,Star Adventure Industries,Star Wars,37,10.25
-Dominick,1984-08-26,2016-07-10 09:20:13.187744,Network West LLC,iPhone,10,881.93
-Ronny,1976-06-03,2016-07-28 09:20:13.185707,Galaxy Design Agency,Harry Potter book,13,18.32
-Sandi,1978-06-21,2016-07-23 09:20:13.187389,General Vision Venture Incorporated,iPhone,49,547.96
-Becky,1975-08-13,2016-07-28 09:20:13.190211,Consulting Industries,PlayStation,9,267.04
-Leroy,1984-08-20,2015-07-09 09:20:13.184852,Analysis Future Co,PlayStation,23,233.77
-Chase,1985-01-16,2016-07-05 09:20:13.185730,West Atlantic Agency,Harry Potter book,18,25.41
-Annetta,1980-03-03,2016-07-02 09:20:13.185844,Digital Source Solutions Co,Lipitor,15,11.22
-Bernardo,1986-08-17,2016-07-12 09:20:13.187861,Provider LLC,Lipitor,12,10.83
-Claudine,1993-01-07,2015-07-26 09:20:13.184360,Star Limited,iPhone,11,586.55
-Xavier,1975-12-31,2015-07-03 09:20:13.190000,North Industries,Rubik’s Cube,23,17.7
-Maricela,1954-03-05,2015-07-21 09:20:13.185348,Systems Group,iPad,2,574.41
-Porter,1980-11-05,2016-07-28 09:20:13.184450,Omega Advanced Group,iPad,38,556.86
-Guadalupe,1980-06-12,2016-07-11 09:20:13.186944,Telecom Star Technology Corporation,Harry Potter book,6,30.94
-Jamaal,1952-07-24,2015-07-14 09:20:13.190439,Federated Studio Digital Corporation,PlayStation,40,243.39
-Esteban,1968-09-27,2016-07-10 09:20:13.185988,People Co,iPhone,26,661.24
-Logan,1968-08-14,2016-06-30 09:20:13.186464,Data Research Future Agency,Thriller record,39,11.19
-Manuela,1987-05-21,2016-07-09 09:20:13.184976,Consulting Speed Provider Group,PlayStation,17,274.23
-Jillian,1973-11-09,2015-07-03 09:20:13.184427,Application People Agency,Lipitor,24,10.23
-Calvin,1980-01-23,2016-07-24 09:20:13.185775,South Group,PlayStation,8,289.66
-Earle,1971-07-11,2016-07-18 09:20:13.189557,Graphics Application Inc,iPhone,9,748.26
-Marcella,1971-08-07,2016-07-06 09:20:13.187790,General Research Inc,Lipitor,8,11.72
-Odessa,1969-04-17,2015-07-08 09:20:13.185484,Systems Star Limited,Rubik’s Cube,19,17.03
-Rose,1980-11-15,2016-07-14 09:20:13.190355,Electronics South International,iPhone,10,517.91
-Candi,1994-09-30,2015-07-27 09:20:13.185683,Venture West Hardware Corporation,Star Wars,14,8.48
-Una,1986-01-15,2016-07-26 09:20:13.186623,Studio Organization,Rubik’s Cube,41,16.6
-Milo,1986-06-06,2016-07-12 09:20:13.189711,Electronic Industries,Corolla,37,21914.69
-Antonia,1993-11-02,2015-07-29 09:20:13.185415,Innovation Systems Consulting Incorporated,Rubik’s Cube,34,16.58
-Suzette,1974-10-28,2015-07-05 09:20:13.185000,People Corporation,Thriller record,11,13.09
-Geraldo,1998-04-09,2015-07-02 09:20:13.187905,General Industries Organization,Harry Potter book,26,7.7
-Rupert,1979-05-07,2016-07-14 09:20:13.190481,Innovation Incorporated,banana,47,10.0
-Sara,1952-04-30,2015-07-30 09:20:13.189935,Federated Solutions Source Inc,Star Wars,31,9.36
-Pearline,1988-02-19,2015-07-10 09:20:13.185821,Innovation Resource West LLC,banana,24,10.0
-Jerrold,1980-04-04,2015-07-07 09:20:13.190377,Hardware Net International,Rubik’s Cube,43,18.54
-Retha,1977-09-01,2016-07-03 09:20:13.189368,Bell Incorporated,iPad,39,949.07
-Zackary,1981-06-03,2015-07-22 09:20:13.186164,Source Agency,iPad,1,350.01
-Shanda,1985-06-10,2015-07-29 09:20:13.185618,Technology International,banana,33,10.0
-Hiram,1996-03-17,2015-07-25 09:20:13.184022,Virtual Group,Thriller record,2,11.46
-Tommie,1987-02-01,2016-07-08 09:20:13.185529,Pacific Incorporated,banana,7,10.0
-Darleen,1984-07-10,2016-07-08 09:20:13.190419,Alpha Co,Rubik’s Cube,38,17.99
-Michal,1985-04-24,2016-06-30 09:20:13.188731,Omega Limited,Harry Potter book,47,31.58
-Harry,1969-09-14,2016-07-28 09:20:13.189816,Direct Data Industries,Lipitor,32,10.89
-Matilde,1979-02-04,2016-07-25 09:20:13.186141,Galaxy Building Star LLC,Thriller record,10,8.02
-Pam,1982-04-06,2016-07-02 09:20:13.189122,Systems Corporation,Corolla,41,23074.29
-Bridget,1984-01-29,2016-07-18 09:20:13.187653,Studio Signal Building Limited,Star Wars,33,11.9
-Samual,1967-12-03,2016-07-19 09:20:13.189167,Architecture Co,banana,13,10.0
-Humberto,1967-04-29,2015-07-12 09:20:13.188884,North Hardware Limited,Thriller record,13,19.1
-Malissa,1971-04-26,2015-07-09 09:20:13.187299,Net Hill Max Industries,Star Wars,6,9.17
-Charlie,1982-06-17,2016-07-05 09:20:13.188973,Max Telecom General Group,Corolla,3,24571.54
-Adell,1976-09-07,2015-07-20 09:20:13.185068,Electronic Analysis Corporation,Lipitor,39,10.1
-Terrell,1997-10-31,2015-07-13 09:20:13.186901,Source Corporation,iPad,1,630.44
-Lillian,1978-01-16,2016-07-03 09:20:13.188252,Federated International,Lipitor,39,11.28
-Jerrold,1980-04-04,2015-07-07 09:20:13.190377,Hardware Net International,Rubik’s Cube,35,16.0
-Guadalupe,1980-06-12,2016-07-11 09:20:13.186944,Telecom Star Technology Corporation,Corolla,1,24398.57
-Jefferson,1975-04-04,2016-07-24 09:20:13.188452,Telecom Agency,Corolla,37,23932.39
-Edgardo,1977-07-03,2016-07-01 09:20:13.190086,Software General Group,Star Wars,47,10.85
-Cody,1971-01-19,2016-07-12 09:20:13.188580,Provider Research LLC,Thriller record,49,12.43
-Antione,1961-11-22,2015-07-15 09:20:13.184779,Advanced Pacific Industries,Corolla,13,21998.13
-Erasmo,1981-10-28,2016-07-21 09:20:13.189752,Solutions Organization,Thriller record,47,9.41
-Rose,1980-11-15,2016-07-14 09:20:13.190355,Electronics South International,Star Wars,1,8.61
-Demarcus,1967-09-29,2016-07-25 09:20:13.186991,Graphics Data Agency,Star Wars,7,9.26
-Romona,1973-04-27,2016-07-26 09:20:13.184381,Solutions Industries,banana,37,10.0
-Katherine,1979-11-10,2016-07-21 09:20:13.186842,Internet Future Technology Group,Star Wars,47,11.8
-Pierre,1982-07-27,2016-07-25 09:20:13.188208,Virtual Internet South Organization,Lipitor,10,10.91
-Reid,1952-04-30,2015-07-12 09:20:13.186030,Alpha Building Inc,banana,9,10.0
-Gertie,1979-01-16,2016-07-03 09:20:13.189688,Design Electronics Omega Industries,Corolla,18,21844.97
-Pearline,1988-02-19,2015-07-10 09:20:13.185821,Innovation Resource West LLC,Rubik’s Cube,12,17.33
-Odessa,1969-04-17,2015-07-08 09:20:13.185484,Systems Star Limited,iPhone,25,479.67
-Charles,1986-12-19,2015-07-12 09:20:13.188559,Hill Future Agency,Rubik’s Cube,43,16.15
-Alice,1971-04-06,2016-07-23 09:20:13.189622,South Future Hardware Organization,iPhone,43,423.45
-Otha,1956-06-28,2015-07-23 09:20:13.189664,Provider Advanced Incorporated,PlayStation,5,244.23
-Louella,1976-06-05,2016-07-06 09:20:13.184044,Hardware Inc,Star Wars,9,8.21
-Charles,1986-12-19,2015-07-12 09:20:13.188559,Hill Future Agency,Harry Potter book,27,22.18
-Christopher,1980-08-01,2016-07-28 09:20:13.187455,Virtual Application Inc,iPad,6,625.67
-Ryan,1971-10-22,2016-07-16 09:20:13.190148,Future Organization,Harry Potter book,28,8.64
-Mack,1974-11-09,2016-07-10 09:20:13.184181,Resource Corporation,Rubik’s Cube,45,16.59
-Suzette,1974-10-28,2015-07-05 09:20:13.185000,People Corporation,Rubik’s Cube,10,16.3
-Antoine,1982-03-26,2016-06-30 09:20:13.188995,Omega Industries Hardware LLC,iPhone,8,524.97
-Logan,1965-09-16,2015-07-29 09:20:13.188752,Systems Provider Electronics Inc,Thriller record,10,19.32
-Jefferson,1975-04-04,2016-07-24 09:20:13.188452,Telecom Agency,iPad,43,579.29
-Melvin,1987-05-08,2016-07-21 09:20:13.184065,Studio Graphics Direct Industries,PlayStation,35,263.32
-Ashley,1978-12-10,2015-07-29 09:20:13.189794,Omega Federated Organization,Star Wars,10,11.28
-Ella,1958-01-20,2015-07-03 09:20:13.190064,Graphics Pacific Organization,banana,41,10.0
-Ignacio,1990-09-27,2015-07-23 09:20:13.185965,Network Systems Incorporated,Thriller record,23,17.07
-Lyndon,1995-07-16,2015-07-01 09:20:13.189476,Venture International,Star Wars,32,11.4
-Jamaal,1952-07-24,2015-07-14 09:20:13.190439,Federated Studio Digital Corporation,Star Wars,27,11.81
-Franklin,1984-05-06,2016-07-06 09:20:13.188601,Virtual Adventure Industries,Corolla,21,22078.6
-Leticia,1976-05-20,2016-07-02 09:20:13.185507,Graphics Atlantic Co,Rubik’s Cube,10,15.93
-Hiram,1996-03-17,2015-07-25 09:20:13.184022,Virtual Group,Rubik’s Cube,21,16.86
-Donnie,1978-10-21,2016-07-11 09:20:13.188385,Network Organization,Thriller record,21,9.93
-Charlie,1982-06-17,2016-07-05 09:20:13.188973,Max Telecom General Group,iPad,30,471.53
-Miriam,1977-08-10,2016-07-14 09:20:13.187811,Power Internet Digital LLC,Lipitor,5,11.17
-Janette,1975-11-02,2016-07-21 09:20:13.186533,Technology Innovation Bell Organization,Lipitor,30,11.4
-Houston,1984-02-11,2016-07-12 09:20:13.190041,East Electronic Resource Incorporated,banana,20,10.0
-Gertrude,1968-07-19,2016-07-27 09:20:13.185574,Industries Inc,iPhone,33,571.94
-Randell,1987-06-09,2016-07-06 09:20:13.185185,Adventure Architecture Hill Incorporated,Star Wars,38,11.26
-Ella,1958-01-20,2015-07-03 09:20:13.190064,Graphics Pacific Organization,iPad,5,938.69
-Angelique,1982-09-05,2016-07-21 09:20:13.186797,Net Provider West Group,Corolla,27,23273.99
-Franklin,1984-05-06,2016-07-06 09:20:13.188601,Virtual Adventure Industries,Harry Potter book,2,18.49
-Ella,1958-01-20,2015-07-03 09:20:13.190064,Graphics Pacific Organization,Harry Potter book,43,21.93
-Marion,1982-05-06,2016-07-23 09:20:13.184337,Design People Organization,iPad,18,380.99
-Andrea,1981-09-18,2016-07-12 09:20:13.185325,Vision Interactive Design International,iPhone,40,638.02
-Antony,1991-12-24,2015-07-14 09:20:13.186966,Building Incorporated,Thriller record,38,8.86
-Noe,1996-03-01,2015-07-24 09:20:13.188623,Pacific Atlantic Architecture LLC,Star Wars,33,9.65
-Bernardo,1984-01-25,2016-07-21 09:20:13.190294,Net Incorporated,Lipitor,43,11.45
-Anthony,1970-03-08,2015-07-04 09:20:13.188363,Analysis North Industries,Lipitor,43,10.55
-Mack,1974-11-09,2016-07-10 09:20:13.184181,Resource Corporation,banana,33,10.0
-Margarita,1985-03-25,2015-07-17 09:20:13.185752,Software Future LLC,Corolla,29,20687.4
-Boris,1987-05-27,2016-07-05 09:20:13.188862,Bell Galaxy Analysis LLC,banana,14,10.0
-Georgia,1973-09-19,2016-07-03 09:20:13.186600,Application Advanced Star Group,PlayStation,45,236.69
-Stephan,1987-03-12,2016-07-09 09:20:13.184684,Construction Net Venture Organization,Thriller record,11,12.25
-Judi,1954-05-11,2015-07-22 09:20:13.189342,Hardware Limited,iPhone,33,725.21
-Richard,1963-03-20,2015-07-05 09:20:13.184931,Construction Industries,Star Wars,20,9.56
-Lyndon,1995-07-16,2015-07-01 09:20:13.189476,Venture International,banana,34,10.0
-Ethel,1956-09-18,2015-07-04 09:20:13.189077,Solutions Analysis Electronic LLC,Corolla,24,24685.28
-Cameron,1968-02-04,2015-07-27 09:20:13.188101,Venture Solutions Telecom Limited,Lipitor,7,10.0
-Demarcus,1967-09-29,2016-07-25 09:20:13.186991,Graphics Data Agency,iPhone,10,592.06
-Christopher,1980-08-01,2016-07-28 09:20:13.187455,Virtual Application Inc,Lipitor,28,10.63
-Miriam,1977-08-10,2016-07-14 09:20:13.187811,Power Internet Digital LLC,iPhone,41,776.37
-Belen,1984-04-15,2016-07-02 09:20:13.186730,Signal Universal North Corporation,banana,8,10.0
-Twila,1976-01-13,2016-07-13 09:20:13.190588,Resource Analysis Federated International,Star Wars,46,9.64
-Rupert,1979-05-07,2016-07-14 09:20:13.190481,Innovation Incorporated,Corolla,26,24381.51
-Rosalyn,1959-08-24,2015-07-25 09:20:13.188493,Federated Adventure Limited,Thriller record,7,10.06
-Graciela,1993-03-26,2015-07-01 09:20:13.185136,South Interactive Technology Agency,banana,47,10.0
-Vada,1982-10-03,2016-07-12 09:20:13.189317,Network Net Bell Inc,Thriller record,7,19.52
-Ryan,1971-10-22,2016-07-16 09:20:13.190148,Future Organization,Thriller record,6,14.26
-Napoleon,1962-03-19,2015-07-22 09:20:13.186097,Data Technology Industries,Harry Potter book,35,15.55
-Chadwick,1973-02-13,2016-07-16 09:20:13.185302,Federated Application Industries,Rubik’s Cube,23,15.18
-Donnie,1978-10-21,2016-07-11 09:20:13.188385,Network Organization,Thriller record,17,15.67
-Chadwick,1969-04-28,2015-07-14 09:20:13.187168,Data Galaxy Source Corporation,Lipitor,45,11.25
-Janette,1975-11-02,2016-07-21 09:20:13.186533,Technology Innovation Bell Organization,banana,14,10.0
-Jodie,1955-11-27,2015-07-14 09:20:13.185551,Virtual International,Thriller record,30,9.09
-Marion,1985-02-17,2016-07-26 09:20:13.187720,Data Solutions Incorporated,iPhone,17,847.61
-Leticia,1976-05-20,2016-07-02 09:20:13.185507,Graphics Atlantic Co,Harry Potter book,46,10.28
-Erasmo,1981-10-28,2016-07-21 09:20:13.189752,Solutions Organization,iPhone,1,687.33
-Nelson,1978-07-18,2016-07-02 09:20:13.185798,Alpha Incorporated,Thriller record,45,17.59
-Porter,1987-08-05,2015-07-04 09:20:13.188168,Galaxy LLC,Star Wars,17,8.62
-Lyndon,1995-07-16,2015-07-01 09:20:13.189476,Venture International,iPad,10,452.5
-Cody,1971-01-19,2016-07-12 09:20:13.188580,Provider Research LLC,Corolla,47,22951.65
-Elissa,1993-10-19,2015-07-12 09:20:13.184708,Internet North Industries,Rubik’s Cube,12,16.64
-Jordon,1979-05-23,2016-07-01 09:20:13.189978,Atlantic Architecture Solutions Organization,iPhone,42,625.98
-Teri,1978-12-15,2016-07-04 09:20:13.190168,Internet Future East Agency,Thriller record,37,11.54
-Philomena,1999-06-03,2015-07-13 09:20:13.186755,Graphics Organization,PlayStation,3,261.57
-Louella,1976-06-05,2016-07-06 09:20:13.184044,Hardware Inc,Lipitor,48,11.49
-Gertrude,1968-07-19,2016-07-27 09:20:13.185574,Industries Inc,Rubik’s Cube,48,17.33
-Jarrett,1996-09-26,2015-07-30 09:20:13.184641,Electronic Bell Organization,Corolla,29,24664.09
-Wiley,1983-02-24,2016-07-27 09:20:13.185045,Net Galaxy Technology International,Star Wars,24,10.36
-Candace,1977-08-06,2016-06-30 09:20:13.183906,Contract Virtual Group,Thriller record,34,13.0
-Rob,1991-01-11,2015-07-30 09:20:13.187235,Design Group,Harry Potter book,39,9.99
-Laurence,1952-06-05,2015-07-11 09:20:13.188297,Software Net Medicine Organization,Corolla,16,20955.4
-Dena,1969-11-27,2016-07-20 09:20:13.185160,Resource Design Pacific Co,Star Wars,12,11.66
-Rose,1980-11-15,2016-07-14 09:20:13.190355,Electronics South International,Harry Potter book,33,29.55
-Jerrold,1980-04-04,2015-07-07 09:20:13.190377,Hardware Net International,iPad,37,1088.72
-Mathew,1982-01-25,2016-07-19 09:20:13.188646,Construction Group,Rubik’s Cube,29,15.54
-Jordon,1979-05-23,2016-07-01 09:20:13.189978,Atlantic Architecture Solutions Organization,iPad,17,671.13
-John,1976-03-19,2016-07-07 09:20:13.190397,Net Construction Industries,Harry Potter book,23,29.22
-Alexandria,1979-09-13,2016-07-10 09:20:13.189914,Max Frontier Analysis International,banana,35,10.0
-Joanne,1977-12-06,2016-07-04 09:20:13.189644,Advanced Inc,iPad,5,501.7
-Katherine,1980-02-11,2016-07-03 09:20:13.186556,People International,Thriller record,29,17.91
-Gussie,1973-11-11,2016-07-06 09:20:13.186709,Industries Incorporated,Rubik’s Cube,48,17.21
-Whitney,1979-07-01,2015-07-06 09:20:13.187767,Star East Network Incorporated,iPhone,17,715.24
-Laurence,1985-11-11,2016-07-18 09:20:13.184202,Medicine Inc,Rubik’s Cube,21,18.48
-Harland,1982-12-15,2016-06-30 09:20:13.184824,Hardware Contract Vision Inc,Thriller record,46,15.19
-Judi,1954-05-11,2015-07-22 09:20:13.189342,Hardware Limited,Corolla,29,23070.07
-Samantha,1976-09-24,2015-07-07 09:20:13.189599,West Industries Corporation,Rubik’s Cube,10,15.07
-Darleen,1984-07-10,2016-07-08 09:20:13.190419,Alpha Co,iPad,43,1092.36
-Mack,1974-11-09,2016-07-10 09:20:13.184181,Resource Corporation,Star Wars,4,11.8
-Trinidad,1982-06-28,2016-07-04 09:20:13.187148,Venture Inc,Star Wars,29,11.05
-Porter,1987-08-05,2015-07-04 09:20:13.188168,Galaxy LLC,Rubik’s Cube,4,15.76
-Perla,1985-12-27,2015-07-19 09:20:13.190190,Studio South Agency,banana,19,10.0
-Antonia,1993-11-02,2015-07-29 09:20:13.185415,Innovation Systems Consulting Incorporated,Corolla,39,20281.65
-Paulina,1970-11-05,2016-07-16 09:20:13.188710,Design Star Agency,Harry Potter book,8,32.83
-Paige,1979-10-26,2016-07-05 09:20:13.185114,Medicine Technology Group,Lipitor,39,10.68
-Teri,1978-12-15,2016-07-04 09:20:13.190168,Internet Future East Agency,Star Wars,15,10.03
-Ryan,1971-10-22,2016-07-16 09:20:13.190148,Future Organization,Star Wars,13,10.89
-Ronny,1976-06-03,2016-07-28 09:20:13.185707,Galaxy Design Agency,Rubik’s Cube,24,18.46
-Georgiana,1976-08-11,2015-07-26 09:20:13.190566,Source Virtual Digital Group,Rubik’s Cube,5,15.13
-Annetta,1980-03-03,2016-07-02 09:20:13.185844,Digital Source Solutions Co,PlayStation,1,201.07
-Manuela,1987-05-21,2016-07-09 09:20:13.184976,Consulting Speed Provider Group,Lipitor,43,10.62
-Ella,1958-01-20,2015-07-03 09:20:13.190064,Graphics Pacific Organization,Rubik’s Cube,22,17.38
-Terrell,1997-10-31,2015-07-13 09:20:13.186901,Source Corporation,Star Wars,36,8.69
-Marvin,1990-11-25,2015-07-11 09:20:13.185278,Analysis Medicine Agency,PlayStation,34,215.93
-Darell,1977-09-08,2016-07-19 09:20:13.186419,Design Internet Galaxy Corporation,PlayStation,35,236.99
-Stephan,1987-03-12,2016-07-09 09:20:13.184684,Construction Net Venture Organization,Lipitor,19,10.69
-Dawna,1976-06-26,2015-07-23 09:20:13.186375,Interactive Agency,Harry Potter book,17,20.48
-Cruz,1982-10-18,2016-07-26 09:20:13.186922,Software Star LLC,banana,32,10.0
-Adell,1976-09-07,2015-07-20 09:20:13.185068,Electronic Analysis Corporation,Star Wars,43,9.44
-Pierre,1982-07-27,2016-07-25 09:20:13.188208,Virtual Internet South Organization,Thriller record,16,15.87
-Reid,1952-04-30,2015-07-12 09:20:13.186030,Alpha Building Inc,iPhone,34,825.38
-Tera,1980-09-06,2016-07-17 09:20:13.190545,Atlantic Digital Agency,iPhone,46,825.3
-Becky,1975-08-13,2016-07-28 09:20:13.190211,Consulting Industries,banana,6,10.0
-Paige,1979-10-26,2016-07-05 09:20:13.185114,Medicine Technology Group,Corolla,39,24732.51
-Rupert,1979-05-07,2016-07-14 09:20:13.190481,Innovation Incorporated,banana,48,10.0
-Terrell,1997-10-31,2015-07-13 09:20:13.186901,Source Corporation,iPad,9,686.05
-Tristan,1987-03-03,2016-07-26 09:20:13.188016,Construction Co,Rubik’s Cube,11,17.19
-Guadalupe,1980-06-12,2016-07-11 09:20:13.186944,Telecom Star Technology Corporation,Corolla,4,24018.03
-Lawrence,1982-09-28,2015-07-27 09:20:13.184223,Medicine Incorporated,Harry Potter book,13,21.2
-Kay,1972-07-20,2016-07-10 09:20:13.187322,Building Future Software Organization,Thriller record,4,17.42
-Belen,1984-04-15,2016-07-02 09:20:13.186730,Signal Universal North Corporation,Harry Potter book,9,31.92
-Brock,1977-12-27,2016-07-18 09:20:13.185943,North Incorporated,Harry Potter book,16,16.06
-Reid,1952-04-30,2015-07-12 09:20:13.186030,Alpha Building Inc,Star Wars,44,10.88
-Dawna,1976-06-26,2015-07-23 09:20:13.186375,Interactive Agency,Thriller record,34,10.21
-Alexandria,1979-09-13,2016-07-10 09:20:13.189914,Max Frontier Analysis International,Harry Potter book,15,15.3
-Tobias,1984-08-30,2016-07-22 09:20:13.189253,Electronic Hill Industries,iPad,8,680.87
-Adell,1976-09-07,2015-07-20 09:20:13.185068,Electronic Analysis Corporation,iPad,21,866.69
-Jodie,1955-11-27,2015-07-14 09:20:13.185551,Virtual International,Harry Potter book,35,31.62
-Rosario,1986-07-20,2016-07-13 09:20:13.188406,General Architecture Limited,Star Wars,28,8.6
-Paulina,1970-11-05,2016-07-16 09:20:13.188710,Design Star Agency,banana,41,10.0
-Ryan,1971-10-22,2016-07-16 09:20:13.190148,Future Organization,Lipitor,50,10.79
-Harland,1982-12-15,2016-06-30 09:20:13.184824,Hardware Contract Vision Inc,Harry Potter book,23,26.94
-Esmeralda,1963-05-27,2015-07-16 09:20:13.190313,Advanced Adventure Inc,Corolla,34,20691.15
-Sara,1952-04-30,2015-07-30 09:20:13.189935,Federated Solutions Source Inc,Rubik’s Cube,10,18.64
-Terrell,1997-10-31,2015-07-13 09:20:13.186901,Source Corporation,iPad,49,365.44
-Zackary,1981-06-03,2015-07-22 09:20:13.186164,Source Agency,Lipitor,18,10.16
-Rosario,1986-07-20,2016-07-13 09:20:13.188406,General Architecture Limited,Rubik’s Cube,3,15.13
-Esteban,1968-09-27,2016-07-10 09:20:13.185988,People Co,Lipitor,17,11.39
-Selena,1985-12-11,2016-07-22 09:20:13.185392,Hardware Omega Direct Industries,iPhone,22,739.3
-Antonia,1993-11-02,2015-07-29 09:20:13.185415,Innovation Systems Consulting Incorporated,Corolla,42,20929.58
-Francesco,1977-12-22,2016-07-27 09:20:13.184801,Alpha East LLC,Harry Potter book,44,27.59
-Christopher,1980-08-01,2016-07-28 09:20:13.187455,Virtual Application Inc,Rubik’s Cube,3,18.01
-Lou,1983-03-19,2016-07-11 09:20:13.189099,Industries Internet Telecom LLC,Corolla,43,23785.89
-Franklin,1984-05-06,2016-07-06 09:20:13.188601,Virtual Adventure Industries,Rubik’s Cube,8,15.37
-Andrea,1981-09-18,2016-07-12 09:20:13.185325,Vision Interactive Design International,iPhone,5,897.82
-Adell,1976-09-07,2015-07-20 09:20:13.185068,Electronic Analysis Corporation,Lipitor,46,10.59
-Antonia,1993-11-02,2015-07-29 09:20:13.185415,Innovation Systems Consulting Incorporated,Rubik’s Cube,18,15.78
-Ollie,1969-02-23,2016-07-18 09:20:13.184731,Application Group,banana,21,10.0
-Leisa,1978-01-25,2016-07-17 09:20:13.188795,General Federated Vision Inc,Lipitor,32,11.82
-Caroline,1965-03-02,2015-07-13 09:20:13.186304,Contract Graphics Speed Corporation,Star Wars,10,9.04
-Delores,1957-07-22,2015-07-19 09:20:13.189145,Galaxy Network Group,banana,21,10.0
-Tobias,1984-08-30,2016-07-22 09:20:13.189253,Electronic Hill Industries,Lipitor,42,10.12
-Cole,1980-12-15,2016-07-21 09:20:13.185462,North Frontier Agency,Rubik’s Cube,5,16.07
-Laurence,1952-06-05,2015-07-11 09:20:13.188297,Software Net Medicine Organization,Harry Potter book,38,12.1
-Coleen,1978-11-17,2016-07-10 09:20:13.188667,Max Consulting Industries,Lipitor,36,10.62
-Melvin,1987-05-08,2016-07-21 09:20:13.184065,Studio Graphics Direct Industries,Harry Potter book,39,29.65
-Demarcus,1967-09-29,2016-07-25 09:20:13.186991,Graphics Data Agency,iPad,42,883.49
-Mack,1974-11-09,2016-07-10 09:20:13.184181,Resource Corporation,Harry Potter book,47,10.29
-Alton,1990-08-13,2015-07-09 09:20:13.186685,Network Net Organization,Corolla,46,23266.97
-Una,1986-01-15,2016-07-26 09:20:13.186623,Studio Organization,Thriller record,4,15.38
-Harry,1969-09-14,2016-07-28 09:20:13.189816,Direct Data Industries,PlayStation,44,243.35
-Clement,1969-03-11,2016-07-26 09:20:13.190273,North Innovation Industries,Corolla,4,21955.8
-Roberta,1984-12-18,2016-07-27 09:20:13.184313,Pacific Research Bell Limited,iPhone,49,761.71
-Lawrence,1982-09-28,2015-07-27 09:20:13.184223,Medicine Incorporated,Thriller record,10,15.57
-Louisa,1992-09-02,2015-07-07 09:20:13.186232,Medicine General Frontier Industries,PlayStation,8,208.35
-Evangelina,1984-03-05,2016-07-25 09:20:13.187676,Hardware Galaxy Analysis Limited,Corolla,35,21412.44
-Shantel,1967-07-03,2015-07-19 09:20:13.188230,Software Atlantic Industries,Thriller record,27,8.84
-Jaime,1987-06-09,2015-07-01 09:20:13.187972,Hill Design Organization,iPhone,26,443.04
-Adell,1976-09-07,2015-07-20 09:20:13.185068,Electronic Analysis Corporation,Lipitor,14,11.38
-Cary,1954-07-27,2015-07-20 09:20:13.186510,Pacific Power Group,Thriller record,38,17.24
-Brock,1977-12-27,2016-07-18 09:20:13.185943,North Incorporated,banana,4,10.0
-Gertrude,1968-07-19,2016-07-27 09:20:13.185574,Industries Inc,Harry Potter book,38,10.48
-Shanda,1985-06-10,2015-07-29 09:20:13.185618,Technology International,Harry Potter book,28,9.06
-Calvin,1980-01-23,2016-07-24 09:20:13.185775,South Group,Rubik’s Cube,46,17.14
-Carissa,1980-09-29,2016-07-01 09:20:13.187213,Power Omega Organization,Lipitor,12,11.03
-Gertie,1979-01-16,2016-07-03 09:20:13.189688,Design Electronics Omega Industries,PlayStation,44,295.71
-Grant,1983-08-07,2016-07-11 09:20:13.187077,Industries Federated Telecom Corporation,iPhone,19,539.0
-Cornelia,1980-06-22,2016-07-03 09:20:13.189295,Analysis Corporation,Harry Potter book,9,24.84
-Houston,1984-02-11,2016-07-12 09:20:13.190041,East Electronic Resource Incorporated,Corolla,47,20164.18
-Jerrold,1980-04-04,2015-07-07 09:20:13.190377,Hardware Net International,iPad,41,591.23
-Tera,1980-09-06,2016-07-17 09:20:13.190545,Atlantic Digital Agency,Harry Potter book,21,9.41
-Alexandria,1979-09-13,2016-07-10 09:20:13.189914,Max Frontier Analysis International,Corolla,35,24360.06
-Donnie,1978-10-21,2016-07-11 09:20:13.188385,Network Organization,Lipitor,44,10.49
-Lynette,1977-10-13,2016-07-08 09:20:13.187609,Electronics Adventure Incorporated,iPad,46,515.63
-Reid,1952-04-30,2015-07-12 09:20:13.186030,Alpha Building Inc,Corolla,15,24859.1
-Shantel,1967-07-03,2015-07-19 09:20:13.188230,Software Atlantic Industries,PlayStation,22,275.73
-Charles,1986-12-19,2015-07-12 09:20:13.188559,Hill Future Agency,Harry Potter book,14,26.19
-Paulina,1970-11-05,2016-07-16 09:20:13.188710,Design Star Agency,Corolla,41,24853.3
-Fabian,1982-08-22,2016-07-13 09:20:13.184134,Pacific Building Design Inc,Corolla,39,24148.8
-Cornelia,1980-06-22,2016-07-03 09:20:13.189295,Analysis Corporation,Harry Potter book,23,18.48
-Gertrude,1968-07-19,2016-07-27 09:20:13.185574,Industries Inc,Harry Potter book,30,31.56
-Francis,1994-09-24,2015-07-02 09:20:13.190251,Technology Advanced Inc,Harry Potter book,17,22.21
-Emanuel,1966-01-30,2015-07-19 09:20:13.185208,Signal Organization,Corolla,10,23867.82
-Norma,1984-09-11,2016-07-12 09:20:13.190524,Power Application Consulting International,iPad,41,669.45
-Leisa,1978-01-25,2016-07-17 09:20:13.188795,General Federated Vision Inc,PlayStation,5,295.43
-Antoine,1982-03-26,2016-06-30 09:20:13.188995,Omega Industries Hardware LLC,Rubik’s Cube,24,15.1
-Roxanna,1977-11-10,2016-07-10 09:20:13.189187,Provider Industries East Co,iPad,25,928.65
-Andrea,1981-09-18,2016-07-12 09:20:13.185325,Vision Interactive Design International,Thriller record,32,12.45
-Gustavo,1957-11-10,2015-07-22 09:20:13.184089,Contract Electronics LLC,Harry Potter book,37,14.39
-Rhonda,1955-07-09,2015-07-13 09:20:13.190128,Source Co,Thriller record,1,19.17
-Tracie,1979-05-26,2016-07-18 09:20:13.189389,South Adventure Inc,banana,25,10.0
-Chadwick,1973-02-13,2016-07-16 09:20:13.185302,Federated Application Industries,Lipitor,47,11.24
-Georgia,1984-11-28,2016-07-17 09:20:13.187190,Digital Internet Telecom Group,PlayStation,36,209.61
-Stanley,1986-10-16,2015-07-03 09:20:13.185896,Star Adventure International,banana,15,10.0
-Francesco,1977-12-22,2016-07-27 09:20:13.184801,Alpha East LLC,Star Wars,1,10.9
-Maricela,1954-03-05,2015-07-21 09:20:13.185348,Systems Group,Lipitor,4,11.07
-Dick,1983-03-11,2016-06-30 09:20:13.187477,Internet Resource Signal Industries,Lipitor,12,10.9
-Fernando,1981-09-26,2016-07-20 09:20:13.187128,Frontier Industries,Star Wars,12,11.29
-Gussie,1973-11-11,2016-07-06 09:20:13.186709,Industries Incorporated,Harry Potter book,4,12.09
-Humberto,1967-04-29,2015-07-12 09:20:13.188884,North Hardware Limited,Corolla,5,22077.14
-Paulina,1970-11-05,2016-07-16 09:20:13.188710,Design Star Agency,Harry Potter book,8,18.54
-Pablo,1986-07-28,2016-07-23 09:20:13.186209,Electronics East Omega Incorporated,Harry Potter book,3,26.7
-Graciela,1993-03-26,2015-07-01 09:20:13.185136,South Interactive Technology Agency,banana,28,10.0
-Brianna,1969-04-03,2016-07-15 09:20:13.188775,Federated Agency,iPad,14,899.86
-Rosalyn,1959-08-24,2015-07-25 09:20:13.188493,Federated Adventure Limited,iPhone,47,674.06
-Rosario,1986-07-20,2016-07-13 09:20:13.188406,General Architecture Limited,banana,22,10.0
-Charlotte,1956-02-08,2015-07-13 09:20:13.189731,Net Network Co,Corolla,24,24804.26
-Margarita,1985-03-25,2015-07-17 09:20:13.185752,Software Future LLC,iPhone,33,899.59
-Napoleon,1962-03-19,2015-07-22 09:20:13.186097,Data Technology Industries,Corolla,46,22186.19
-Erasmo,1981-10-28,2016-07-21 09:20:13.189752,Solutions Organization,Rubik’s Cube,41,18.88
-Roxanna,1977-11-10,2016-07-10 09:20:13.189187,Provider Industries East Co,banana,38,10.0
-Francis,1994-09-24,2015-07-02 09:20:13.190251,Technology Advanced Inc,Star Wars,43,11.03
-Napoleon,1962-03-19,2015-07-22 09:20:13.186097,Data Technology Industries,PlayStation,10,280.37
-Leticia,1976-05-20,2016-07-02 09:20:13.185507,Graphics Atlantic Co,Rubik’s Cube,19,16.51
-Candace,1977-08-06,2016-06-30 09:20:13.183906,Contract Virtual Group,Lipitor,28,10.37
-Ivy,1982-09-23,2016-07-07 09:20:13.184756,Industries East Corporation,Rubik’s Cube,6,18.74
-Cornelia,1980-06-22,2016-07-03 09:20:13.189295,Analysis Corporation,Harry Potter book,24,29.82
-Mable,1975-06-12,2016-07-03 09:20:13.188124,Venture Research Industries,iPhone,14,705.29
-Louella,1976-06-05,2016-07-06 09:20:13.184044,Hardware Inc,Thriller record,11,19.82
-Paige,1979-10-26,2016-07-05 09:20:13.185114,Medicine Technology Group,banana,24,10.0
-Tasha,1982-11-09,2016-06-30 09:20:13.186051,Data East Digital Industries,Harry Potter book,44,5.1
-Leroy,1984-08-20,2015-07-09 09:20:13.184852,Analysis Future Co,Lipitor,3,11.91
-Tasha,1982-11-09,2016-06-30 09:20:13.186051,Data East Digital Industries,Harry Potter book,46,28.81
-Pierre,1982-07-27,2016-07-25 09:20:13.188208,Virtual Internet South Organization,iPad,33,329.97
-Ollie,1969-02-23,2016-07-18 09:20:13.184731,Application Group,Star Wars,21,11.15
-Jeannie,1979-03-13,2016-07-20 09:20:13.184545,Medicine Architecture Vision Limited,Lipitor,46,10.83
-Mac,1982-07-08,2016-06-30 09:20:13.184908,Telecom Speed Corporation,iPhone,13,443.48
-Sonja,1983-10-15,2016-07-24 09:20:13.188146,Systems Telecom Federated Inc,Corolla,32,23331.6
-Cheri,1975-07-24,2016-07-13 09:20:13.184884,Star Internet Limited,Thriller record,10,19.6
-Calvin,1980-01-23,2016-07-24 09:20:13.185775,South Group,iPad,3,332.55
-Rhonda,1955-07-09,2015-07-13 09:20:13.190128,Source Co,Rubik’s Cube,39,16.65
-Mariann,1985-08-26,2016-07-19 09:20:13.189957,Federated Medicine Industries,Rubik’s Cube,49,17.61
-Daron,1980-08-22,2016-07-10 09:20:13.186866,Resource Direct Co,banana,22,10.0
-Candi,1994-09-30,2015-07-27 09:20:13.185683,Venture West Hardware Corporation,PlayStation,12,213.86
-Mable,1975-06-12,2016-07-03 09:20:13.188124,Venture Research Industries,iPhone,36,672.63
-Evangelina,1984-03-05,2016-07-25 09:20:13.187676,Hardware Galaxy Analysis Limited,Rubik’s Cube,34,15.11
-Anthony,1970-03-08,2015-07-04 09:20:13.188363,Analysis North Industries,Harry Potter book,17,27.99
-Calvin,1980-01-23,2016-07-24 09:20:13.185775,South Group,Harry Potter book,24,29.97
-Damion,1986-02-07,2016-07-18 09:20:13.189579,Design Limited,Thriller record,7,18.13
-Harry,1969-09-14,2016-07-28 09:20:13.189816,Direct Data Industries,Thriller record,13,18.65
-Ivy,1982-09-23,2016-07-07 09:20:13.184756,Industries East Corporation,Rubik’s Cube,39,17.53
-John,1976-03-19,2016-07-07 09:20:13.190397,Net Construction Industries,iPad,30,894.2
-Louisa,1992-09-02,2015-07-07 09:20:13.186232,Medicine General Frontier Industries,iPhone,4,618.2
-Carissa,1980-09-29,2016-07-01 09:20:13.187213,Power Omega Organization,banana,44,10.0
-Rick,1983-07-15,2016-07-23 09:20:13.188340,Source Net Atlantic Industries,Harry Potter book,8,15.41
-Joanne,1977-12-06,2016-07-04 09:20:13.189644,Advanced Inc,Corolla,16,24963.55
-Kirsten,1975-06-03,2015-07-10 09:20:13.188818,Atlantic Contract Alpha Organization,Thriller record,9,13.54
-Cody,1971-01-19,2016-07-12 09:20:13.188580,Provider Research LLC,banana,44,10.0
-Porter,1980-11-05,2016-07-28 09:20:13.184450,Omega Advanced Group,banana,18,10.0
-Ryan,1971-10-22,2016-07-16 09:20:13.190148,Future Organization,PlayStation,33,238.18
-Shantel,1967-07-03,2015-07-19 09:20:13.188230,Software Atlantic Industries,Corolla,39,20266.68
-Dwain,1985-10-09,2016-07-21 09:20:13.186186,People Digital Hill Organization,Thriller record,42,13.77
-Jane,1962-08-13,2015-07-16 09:20:13.186578,Consulting Building Incorporated,Harry Potter book,10,28.24
-Jesse,1980-11-08,2016-07-15 09:20:13.190334,Provider Alpha Telecom Co,iPad,47,316.21
-Katherine,1979-11-10,2016-07-21 09:20:13.186842,Internet Future Technology Group,iPad,36,689.18
-Dwain,1985-10-09,2016-07-21 09:20:13.186186,People Digital Hill Organization,Harry Potter book,22,6.03
-Alice,1971-04-06,2016-07-23 09:20:13.189622,South Future Hardware Organization,Lipitor,49,10.62
-Perla,1985-12-27,2015-07-19 09:20:13.190190,Studio South Agency,banana,6,10.0
-Leisa,1984-07-30,2016-07-20 09:20:13.185873,Virtual West Internet Limited,Thriller record,5,17.59
-Nick,1976-11-12,2015-07-18 09:20:13.183955,Systems Inc,PlayStation,11,280.54
-Tasha,1982-11-09,2016-06-30 09:20:13.186051,Data East Digital Industries,Rubik’s Cube,34,16.83
-Samantha,1976-09-24,2015-07-07 09:20:13.189599,West Industries Corporation,Corolla,31,23220.33
-Antony,1991-12-24,2015-07-14 09:20:13.186966,Building Incorporated,Star Wars,20,10.54
-Paige,1979-10-26,2016-07-05 09:20:13.185114,Medicine Technology Group,Star Wars,31,11.73
-Lisa,1967-04-28,2016-07-09 09:20:13.185639,Net International,Lipitor,43,10.3
-Carlo,1978-01-22,2016-07-06 09:20:13.188274,People Research Organization,Corolla,4,24487.09
-Houston,1984-02-11,2016-07-12 09:20:13.190041,East Electronic Resource Incorporated,Thriller record,2,8.76
-Caryn,1968-07-20,2016-07-15 09:20:13.186119,Graphics Data Limited,banana,32,10.0
-Mable,1975-06-12,2016-07-03 09:20:13.188124,Venture Research Industries,PlayStation,37,255.11
-Jefferson,1975-04-04,2016-07-24 09:20:13.188452,Telecom Agency,iPhone,30,759.31
-Bernardo,1986-08-17,2016-07-12 09:20:13.187861,Provider LLC,Lipitor,32,11.2
-Sallie,1980-10-03,2016-07-03 09:20:13.184473,Net Inc,iPad,16,1003.11
-Logan,1968-08-14,2016-06-30 09:20:13.186464,Data Research Future Agency,Thriller record,47,19.67
-Damion,1986-02-07,2016-07-18 09:20:13.189579,Design Limited,PlayStation,36,288.18
-Malissa,1971-04-26,2015-07-09 09:20:13.187299,Net Hill Max Industries,banana,49,10.0
-Calvin,1980-01-23,2016-07-24 09:20:13.185775,South Group,Harry Potter book,26,27.89
-Tiana,1982-10-29,2016-07-17 09:20:13.188536,Adventure Atlantic Organization,iPhone,45,711.19
-Vernon,1986-05-19,2016-07-22 09:20:13.184619,Speed Co,banana,6,10.0
-Lorenzo,1974-01-25,2015-07-14 09:20:13.189274,Max Adventure Limited,Rubik’s Cube,47,16.93
-Rick,1983-07-15,2016-07-23 09:20:13.188340,Source Net Atlantic Industries,iPhone,25,807.07
-Viviana,1983-07-04,2016-07-14 09:20:13.186776,Star Agency,Rubik’s Cube,30,18.09
-Lynnette,1952-12-26,2015-07-14 09:20:13.187834,Research Net Advanced Inc,iPad,31,1066.13
-Leticia,1976-05-20,2016-07-02 09:20:13.185507,Graphics Atlantic Co,Corolla,37,22256.74
-Hipolito,1968-03-19,2016-07-07 09:20:13.188515,South Industries Industries,PlayStation,28,223.59
-Antonette,1986-05-02,2016-07-03 09:20:13.184402,Source Corporation,Harry Potter book,21,29.3
-Kip,1981-11-22,2016-07-19 09:20:13.188928,East Electronic Star International,banana,27,10.0
-Ella,1958-01-20,2015-07-03 09:20:13.190064,Graphics Pacific Organization,Lipitor,11,11.13
-Tosha,1967-05-26,2016-07-11 09:20:13.187994,Atlantic Star Limited,Rubik’s Cube,42,18.01
-Flossie,1983-04-18,2016-07-03 09:20:13.183977,Star Net International,Lipitor,5,11.9
-Twila,1976-01-13,2016-07-13 09:20:13.190588,Resource Analysis Federated International,Corolla,37,23155.67
-Georgiana,1976-08-11,2015-07-26 09:20:13.190566,Source Virtual Digital Group,PlayStation,20,269.29
-Lynette,1977-10-13,2016-07-08 09:20:13.187609,Electronics Adventure Incorporated,Thriller record,35,18.95
-Fredrick,1991-01-20,2015-07-11 09:20:13.189210,Building Incorporated,banana,20,10.0
-Francis,1994-09-24,2015-07-02 09:20:13.190251,Technology Advanced Inc,Corolla,49,20369.06
-Tasha,1982-11-09,2016-06-30 09:20:13.186051,Data East Digital Industries,Harry Potter book,22,6.8
-Mathew,1982-01-25,2016-07-19 09:20:13.188646,Construction Group,Rubik’s Cube,13,18.55
-Ollie,1969-02-23,2016-07-18 09:20:13.184731,Application Group,iPhone,43,478.9
-Tasha,1982-11-09,2016-06-30 09:20:13.186051,Data East Digital Industries,Lipitor,43,12.0
-Laurence,1985-11-11,2016-07-18 09:20:13.184202,Medicine Inc,Thriller record,48,16.81
-Charlotte,1956-02-08,2015-07-13 09:20:13.189731,Net Network Co,Lipitor,31,11.27
-Cary,1954-07-27,2015-07-20 09:20:13.186510,Pacific Power Group,Harry Potter book,39,24.21
-Lillian,1978-01-16,2016-07-03 09:20:13.188252,Federated International,PlayStation,50,270.67
-Alice,1971-04-06,2016-07-23 09:20:13.189622,South Future Hardware Organization,iPhone,35,513.42
-Brock,1977-12-27,2016-07-18 09:20:13.185943,North Incorporated,Harry Potter book,4,21.53
-Alexandria,1979-09-13,2016-07-10 09:20:13.189914,Max Frontier Analysis International,Corolla,19,23517.28
-Edmundo,1967-05-07,2016-07-02 09:20:13.190461,Technology Speed Organization,Thriller record,28,17.19
-Jeannie,1979-03-13,2016-07-20 09:20:13.184545,Medicine Architecture Vision Limited,Star Wars,15,8.01
-Brandon,1956-03-28,2015-07-10 09:20:13.189860,Design Corporation,Thriller record,35,19.83
-Trinidad,1982-06-28,2016-07-04 09:20:13.187148,Venture Inc,iPad,14,637.63
-Gussie,1973-11-11,2016-07-06 09:20:13.186709,Industries Incorporated,iPad,9,919.74
-Leisa,1978-01-25,2016-07-17 09:20:13.188795,General Federated Vision Inc,iPhone,19,859.05
-Otha,1956-06-28,2015-07-23 09:20:13.189664,Provider Advanced Incorporated,Rubik’s Cube,7,17.45
-Edgardo,1977-07-03,2016-07-01 09:20:13.190086,Software General Group,iPhone,39,478.39
-Lolita,1997-08-16,2015-07-29 09:20:13.187499,Adventure Source Group,Star Wars,37,8.46
-Young,1983-01-02,2015-07-20 09:20:13.189410,Frontier South International,Star Wars,26,9.33
-Rick,1983-07-15,2016-07-23 09:20:13.188340,Source Net Atlantic Industries,Harry Potter book,11,31.02
-Sonja,1983-10-15,2016-07-24 09:20:13.188146,Systems Telecom Federated Inc,Lipitor,43,11.76
-Pearline,1988-02-19,2015-07-10 09:20:13.185821,Innovation Resource West LLC,Harry Potter book,37,10.9
-Jarrett,1996-09-26,2015-07-30 09:20:13.184641,Electronic Bell Organization,PlayStation,10,260.62
-Dawna,1976-06-26,2015-07-23 09:20:13.186375,Interactive Agency,Corolla,46,22665.05
-Malissa,1971-04-26,2015-07-09 09:20:13.187299,Net Hill Max Industries,Lipitor,47,10.98
-Charles,1986-12-19,2015-07-12 09:20:13.188559,Hill Future Agency,Harry Potter book,26,15.4
-Elijah,1980-10-29,2016-07-15 09:20:13.189516,Federated Digital Group,banana,27,10.0
-Rupert,1979-05-07,2016-07-14 09:20:13.190481,Innovation Incorporated,Corolla,14,21564.68
-Hilton,1985-02-23,2016-07-11 09:20:13.187586,Federated Innovation Adventure International,banana,28,10.0
-Vada,1982-10-03,2016-07-12 09:20:13.189317,Network Net Bell Inc,Thriller record,40,19.18
-Manuela,1987-05-21,2016-07-09 09:20:13.184976,Consulting Speed Provider Group,banana,43,10.0
-Grace,1981-05-28,2016-07-16 09:20:13.185021,Hill Digital Systems Industries,Harry Potter book,32,14.77
-Joanne,1977-12-06,2016-07-04 09:20:13.189644,Advanced Inc,Corolla,4,23524.56
-Lamar,1985-02-23,2016-07-13 09:20:13.189840,Digital Industries,banana,15,10.0
-Alfonzo,1974-10-07,2016-07-05 09:20:13.185439,Hardware West Incorporated,Thriller record,34,14.09
-Humberto,1967-04-29,2015-07-12 09:20:13.188884,North Hardware Limited,iPhone,49,899.49
-Candi,1978-12-31,2016-06-30 09:20:13.184001,Contract Co,iPad,17,400.11
-Earle,1971-07-11,2016-07-18 09:20:13.189557,Graphics Application Inc,Rubik’s Cube,13,17.27
-Mi,1970-02-14,2016-07-04 09:20:13.187926,Analysis Bell Solutions Incorporated,Lipitor,4,11.7
-Ryan,1971-10-22,2016-07-16 09:20:13.190148,Future Organization,Star Wars,16,11.94
-Young,1983-01-02,2015-07-20 09:20:13.189410,Frontier South International,Lipitor,1,11.3
-Whitney,1979-07-01,2015-07-06 09:20:13.187767,Star East Network Incorporated,PlayStation,28,286.45
-Xavier,1975-12-31,2015-07-03 09:20:13.190000,North Industries,Corolla,27,23120.31
-Perla,1985-12-27,2015-07-19 09:20:13.190190,Studio South Agency,Thriller record,39,15.33
-John,1976-03-19,2016-07-07 09:20:13.190397,Net Construction Industries,Harry Potter book,31,15.41
-Katherine,1979-11-10,2016-07-21 09:20:13.186842,Internet Future Technology Group,Lipitor,15,10.28
-Edgardo,1977-07-03,2016-07-01 09:20:13.190086,Software General Group,Lipitor,10,11.89
-Gustavo,1957-11-10,2015-07-22 09:20:13.184089,Contract Electronics LLC,Lipitor,33,11.54
-Elijah,1980-10-29,2016-07-15 09:20:13.189516,Federated Digital Group,Corolla,28,22274.28
-Mandi,1982-06-05,2016-07-24 09:20:13.186397,North Atlantic Inc,iPad,3,466.25
-Clement,1969-03-11,2016-07-26 09:20:13.190273,North Innovation Industries,banana,9,10.0
-Harry,1981-02-28,2016-07-22 09:20:13.185660,Systems Solutions Innovation LLC,Rubik’s Cube,27,15.74
-Milo,1986-06-06,2016-07-12 09:20:13.189711,Electronic Industries,Lipitor,40,11.64
-Nelson,1978-07-18,2016-07-02 09:20:13.185798,Alpha Incorporated,iPad,26,584.83
-Grace,1981-05-28,2016-07-16 09:20:13.185021,Hill Digital Systems Industries,banana,26,10.0
-Hank,1987-05-07,2016-06-30 09:20:13.188320,Graphics Group,Rubik’s Cube,35,16.13
-Angelique,1982-09-05,2016-07-21 09:20:13.186797,Net Provider West Group,Harry Potter book,43,5.37
-Delmer,1978-05-11,2016-07-16 09:20:13.187412,Source Solutions Organization,iPad,22,530.01
-Donnie,1978-10-21,2016-07-11 09:20:13.188385,Network Organization,Star Wars,6,8.68
-Antoine,1982-03-26,2016-06-30 09:20:13.188995,Omega Industries Hardware LLC,Thriller record,34,15.48
-Ilene,1983-06-13,2016-07-11 09:20:13.186328,Provider Systems LLC,Thriller record,9,16.59
-Retha,1977-09-01,2016-07-03 09:20:13.189368,Bell Incorporated,Corolla,11,21243.97
-Donnie,1978-10-21,2016-07-11 09:20:13.188385,Network Organization,iPhone,11,786.38
-Matilde,1979-02-04,2016-07-25 09:20:13.186141,Galaxy Building Star LLC,iPad,42,859.09
-Alice,1971-04-06,2016-07-23 09:20:13.189622,South Future Hardware Organization,Rubik’s Cube,3,18.95
-Hipolito,1968-03-19,2016-07-07 09:20:13.188515,South Industries Industries,Corolla,35,21671.8
-Maricela,1954-03-05,2015-07-21 09:20:13.185348,Systems Group,PlayStation,39,269.49
-Erasmo,1981-10-28,2016-07-21 09:20:13.189752,Solutions Organization,banana,25,10.0
-Houston,1984-02-11,2016-07-12 09:20:13.190041,East Electronic Resource Incorporated,Lipitor,1,11.3
-Roberta,1984-12-18,2016-07-27 09:20:13.184313,Pacific Research Bell Limited,Rubik’s Cube,3,16.43
-Retha,1977-09-01,2016-07-03 09:20:13.189368,Bell Incorporated,PlayStation,4,283.54
-Grant,1983-08-07,2016-07-11 09:20:13.187077,Industries Federated Telecom Corporation,Rubik’s Cube,49,15.18
-Lisa,1967-04-28,2016-07-09 09:20:13.185639,Net International,PlayStation,2,209.25
-Donnie,1978-10-21,2016-07-11 09:20:13.188385,Network Organization,banana,17,10.0
-Allison,1980-04-02,2016-07-14 09:20:13.186352,Galaxy Solutions Internet Co,PlayStation,46,272.15
-Adell,1976-09-07,2015-07-20 09:20:13.185068,Electronic Analysis Corporation,Corolla,19,20945.39
-Hiram,1996-03-17,2015-07-25 09:20:13.184022,Virtual Group,PlayStation,7,293.0
-Dawna,1976-06-26,2015-07-23 09:20:13.186375,Interactive Agency,PlayStation,3,287.58
-Zackary,1981-06-03,2015-07-22 09:20:13.186164,Source Agency,Harry Potter book,44,32.71
-Iris,1967-09-30,2016-07-04 09:20:13.184596,West Solutions Signal Organization,Corolla,1,23658.07
-Millicent,1987-04-05,2016-07-27 09:20:13.188188,Technology LLC,Rubik’s Cube,38,18.17
-Jordon,1979-05-23,2016-07-01 09:20:13.189978,Atlantic Architecture Solutions Organization,Thriller record,45,19.51
-Delores,1957-07-22,2015-07-19 09:20:13.189145,Galaxy Network Group,PlayStation,26,269.92
-Georgia,1984-11-28,2016-07-17 09:20:13.187190,Digital Internet Telecom Group,Rubik’s Cube,37,17.09
-Gustavo,1957-11-10,2015-07-22 09:20:13.184089,Contract Electronics LLC,Harry Potter book,48,13.33
-Kay,1972-07-20,2016-07-10 09:20:13.187322,Building Future Software Organization,iPad,45,402.85
-Milo,1986-06-06,2016-07-12 09:20:13.189711,Electronic Industries,PlayStation,19,243.57
-Teri,1978-12-15,2016-07-04 09:20:13.190168,Internet Future East Agency,Lipitor,28,10.11
-Erasmo,1981-10-28,2016-07-21 09:20:13.189752,Solutions Organization,Lipitor,36,11.01
-Hipolito,1968-03-19,2016-07-07 09:20:13.188515,South Industries Industries,banana,28,10.0
-John,1976-03-19,2016-07-07 09:20:13.190397,Net Construction Industries,iPhone,17,531.28
-Drew,1982-02-21,2016-07-05 09:20:13.187258,Electronics Co,Rubik’s Cube,33,18.49
-Alton,1990-08-13,2015-07-09 09:20:13.186685,Network Net Organization,Star Wars,29,10.01
-Brittany,1982-11-09,2016-07-21 09:20:13.186009,Hill Incorporated,Corolla,21,21217.18
-Allison,1980-04-02,2016-07-14 09:20:13.186352,Galaxy Solutions Internet Co,Corolla,32,22916.05
-Alecia,1981-04-20,2016-07-14 09:20:13.190020,Power Alpha Organization,banana,12,10.0
-Annetta,1980-03-03,2016-07-02 09:20:13.185844,Digital Source Solutions Co,Harry Potter book,35,30.82
-Noe,1996-03-01,2015-07-24 09:20:13.188623,Pacific Atlantic Architecture LLC,Rubik’s Cube,36,18.15
-Katherine,1979-11-10,2016-07-21 09:20:13.186842,Internet Future Technology Group,Harry Potter book,5,5.08
-Geraldo,1973-02-20,2015-07-29 09:20:13.188689,Star Adventure Industries,Rubik’s Cube,10,17.84
-Dominick,1984-08-26,2016-07-10 09:20:13.187744,Network West LLC,Corolla,5,20588.63
-Nanette,1981-08-24,2015-07-14 09:20:13.187630,Contract Omega Frontier Co,Thriller record,8,8.13
-Pablo,1986-07-28,2016-07-23 09:20:13.186209,Electronics East Omega Incorporated,Corolla,22,23802.43
-Geraldo,1998-04-09,2015-07-02 09:20:13.187905,General Industries Organization,Corolla,43,22130.53
-Jodie,1955-11-27,2015-07-14 09:20:13.185551,Virtual International,Lipitor,14,11.67
-Fannie,1979-04-22,2015-07-16 09:20:13.187565,Speed Bell Agency,banana,11,10.0
-Jacques,1974-09-24,2016-07-27 09:20:13.186256,Contract Solutions Hill LLC,Rubik’s Cube,11,15.68
-Monica,1984-03-17,2015-07-18 09:20:13.188951,Hardware Galaxy Future Corporation,iPhone,23,459.67
-Delilah,1982-10-10,2016-07-17 09:20:13.187344,General North International,Lipitor,39,10.37
-Shanda,1985-06-10,2015-07-29 09:20:13.185618,Technology International,banana,32,10.0
-Lolita,1997-08-16,2015-07-29 09:20:13.187499,Adventure Source Group,Corolla,6,23542.59
-Darnell,1982-05-25,2016-07-04 09:20:13.190231,Net Solutions International,iPhone,6,522.12
-Hilton,1985-02-23,2016-07-11 09:20:13.187586,Federated Innovation Adventure International,Star Wars,26,11.74
-Philomena,1999-06-03,2015-07-13 09:20:13.186755,Graphics Organization,Harry Potter book,40,5.55
-Nelson,1978-07-18,2016-07-02 09:20:13.185798,Alpha Incorporated,iPad,19,786.13
-Hilton,1985-02-23,2016-07-11 09:20:13.187586,Federated Innovation Adventure International,Thriller record,16,11.62
-Micah,1976-03-23,2016-07-10 09:20:13.184522,Systems Application Corporation,iPhone,34,764.34
-Kay,1972-07-20,2016-07-10 09:20:13.187322,Building Future Software Organization,Rubik’s Cube,34,15.11
-Theda,1979-10-08,2016-07-26 09:20:13.187950,Omega Research East Co,Harry Potter book,49,10.82
-Laurence,1985-11-11,2016-07-18 09:20:13.184202,Medicine Inc,iPhone,49,877.49
-Marion,1985-02-17,2016-07-26 09:20:13.187720,Data Solutions Incorporated,banana,28,10.0
-Millicent,1987-04-05,2016-07-27 09:20:13.188188,Technology LLC,iPad,22,405.53
-Zackary,1981-06-03,2015-07-22 09:20:13.186164,Source Agency,banana,26,10.0
-Griselda,1974-11-16,2016-07-14 09:20:13.187054,Net Systems Consulting Industries,iPad,18,637.37
-Charlotte,1956-02-08,2015-07-13 09:20:13.189731,Net Network Co,iPad,37,976.64
-Walker,1981-10-11,2016-07-24 09:20:13.187882,Max Telecom Organization,PlayStation,49,257.54
-Gertie,1979-01-16,2016-07-03 09:20:13.189688,Design Electronics Omega Industries,Rubik’s Cube,50,15.82
-Bridget,1984-01-29,2016-07-18 09:20:13.187653,Studio Signal Building Limited,Harry Potter book,49,7.01
-Fannie,1979-04-22,2015-07-16 09:20:13.187565,Speed Bell Agency,Harry Potter book,36,5.75
-Sandi,1978-06-21,2016-07-23 09:20:13.187389,General Vision Venture Incorporated,PlayStation,46,272.4
-Antione,1961-11-22,2015-07-15 09:20:13.184779,Advanced Pacific Industries,Star Wars,24,8.5
-Malissa,1971-04-26,2015-07-09 09:20:13.187299,Net Hill Max Industries,iPhone,28,787.7
-Grant,1983-08-07,2016-07-11 09:20:13.187077,Industries Federated Telecom Corporation,iPad,40,588.61
-Bernardo,1984-01-25,2016-07-21 09:20:13.190294,Net Incorporated,iPad,20,444.79
-Leroy,1984-08-20,2015-07-09 09:20:13.184852,Analysis Future Co,Corolla,35,20471.39
-Laurence,1985-11-11,2016-07-18 09:20:13.184202,Medicine Inc,banana,6,10.0
-Jaime,1987-06-09,2015-07-01 09:20:13.187972,Hill Design Organization,iPhone,49,431.77
-Gilda,1972-07-23,2015-07-16 09:20:13.189017,Net LLC,Harry Potter book,34,7.27
-Hipolito,1968-03-19,2016-07-07 09:20:13.188515,South Industries Industries,Harry Potter book,15,22.57
-Michal,1985-04-24,2016-06-30 09:20:13.188731,Omega Limited,iPad,39,902.43
-Zackary,1981-06-03,2015-07-22 09:20:13.186164,Source Agency,banana,6,10.0
-Hank,1978-11-07,2016-07-15 09:20:13.184267,Resource Star Signal LLC,Rubik’s Cube,9,18.75
-Jodie,1955-11-27,2015-07-14 09:20:13.185551,Virtual International,Thriller record,13,14.68
-Richard,1963-03-20,2015-07-05 09:20:13.184931,Construction Industries,Lipitor,37,11.01
-Francesco,1977-12-22,2016-07-27 09:20:13.184801,Alpha East LLC,PlayStation,27,290.11
-Candi,1978-12-31,2016-06-30 09:20:13.184001,Contract Co,Rubik’s Cube,38,15.05
-Earle,1971-07-11,2016-07-18 09:20:13.189557,Graphics Application Inc,iPad,12,709.49
-Sallie,1980-10-03,2016-07-03 09:20:13.184473,Net Inc,Rubik’s Cube,37,15.16
-Iris,1967-09-30,2016-07-04 09:20:13.184596,West Solutions Signal Organization,Lipitor,37,11.15
-Harland,1982-12-15,2016-06-30 09:20:13.184824,Hardware Contract Vision Inc,iPad,44,461.16
-Marion,1982-02-03,2016-07-28 09:20:13.184952,Building Data Application Co,Star Wars,15,10.16
-Leisa,1978-01-25,2016-07-17 09:20:13.188795,General Federated Vision Inc,Star Wars,1,10.36
-Demarcus,1967-09-29,2016-07-25 09:20:13.186991,Graphics Data Agency,Lipitor,24,10.3
-Alfonzo,1974-10-07,2016-07-05 09:20:13.185439,Hardware West Incorporated,banana,29,10.0
-Bernardo,1986-08-17,2016-07-12 09:20:13.187861,Provider LLC,Star Wars,46,9.36
-Rhonda,1955-07-09,2015-07-13 09:20:13.190128,Source Co,iPhone,5,785.2
-Lolita,1997-08-16,2015-07-29 09:20:13.187499,Adventure Source Group,PlayStation,20,267.29
-Angelique,1982-09-05,2016-07-21 09:20:13.186797,Net Provider West Group,PlayStation,12,287.5
-Caroline,1965-03-02,2015-07-13 09:20:13.186304,Contract Graphics Speed Corporation,Rubik’s Cube,31,15.45
-Stephan,1987-03-12,2016-07-09 09:20:13.184684,Construction Net Venture Organization,PlayStation,17,204.81
-Candace,1977-08-06,2016-06-30 09:20:13.183906,Contract Virtual Group,Lipitor,17,11.15
-Tosha,1967-05-26,2016-07-11 09:20:13.187994,Atlantic Star Limited,Star Wars,43,11.25
-Ella,1958-01-20,2015-07-03 09:20:13.190064,Graphics Pacific Organization,Lipitor,36,10.46
-Delores,1957-07-22,2015-07-19 09:20:13.189145,Galaxy Network Group,banana,2,10.0
-Ryan,1971-10-22,2016-07-16 09:20:13.190148,Future Organization,Star Wars,8,10.6
-Leticia,1976-05-20,2016-07-02 09:20:13.185507,Graphics Atlantic Co,Harry Potter book,3,25.53
-Xavier,1975-12-31,2015-07-03 09:20:13.190000,North Industries,Rubik’s Cube,39,15.27
-Dwain,1985-10-09,2016-07-21 09:20:13.186186,People Digital Hill Organization,Lipitor,49,10.9
-Clement,1969-03-11,2016-07-26 09:20:13.190273,North Innovation Industries,Lipitor,31,10.16
-Demarcus,1967-09-29,2016-07-25 09:20:13.186991,Graphics Data Agency,banana,19,10.0
-Lawrence,1982-09-28,2015-07-27 09:20:13.184223,Medicine Incorporated,banana,49,10.0
-Laurence,1985-11-11,2016-07-18 09:20:13.184202,Medicine Inc,iPad,41,424.4
-Marlon,1971-08-07,2016-07-27 09:20:13.184112,Bell LLC,Harry Potter book,2,32.38
-Tommie,1987-02-01,2016-07-08 09:20:13.185529,Pacific Incorporated,iPhone,39,765.49
-Millicent,1987-04-05,2016-07-27 09:20:13.188188,Technology LLC,Rubik’s Cube,8,16.58
-Allison,1980-04-02,2016-07-14 09:20:13.186352,Galaxy Solutions Internet Co,Star Wars,33,8.08
-Rosalyn,1959-08-24,2015-07-25 09:20:13.188493,Federated Adventure Limited,iPad,33,692.44
-Bernardo,1984-01-25,2016-07-21 09:20:13.190294,Net Incorporated,iPad,50,650.12
-Delores,1957-07-22,2015-07-19 09:20:13.189145,Galaxy Network Group,iPad,21,569.7
-Jarrett,1996-09-26,2015-07-30 09:20:13.184641,Electronic Bell Organization,Star Wars,48,11.93
-Raquel,1986-07-23,2016-07-26 09:20:13.189496,Resource International,Corolla,26,22927.26
-Paris,1981-03-30,2016-07-22 09:20:13.189452,Telecom East Building Group,iPad,49,355.99
-Alice,1971-04-06,2016-07-23 09:20:13.189622,South Future Hardware Organization,Star Wars,18,8.47
-Humberto,1967-04-29,2015-07-12 09:20:13.188884,North Hardware Limited,Corolla,12,23137.38
-Janette,1975-11-02,2016-07-21 09:20:13.186533,Technology Innovation Bell Organization,Corolla,50,22260.72
-Rob,1991-01-11,2015-07-30 09:20:13.187235,Design Group,Thriller record,19,12.73
-Lyndon,1995-07-16,2015-07-01 09:20:13.189476,Venture International,Corolla,30,22040.4
-Gussie,1973-11-11,2016-07-06 09:20:13.186709,Industries Incorporated,iPad,7,358.26
-Clement,1969-03-11,2016-07-26 09:20:13.190273,North Innovation Industries,Lipitor,26,11.98
-Delmer,1978-05-11,2016-07-16 09:20:13.187412,Source Solutions Organization,Thriller record,30,15.33
-Mathew,1982-01-25,2016-07-19 09:20:13.188646,Construction Group,banana,32,10.0
-Fabian,1982-08-22,2016-07-13 09:20:13.184134,Pacific Building Design Inc,Corolla,8,23342.28
-Marlon,1971-08-07,2016-07-27 09:20:13.184112,Bell LLC,Lipitor,20,10.77
-Nelson,1978-07-18,2016-07-02 09:20:13.185798,Alpha Incorporated,iPhone,12,867.94
-Randell,1987-06-09,2016-07-06 09:20:13.185185,Adventure Architecture Hill Incorporated,Thriller record,8,15.7
-Nanette,1981-08-24,2015-07-14 09:20:13.187630,Contract Omega Frontier Co,Corolla,26,23847.54
-Roxanna,1977-11-10,2016-07-10 09:20:13.189187,Provider Industries East Co,Thriller record,15,17.5
-Gertrude,1968-07-19,2016-07-27 09:20:13.185574,Industries Inc,Lipitor,8,10.51
-Rachelle,1972-09-18,2015-07-01 09:20:13.188037,Design Software Group,Rubik’s Cube,31,18.9
-Chadwick,1969-04-28,2015-07-14 09:20:13.187168,Data Galaxy Source Corporation,Lipitor,6,10.92
-Jaime,1987-06-09,2015-07-01 09:20:13.187972,Hill Design Organization,Thriller record,50,17.95
-Kip,1981-11-22,2016-07-19 09:20:13.188928,East Electronic Star International,Thriller record,10,11.44
-Lamar,1985-02-23,2016-07-13 09:20:13.189840,Digital Industries,PlayStation,47,299.91
-Clarence,1978-04-14,2016-06-30 09:20:13.187278,Signal Net Inc,Star Wars,17,10.36
-Tosha,1967-05-26,2016-07-11 09:20:13.187994,Atlantic Star Limited,Lipitor,39,11.76
-Jane,1962-08-13,2015-07-16 09:20:13.186578,Consulting Building Incorporated,Star Wars,37,11.74
-Grant,1983-08-07,2016-07-11 09:20:13.187077,Industries Federated Telecom Corporation,banana,26,10.0
-Damion,1986-02-07,2016-07-18 09:20:13.189579,Design Limited,iPhone,22,703.31
-Retha,1977-09-01,2016-07-03 09:20:13.189368,Bell Incorporated,PlayStation,22,228.91
-Viviana,1983-07-04,2016-07-14 09:20:13.186776,Star Agency,Harry Potter book,17,8.07
-Logan,1965-09-16,2015-07-29 09:20:13.188752,Systems Provider Electronics Inc,PlayStation,26,207.52
-Fredrick,1991-01-20,2015-07-11 09:20:13.189210,Building Incorporated,iPhone,46,777.34
-Antione,1961-11-22,2015-07-15 09:20:13.184779,Advanced Pacific Industries,banana,4,10.0
-Napoleon,1962-03-19,2015-07-22 09:20:13.186097,Data Technology Industries,Harry Potter book,28,13.8
-Wiley,1983-02-24,2016-07-27 09:20:13.185045,Net Galaxy Technology International,PlayStation,15,228.17
-Roxanna,1977-11-10,2016-07-10 09:20:13.189187,Provider Industries East Co,banana,12,10.0
-Kay,1972-07-20,2016-07-10 09:20:13.187322,Building Future Software Organization,PlayStation,29,255.37
-Lamar,1985-02-23,2016-07-13 09:20:13.189840,Digital Industries,PlayStation,35,270.15
-Ignacio,1990-09-27,2015-07-23 09:20:13.185965,Network Systems Incorporated,iPad,32,1023.35
-Kirsten,1975-06-03,2015-07-10 09:20:13.188818,Atlantic Contract Alpha Organization,Star Wars,43,9.06
-Guadalupe,1980-06-12,2016-07-11 09:20:13.186944,Telecom Star Technology Corporation,Corolla,18,20868.8
-Monica,1984-03-17,2015-07-18 09:20:13.188951,Hardware Galaxy Future Corporation,PlayStation,31,229.37
-Sonja,1983-10-15,2016-07-24 09:20:13.188146,Systems Telecom Federated Inc,Lipitor,49,11.15
-Delmer,1978-05-11,2016-07-16 09:20:13.187412,Source Solutions Organization,iPhone,16,400.83
-Marcella,1971-08-07,2016-07-06 09:20:13.187790,General Research Inc,Thriller record,6,11.83
-Jeannie,1979-03-13,2016-07-20 09:20:13.184545,Medicine Architecture Vision Limited,Corolla,24,20147.24
-Boris,1987-05-27,2016-07-05 09:20:13.188862,Bell Galaxy Analysis LLC,Star Wars,15,11.27
-Cameron,1968-02-04,2015-07-27 09:20:13.188101,Venture Solutions Telecom Limited,iPad,27,891.77
-Esmeralda,1963-05-27,2015-07-16 09:20:13.190313,Advanced Adventure Inc,Corolla,30,20231.61
-Leticia,1976-05-20,2016-07-02 09:20:13.185507,Graphics Atlantic Co,Lipitor,24,11.15
-Ella,1958-01-20,2015-07-03 09:20:13.190064,Graphics Pacific Organization,Thriller record,28,19.34
-Otha,1956-06-28,2015-07-23 09:20:13.189664,Provider Advanced Incorporated,Harry Potter book,16,25.06
-Christopher,1980-08-01,2016-07-28 09:20:13.187455,Virtual Application Inc,Thriller record,12,9.68
-Georgia,1984-11-28,2016-07-17 09:20:13.187190,Digital Internet Telecom Group,iPhone,19,884.59
-Stephan,1987-03-12,2016-07-09 09:20:13.184684,Construction Net Venture Organization,banana,39,10.0
-Louella,1976-06-05,2016-07-06 09:20:13.184044,Hardware Inc,Thriller record,20,8.66
-Grant,1983-08-07,2016-07-11 09:20:13.187077,Industries Federated Telecom Corporation,iPhone,48,882.06
-Earle,1971-07-11,2016-07-18 09:20:13.189557,Graphics Application Inc,PlayStation,10,297.68
-Geraldo,1973-02-20,2015-07-29 09:20:13.188689,Star Adventure Industries,Harry Potter book,18,10.01
-Pearline,1988-02-19,2015-07-10 09:20:13.185821,Innovation Resource West LLC,Corolla,3,24813.3
-Dena,1969-11-27,2016-07-20 09:20:13.185160,Resource Design Pacific Co,iPad,30,1036.75
-Ollie,1969-02-23,2016-07-18 09:20:13.184731,Application Group,banana,11,10.0
-Cole,1980-12-15,2016-07-21 09:20:13.185462,North Frontier Agency,Lipitor,30,10.28
-Antonia,1993-11-02,2015-07-29 09:20:13.185415,Innovation Systems Consulting Incorporated,PlayStation,34,220.74
-Pam,1982-04-06,2016-07-02 09:20:13.189122,Systems Corporation,Harry Potter book,44,29.2
-Latricia,1984-02-04,2016-07-12 09:20:13.190107,Studio Industries,Star Wars,31,11.58
-Houston,1984-02-11,2016-07-12 09:20:13.190041,East Electronic Resource Incorporated,banana,2,10.0
-Xavier,1975-12-31,2015-07-03 09:20:13.190000,North Industries,banana,45,10.0
-Melvin,1987-05-08,2016-07-21 09:20:13.184065,Studio Graphics Direct Industries,Corolla,15,23587.52
-Candace,1977-08-06,2016-06-30 09:20:13.183906,Contract Virtual Group,iPhone,32,568.57
-Geraldo,1998-04-09,2015-07-02 09:20:13.187905,General Industries Organization,iPad,30,1025.67
-Young,1983-01-02,2015-07-20 09:20:13.189410,Frontier South International,Lipitor,37,10.61
-Samual,1967-12-03,2016-07-19 09:20:13.189167,Architecture Co,Corolla,36,22597.65
-Lamar,1985-02-23,2016-07-13 09:20:13.189840,Digital Industries,Harry Potter book,48,14.28
-Emanuel,1966-01-30,2015-07-19 09:20:13.185208,Signal Organization,iPad,13,363.8
-Milan,1978-06-09,2016-07-23 09:20:13.185090,Adventure Graphics International,Corolla,50,22678.74
-Francesco,1977-12-22,2016-07-27 09:20:13.184801,Alpha East LLC,iPad,46,926.18
-Ivy,1982-09-23,2016-07-07 09:20:13.184756,Industries East Corporation,Rubik’s Cube,40,15.77
-Kay,1972-07-20,2016-07-10 09:20:13.187322,Building Future Software Organization,PlayStation,49,266.13
-Dwight,1987-05-17,2016-07-20 09:20:13.184663,Design Incorporated,Lipitor,32,11.16
-Kirsten,1975-06-03,2015-07-10 09:20:13.188818,Atlantic Contract Alpha Organization,Harry Potter book,37,8.25
-Candi,1994-09-30,2015-07-27 09:20:13.185683,Venture West Hardware Corporation,PlayStation,9,278.84
+name,birthday,customer,orderdate,product,units,unitprice
+Mohamed,1978-03-15,Federated North Corporation,2016-07-05 10:33:46.009401,banana,10,10.0
+Kim,1986-01-05,Star Application Agency,2016-07-15 10:33:46.009447,Rubik’s Cube,5,16.44
+Chester,1967-05-24,Hardware Industries,2016-07-25 10:33:46.009479,iPad,48,865.62
+Boyce,1980-11-12,Bell Building Co,2016-07-06 10:33:46.009507,Harry Potter book,44,18.54
+Wilma,1953-12-24,Net Electronic Consulting Limited,2016-07-09 10:33:46.009537,iPad,40,772.63
+Darrick,1957-08-17,Consulting Inc,2016-07-18 10:33:46.009565,PlayStation,18,271.95
+Ulysses,1980-08-24,Research Group,2016-07-02 10:33:46.009594,Harry Potter book,26,11.1
+Jean,1985-12-01,General Network Corporation,2016-07-09 10:33:46.009620,Lipitor,13,10.94
+Kimberly,1967-06-15,Solutions Medicine Atlantic Incorporated,2016-07-23 10:33:46.009707,Rubik’s Cube,33,17.31
+Miguel,1983-11-20,Federated Inc,2016-07-06 10:33:46.009750,PlayStation,11,267.3
+Lilian,1969-11-28,Net International,2016-07-11 10:33:46.009783,iPad,20,403.65
+Romeo,1987-02-05,Contract Medicine Federated International,2016-07-05 10:33:46.009811,Lipitor,41,10.65
+Rueben,1986-11-24,South Omega Max Co,2016-07-22 10:33:46.009840,banana,12,10.0
+Griselda,1982-04-12,Frontier International,2016-07-04 10:33:46.009869,Corolla,29,21876.8
+Monique,1953-06-04,Contract Inc,2016-06-30 10:33:46.009895,Star Wars,28,9.85
+Donald,1985-10-27,Application Incorporated,2016-07-01 10:33:46.009922,Thriller record,34,10.38
+Christin,1969-07-20,North Systems International,2016-07-08 10:33:46.009955,Rubik’s Cube,16,15.11
+Muriel,1981-01-21,West Max Agency,2016-07-23 10:33:46.009982,Rubik’s Cube,26,18.23
+Eldon,1981-03-22,Frontier Galaxy Analysis Inc,2016-07-04 10:33:46.010009,Harry Potter book,49,9.1
+Janeen,1972-09-11,Software Design Industries Industries,2016-07-24 10:33:46.010034,Rubik’s Cube,5,18.59
+Paul,1967-07-08,Provider Electronics Group,2016-07-02 10:33:46.010060,iPhone,39,525.57
+Claudine,1984-05-11,Building Industries,2016-07-14 10:33:46.010086,Star Wars,27,9.39
+Sunny,1977-01-09,Research North Group,2016-07-16 10:33:46.010113,iPad,35,311.5
+Jeana,1986-02-09,Architecture Industries,2016-07-11 10:33:46.010139,PlayStation,18,262.91
+Shelley,1984-05-15,Pacific Incorporated,2016-07-15 10:33:46.010165,banana,15,10.0
+Destiny,1986-02-13,Signal Vision Net LLC,2016-07-02 10:33:46.010191,PlayStation,33,247.51
+Shelby,1985-10-13,Signal Max West International,2016-07-03 10:33:46.010217,Thriller record,23,8.32
+Clarice,1984-04-13,Max Telecom Agency,2016-07-03 10:33:46.010244,Harry Potter book,43,17.69
+Rupert,1980-09-26,North Future Co,2016-07-12 10:33:46.010269,iPhone,42,582.45
+Robert,1990-08-08,Alpha Atlantic Inc,2016-07-09 10:33:46.010295,Star Wars,49,9.68
+Nola,1957-11-08,Pacific Incorporated,2016-07-03 10:33:46.010321,banana,24,10.0
+Eve,1980-01-04,Interactive Hardware Incorporated,2016-07-20 10:33:46.010347,PlayStation,41,296.24
+Jacquelin,1998-12-17,Electronics Organization,2016-07-08 10:33:46.010373,Rubik’s Cube,45,16.5
+Romeo,1987-02-05,Contract Medicine Federated International,2016-07-19 10:33:46.010403,Star Wars,29,10.71
+Leonor,1986-07-14,Internet Signal Industries,2016-07-14 10:33:46.010429,Star Wars,35,9.13
+Shantel,1975-07-10,East Corporation,2016-07-21 10:33:46.010455,Corolla,29,20550.79
+Lorri,1980-06-06,Solutions Atlantic Electronic LLC,2016-07-15 10:33:46.010481,Thriller record,2,8.46
+Vernell,1976-11-02,Solutions Consulting Telecom Co,2016-07-15 10:33:46.010508,Star Wars,7,11.41
+Roberta,1983-11-28,Frontier Inc,2016-07-04 10:33:46.010534,iPad,27,1098.81
+Jane,1973-02-03,Net West Federated LLC,2016-07-12 10:33:46.010560,banana,23,10.0
+Jody,1974-08-25,West Construction International,2016-07-09 10:33:46.010586,iPad,15,1006.9
+Morgan,1985-09-26,Architecture Solutions International,2016-07-17 10:33:46.010612,Rubik’s Cube,12,15.29
+Violet,1978-04-19,Max Corporation,2016-07-07 10:33:46.010639,Harry Potter book,21,16.67
+Lance,1982-04-19,Net Universal Speed Organization,2016-07-08 10:33:46.010666,Rubik’s Cube,23,16.42
+Zelda,1986-10-19,Contract Construction Frontier Corporation,2016-07-12 10:33:46.010692,iPad,13,771.11
+Laurel,1992-01-30,Omega Industries,2016-07-01 10:33:46.010717,Harry Potter book,7,13.97
+Garry,1998-02-25,Internet Co,2016-07-06 10:33:46.010744,Thriller record,6,16.62
+Heath,1965-01-10,Net Construction Inc,2016-07-15 10:33:46.010781,PlayStation,8,226.35
+Leone,1977-09-26,Signal Co,2016-07-04 10:33:46.010818,Rubik’s Cube,36,15.91
+Donna,1968-01-24,Vision Research Organization,2016-07-07 10:33:46.010845,PlayStation,5,228.76
+Deanne,1953-04-18,Pacific International,2016-07-24 10:33:46.010872,Corolla,47,24266.23
+Augusta,1977-11-29,Building Architecture Bell International,2016-07-09 10:33:46.010898,iPhone,43,858.26
+Ulysses,1980-08-24,Research Group,2016-06-30 10:33:46.010924,Thriller record,12,19.74
+Dominique,1975-07-07,Electronic Co,2016-07-16 10:33:46.010952,Thriller record,49,19.96
+Morgan,1985-09-26,Architecture Solutions International,2016-07-18 10:33:46.010977,Star Wars,44,9.54
+Randi,1986-05-08,Pacific Solutions Vision LLC,2016-07-19 10:33:46.011003,Thriller record,43,10.21
+Eldon,1981-03-22,Frontier Galaxy Analysis Inc,2016-07-01 10:33:46.011030,Corolla,17,22523.24
+Clarice,1984-04-13,Max Telecom Agency,2016-07-26 10:33:46.011056,PlayStation,48,226.11
+Mario,1954-09-14,Alpha Network Corporation,2016-07-07 10:33:46.011082,Rubik’s Cube,50,15.36
+Dianne,1976-03-08,Telecom Universal Architecture Inc,2016-07-15 10:33:46.011109,Thriller record,8,14.37
+Carmine,1981-03-17,Adventure Electronics Limited,2016-07-15 10:33:46.011135,Lipitor,3,11.88
+Johnny,1971-04-16,General Organization,2016-07-05 10:33:46.011161,iPhone,6,541.99
+Harry,1985-01-10,Digital Solutions Group,2016-07-05 10:33:46.011187,Rubik’s Cube,19,18.75
+Colleen,1983-04-26,Bell Atlantic Graphics Incorporated,2016-07-22 10:33:46.011216,PlayStation,50,250.42
+Berta,1972-03-07,Resource Hardware Analysis Corporation,2016-07-08 10:33:46.011243,iPhone,16,726.89
+Hunter,1986-10-14,Studio Corporation,2016-07-16 10:33:46.011268,Corolla,46,22667.86
+Jules,1962-09-25,Direct Universal Industries,2016-07-11 10:33:46.011294,Corolla,50,21695.25
+Les,1993-06-03,Vision Galaxy Incorporated,2016-07-23 10:33:46.011321,Lipitor,10,10.57
+Tracey,1975-11-20,Signal Group,2016-07-27 10:33:46.011347,Corolla,43,23524.56
+Zelda,1986-10-19,Contract Construction Frontier Corporation,2016-07-24 10:33:46.011372,Lipitor,8,11.69
+Les,1993-06-03,Vision Galaxy Incorporated,2016-07-08 10:33:46.011398,Harry Potter book,10,10.2
+Leone,1977-09-26,Signal Co,2016-07-14 10:33:46.011423,banana,37,10.0
+Chong,1979-02-26,East Adventure Inc,2016-07-02 10:33:46.011449,iPhone,22,556.88
+Ginger,1980-07-27,Industries Virtual Incorporated,2016-07-01 10:33:46.011477,PlayStation,30,296.07
+Rhea,1971-12-14,Frontier Data Co,2016-07-09 10:33:46.011503,iPhone,17,605.51
+Maryellen,1968-07-12,Systems North Future Limited,2016-07-09 10:33:46.011529,PlayStation,29,238.95
+Donald,1985-10-27,Application Incorporated,2016-07-18 10:33:46.011554,PlayStation,2,283.99
+Darius,1984-03-27,Galaxy Universal Inc,2016-07-22 10:33:46.011580,iPad,29,868.01
+Rueben,1986-11-24,South Omega Max Co,2016-07-12 10:33:46.011605,iPad,34,398.45
+Loyd,1995-03-09,Construction Agency,2016-07-18 10:33:46.011634,PlayStation,16,251.38
+Mandy,1955-03-28,Solutions Telecom Application Limited,2016-07-23 10:33:46.011660,Lipitor,37,10.8
+Pricilla,1968-11-29,Vision Federated Future Co,2016-07-27 10:33:46.011686,iPhone,45,467.42
+Daniela,1983-09-13,Medicine Network Frontier International,2016-07-08 10:33:46.011711,Corolla,33,24796.69
+Son,1995-07-15,Telecom Innovation Universal Group,2016-07-12 10:33:46.011737,Star Wars,17,11.84
+Tabatha,1976-12-27,Power Incorporated,2016-07-26 10:33:46.011762,PlayStation,27,252.47
+Kami,1981-07-31,Star Incorporated,2016-06-30 10:33:46.011788,Star Wars,32,8.65
+Felipe,1965-02-03,Design Signal Inc,2016-07-22 10:33:46.011816,iPhone,7,518.42
+Paige,1985-11-23,Analysis Alpha Incorporated,2016-07-25 10:33:46.011841,Star Wars,4,9.17
+Audrey,1984-11-01,Analysis Interactive Virtual International,2016-07-08 10:33:46.011867,banana,34,10.0
+Roma,1984-01-11,Analysis Frontier Agency,2016-07-03 10:33:46.011894,Thriller record,47,19.0
+Genaro,1980-05-13,Contract Corporation,2016-07-17 10:33:46.011921,Corolla,32,24633.57
+Darius,1984-03-27,Galaxy Universal Inc,2016-07-21 10:33:46.011947,banana,39,10.0
+Denise,1987-03-08,Atlantic Limited,2016-07-04 10:33:46.011973,Thriller record,31,18.63
+Jacquelin,1998-12-17,Electronics Organization,2016-07-13 10:33:46.011998,banana,6,10.0
+Duane,1982-05-07,North Federated Industries,2016-07-16 10:33:46.012025,Thriller record,28,11.72
+Whitney,1983-11-20,Signal Star Hill Industries,2016-07-11 10:33:46.012051,iPhone,43,576.56
+Son,1995-07-15,Telecom Innovation Universal Group,2016-07-15 10:33:46.012076,Lipitor,31,11.65
+Hunter,1986-10-14,Studio Corporation,2016-07-20 10:33:46.012102,banana,32,10.0
+Whitney,1983-11-20,Signal Star Hill Industries,2016-06-30 10:33:46.012127,PlayStation,15,256.78
+Lizette,1984-11-10,North Group,2016-07-09 10:33:46.012153,iPhone,17,797.51
+Leonor,1986-07-14,Internet Signal Industries,2016-07-26 10:33:46.012178,iPhone,19,838.78
+Clyde,1971-10-19,Federated Electronic LLC,2016-07-11 10:33:46.012204,Corolla,32,20326.0
+Rudolph,1973-08-05,Solutions North LLC,2016-07-27 10:33:46.012230,Thriller record,47,15.03
+Ellen,1979-03-13,Contract International,2016-07-20 10:33:46.012256,Corolla,35,24418.02
+Johnny,1989-11-16,Star Digital General Inc,2016-07-28 10:33:46.012281,Lipitor,39,10.17
+Mark,1979-01-09,Bell Source Group,2016-07-20 10:33:46.012310,PlayStation,21,255.6
+Burl,1980-11-28,Design Inc,2016-07-23 10:33:46.012337,Star Wars,49,11.03
+Clyde,1971-10-19,Federated Electronic LLC,2016-07-03 10:33:46.012363,Star Wars,9,10.28
+Elise,1977-05-11,Telecom Source LLC,2016-07-19 10:33:46.012389,Corolla,9,21847.03
+Darrick,1957-08-17,Consulting Inc,2016-07-22 10:33:46.012414,banana,47,10.0
+Will,1985-11-03,Consulting Medicine Group,2016-07-04 10:33:46.012440,Rubik’s Cube,50,17.67
+Moses,1978-01-01,Future Consulting Co,2016-07-10 10:33:46.012466,Lipitor,15,10.11
+Moses,1983-09-29,Federated Vision Electronic Organization,2016-07-27 10:33:46.012492,iPad,4,949.3
+Pricilla,1973-08-25,Software Corporation,2016-07-15 10:33:46.012541,PlayStation,34,229.68
+Angie,1970-08-17,Medicine Industries,2016-07-27 10:33:46.012587,Lipitor,47,11.59
+Mathew,1963-01-23,Analysis Frontier Corporation,2016-07-02 10:33:46.012640,iPhone,33,853.02
+Moses,1983-09-29,Federated Vision Electronic Organization,2016-07-23 10:33:46.012687,PlayStation,33,261.09
+Will,1985-11-03,Consulting Medicine Group,2016-07-12 10:33:46.012762,PlayStation,17,200.67
+Monique,1953-06-04,Contract Inc,2016-07-04 10:33:46.012790,Rubik’s Cube,27,15.04
+Warren,1958-05-19,General Inc,2016-07-22 10:33:46.012816,banana,11,10.0
+Alexandra,1987-04-28,Universal North Provider International,2016-07-12 10:33:46.012842,iPad,49,633.77
+Darrick,1957-08-17,Consulting Inc,2016-07-12 10:33:46.012868,Thriller record,21,8.71
+Will,1985-11-03,Consulting Medicine Group,2016-07-22 10:33:46.012894,Thriller record,38,11.53
+Lillian,1983-07-14,Digital Adventure Data Corporation,2016-07-01 10:33:46.012919,Rubik’s Cube,37,16.44
+Sol,1955-01-27,Medicine Limited,2016-07-19 10:33:46.012945,iPad,9,501.21
+Carmelo,1978-12-19,Net Limited,2016-07-13 10:33:46.012970,Corolla,42,22514.96
+Sophia,1977-09-30,Advanced Pacific Incorporated,2016-07-21 10:33:46.012996,iPhone,27,530.95
+Augusta,1977-11-29,Building Architecture Bell International,2016-07-28 10:33:46.013023,iPhone,28,879.42
+Ginger,1980-07-27,Industries Virtual Incorporated,2016-07-08 10:33:46.013048,Star Wars,15,10.23
+Katheryn,1981-08-06,South Atlantic Digital Incorporated,2016-07-08 10:33:46.013073,Lipitor,5,10.4
+Cathie,1970-11-04,Star Omega Source Inc,2016-07-12 10:33:46.013100,Star Wars,2,9.12
+Shelley,1984-05-15,Pacific Incorporated,2016-07-13 10:33:46.013126,PlayStation,30,288.58
+Lonnie,1955-01-28,Solutions Signal Inc,2016-07-03 10:33:46.013151,Star Wars,47,11.6
+George,1980-08-12,South Inc,2016-07-07 10:33:46.013176,Thriller record,4,17.27
+Lane,1983-11-04,Internet International,2016-07-22 10:33:46.013201,Rubik’s Cube,14,16.33
+Mark,1979-01-09,Bell Source Group,2016-07-08 10:33:46.013226,PlayStation,22,287.64
+Stanford,1985-10-26,Medicine Software International,2016-07-01 10:33:46.013251,PlayStation,22,207.28
+Kerri,1977-11-25,Power Research Telecom International,2016-07-08 10:33:46.013277,PlayStation,31,255.3
+Tammi,1985-09-17,Pacific Venture Corporation,2016-07-04 10:33:46.013302,Rubik’s Cube,36,18.9
+Arnulfo,1979-06-28,Direct Corporation,2016-07-06 10:33:46.013327,iPad,4,304.87
+Sherman,1982-10-01,Resource Co,2016-07-18 10:33:46.013353,Corolla,24,22931.41
+Sunny,1977-01-09,Research North Group,2016-07-12 10:33:46.013379,Corolla,26,23656.44
+Whitney,1983-11-20,Signal Star Hill Industries,2016-07-26 10:33:46.013409,iPhone,47,670.15
+Wilma,1953-12-24,Net Electronic Consulting Limited,2016-07-22 10:33:46.013435,Star Wars,49,8.77
+Justine,1981-02-07,Electronic Universal Star Industries,2016-07-10 10:33:46.013461,Thriller record,30,10.26
+Dwight,1983-05-11,Direct Power International,2016-06-30 10:33:46.013487,Star Wars,8,11.02
+Shantel,1975-07-10,East Corporation,2016-07-05 10:33:46.013512,Star Wars,41,11.89
+Laverne,1978-08-21,Alpha Corporation,2016-07-09 10:33:46.013538,Rubik’s Cube,33,18.76
+Gregorio,1981-07-29,Power Incorporated,2016-07-19 10:33:46.013563,Rubik’s Cube,9,17.96
+Nina,1956-11-12,West Signal Contract LLC,2016-07-18 10:33:46.013589,Rubik’s Cube,9,17.64
+Valerie,1973-10-21,Power Net Contract International,2016-07-11 10:33:46.013623,Thriller record,38,15.98
+Dion,1986-06-22,South Design International,2016-07-24 10:33:46.013649,PlayStation,33,298.79
+Jarrett,1970-01-23,Industries Incorporated,2016-07-07 10:33:46.013675,banana,35,10.0
+Sherman,1982-10-01,Resource Co,2016-07-11 10:33:46.013701,Lipitor,43,10.31
+Luther,1974-10-24,Technology LLC,2016-07-04 10:33:46.013726,PlayStation,43,282.9
+Holly,1953-12-25,Power Star LLC,2016-07-23 10:33:46.013752,Thriller record,20,19.24
+Shari,1960-02-17,Signal Network Agency,2016-07-11 10:33:46.013777,Harry Potter book,44,18.6
+Margret,1978-05-17,Software Limited,2016-07-28 10:33:46.013802,iPad,5,655.72
+Misty,1972-10-07,Universal International,2016-07-02 10:33:46.013828,iPad,48,887.03
+Arron,1980-09-26,Software Research International,2016-07-13 10:33:46.013853,banana,50,10.0
+Deidre,1981-08-24,Omega Telecom Limited,2016-07-16 10:33:46.013877,Lipitor,28,10.46
+Bettie,1983-09-07,Innovation Group,2016-07-19 10:33:46.013903,iPhone,39,410.78
+Derek,1970-09-26,Net Limited,2016-07-01 10:33:46.013929,Corolla,8,24393.5
+Chester,1967-05-24,Hardware Industries,2016-07-22 10:33:46.013966,banana,36,10.0
+Erika,1978-11-03,Alpha LLC,2016-07-05 10:33:46.013993,Star Wars,12,9.71
+Meagan,1978-07-17,South Medicine Group,2016-07-14 10:33:46.014018,Lipitor,28,11.46
+Michael,1987-03-07,Data General Agency,2016-07-05 10:33:46.014044,PlayStation,3,298.56
+Meagan,1978-07-17,South Medicine Group,2016-07-24 10:33:46.014070,iPhone,15,815.43
+Latosha,1972-03-19,Analysis Future Speed Inc,2016-07-20 10:33:46.014095,iPad,25,613.19
+Shad,1987-01-17,Future Studio Frontier Agency,2016-07-12 10:33:46.014121,Rubik’s Cube,25,18.14
+Harry,1985-01-10,Digital Solutions Group,2016-07-04 10:33:46.014147,PlayStation,34,299.3
+Booker,1979-12-15,Max Incorporated,2016-07-05 10:33:46.014172,banana,41,10.0
+Malinda,1978-04-13,Medicine People Galaxy Co,2016-07-12 10:33:46.014198,Corolla,9,22681.91
+Mohamed,1986-03-12,Star General People Inc,2016-07-01 10:33:46.014224,Lipitor,30,11.17
+Boyce,1980-11-12,Bell Building Co,2016-07-27 10:33:46.014251,Corolla,16,23416.33
+Lane,1983-11-04,Internet International,2016-07-24 10:33:46.014277,Harry Potter book,17,30.64
+Marcelo,1981-12-17,Star Frontier Agency,2016-07-01 10:33:46.014302,Rubik’s Cube,47,16.79
+Graciela,1980-10-28,Hill Incorporated,2016-07-22 10:33:46.014331,Star Wars,42,10.05
+Marva,1984-03-16,Technology Virtual Industries,2016-07-02 10:33:46.014358,Lipitor,20,10.62
+Lance,1982-04-19,Net Universal Speed Organization,2016-07-16 10:33:46.014383,PlayStation,7,273.46
+Loyd,1995-03-09,Construction Agency,2016-07-08 10:33:46.014409,Rubik’s Cube,1,17.0
+Eve,1981-01-09,Hill Application Limited,2016-07-03 10:33:46.014434,Harry Potter book,46,6.49
+Donna,1968-01-24,Vision Research Organization,2016-07-12 10:33:46.014460,iPad,11,977.88
+Janeen,1972-09-11,Software Design Industries Industries,2016-07-27 10:33:46.014486,Star Wars,33,11.07
+Darius,1984-03-27,Galaxy Universal Inc,2016-07-25 10:33:46.014512,Lipitor,35,11.05
+Kevin,1980-06-22,Medicine Internet Solutions Co,2016-07-21 10:33:46.014537,Thriller record,25,13.57
+Blake,1984-08-01,Star Industries,2016-07-24 10:33:46.014562,PlayStation,38,220.09
+Lacey,1996-10-05,Pacific Telecom Agency,2016-07-04 10:33:46.014588,Thriller record,31,11.72
+Heath,1965-01-10,Net Construction Inc,2016-07-14 10:33:46.014613,Corolla,49,22435.16
+Haydee,1985-01-05,West Federated East Incorporated,2016-07-25 10:33:46.014639,iPad,33,320.18
+Darius,1984-03-27,Galaxy Universal Inc,2016-07-14 10:33:46.014664,Thriller record,40,16.1
+Margarita,1994-04-15,Universal Co,2016-07-01 10:33:46.014689,iPhone,30,899.97
+Jarrett,1970-01-23,Industries Incorporated,2016-07-16 10:33:46.014715,Star Wars,21,9.44
+Wilson,1986-07-20,Speed Industries,2016-07-07 10:33:46.014740,PlayStation,24,293.75
+Bettie,1983-09-07,Innovation Group,2016-07-02 10:33:46.014765,PlayStation,26,234.7
+Janeen,1972-09-11,Software Design Industries Industries,2016-07-01 10:33:46.014790,Thriller record,30,8.97
+Anton,1982-09-03,North Studio International,2016-07-02 10:33:46.014815,Thriller record,21,14.48
+Amy,1972-12-05,Consulting Star Net Limited,2016-07-12 10:33:46.014841,iPad,45,665.42
+Lacey,1996-10-05,Pacific Telecom Agency,2016-07-23 10:33:46.014866,Star Wars,42,8.02
+Bret,1975-12-18,Galaxy Design Corporation,2016-07-28 10:33:46.014892,Harry Potter book,13,6.65
+Heath,1965-01-10,Net Construction Inc,2016-07-06 10:33:46.014917,Thriller record,31,8.15
+Lawrence,1979-12-11,Internet Innovation Provider Inc,2016-07-11 10:33:46.014942,Lipitor,29,11.56
+Carter,1969-03-08,Solutions Omega Limited,2016-07-13 10:33:46.014967,banana,2,10.0
+Valerie,1973-10-21,Power Net Contract International,2016-07-19 10:33:46.014993,Star Wars,3,10.95
+Lonnie,1955-01-28,Solutions Signal Inc,2016-07-01 10:33:46.015018,Harry Potter book,44,16.16
+April,1967-02-14,Construction Interactive West Limited,2016-07-05 10:33:46.015047,Corolla,8,20122.71
+Dominique,1975-07-07,Electronic Co,2016-07-02 10:33:46.015074,iPhone,17,590.21
+Rosario,1968-09-03,Future South Hardware International,2016-07-04 10:33:46.015098,Rubik’s Cube,5,18.16
+Harrison,1978-03-02,General Medicine Pacific Limited,2016-07-08 10:33:46.015123,Rubik’s Cube,45,16.56
+Kathy,1986-12-15,Resource Limited,2016-07-23 10:33:46.015149,PlayStation,38,233.18
+Rosendo,1983-07-03,Source International,2016-07-26 10:33:46.015174,Star Wars,45,9.44
+Milton,1982-03-13,Alpha Co,2016-07-20 10:33:46.015200,Thriller record,14,12.96
+Oralia,1979-10-03,Network Graphics Inc,2016-07-14 10:33:46.015226,PlayStation,36,241.12
+Kimberly,1967-06-15,Solutions Medicine Atlantic Incorporated,2016-07-25 10:33:46.015255,Thriller record,17,15.04
+Pattie,1982-11-04,North Bell Data Industries,2016-07-01 10:33:46.015281,Rubik’s Cube,44,18.02
+Rosendo,1983-07-03,Source International,2016-07-21 10:33:46.015306,Thriller record,41,18.75
+Rhea,1971-12-14,Frontier Data Co,2016-07-26 10:33:46.015333,Thriller record,15,13.18
+Alejandro,1984-06-10,Power Star Net International,2016-07-28 10:33:46.015358,Corolla,4,21880.98
+Margret,1978-05-17,Software Limited,2016-07-16 10:33:46.015383,banana,25,10.0
+Lance,1982-04-19,Net Universal Speed Organization,2016-07-01 10:33:46.015409,Thriller record,7,11.87
+Mayme,1981-05-17,Innovation Co,2016-07-02 10:33:46.015434,Harry Potter book,13,23.63
+Agatha,1977-09-14,Studio Future Telecom Co,2016-07-06 10:33:46.015459,Rubik’s Cube,20,18.65
+Ariana,1979-08-11,Innovation People Consulting Industries,2016-07-22 10:33:46.015485,Corolla,46,20982.54
+Lizette,1984-11-10,North Group,2016-07-22 10:33:46.015510,Rubik’s Cube,21,16.48
+Rey,1982-07-24,Data International,2016-07-01 10:33:46.015535,Corolla,37,24459.09
+Mandy,1955-03-28,Solutions Telecom Application Limited,2016-07-10 10:33:46.015560,iPad,48,604.04
+Duane,1982-05-07,North Federated Industries,2016-07-08 10:33:46.015686,Lipitor,19,10.48
+Jewel,1982-09-16,Galaxy Incorporated,2016-07-24 10:33:46.015714,Corolla,7,20751.7
+Hunter,1996-11-04,Systems Vision Industries,2016-07-26 10:33:46.015742,PlayStation,22,216.38
+Arron,1980-09-26,Software Research International,2016-07-10 10:33:46.015768,Corolla,26,23609.49
+Young,1963-05-01,Digital Star Studio Organization,2016-07-20 10:33:46.015793,Lipitor,1,11.45
+Noemi,1986-12-12,Analysis Technology Limited,2016-07-25 10:33:46.015818,Harry Potter book,8,23.3
+Eve,1981-01-09,Hill Application Limited,2016-06-30 10:33:46.015844,Thriller record,43,16.18
+Lance,1982-04-19,Net Universal Speed Organization,2016-07-19 10:33:46.015870,Star Wars,49,9.99
+Garret,1984-10-09,Architecture Solutions Incorporated,2016-07-27 10:33:46.015896,Thriller record,31,15.36
+Kevin,1980-06-22,Medicine Internet Solutions Co,2016-07-27 10:33:46.015998,Harry Potter book,28,8.51
+Kim,1986-01-05,Star Application Agency,2016-07-27 10:33:46.016045,PlayStation,12,262.15
+Sydney,1981-02-25,Design Network Source Incorporated,2016-07-16 10:33:46.016077,Corolla,32,20464.91
+Laurel,1992-01-30,Omega Industries,2016-07-08 10:33:46.016105,Rubik’s Cube,10,17.39
+Hunter,1996-11-04,Systems Vision Industries,2016-07-28 10:33:46.016133,banana,9,10.0
+Jacquelin,1998-12-17,Electronics Organization,2016-07-18 10:33:46.016160,Rubik’s Cube,35,16.34
+Nola,1957-11-08,Pacific Incorporated,2016-07-03 10:33:46.016187,PlayStation,38,294.19
+Chong,1979-02-26,East Adventure Inc,2016-07-19 10:33:46.016214,iPhone,46,786.77
+Zelda,1986-10-19,Contract Construction Frontier Corporation,2016-07-13 10:33:46.016241,iPhone,17,679.83
+Destiny,1986-02-13,Signal Vision Net LLC,2016-07-04 10:33:46.016268,Thriller record,40,9.32
+Stella,1981-06-04,Speed Industries,2016-07-06 10:33:46.016294,Rubik’s Cube,30,16.79
+Darrick,1957-08-17,Consulting Inc,2016-07-26 10:33:46.016320,PlayStation,47,294.25
+Katheryn,1981-08-06,South Atlantic Digital Incorporated,2016-07-26 10:33:46.016349,iPhone,28,422.39
+Paige,1985-11-23,Analysis Alpha Incorporated,2016-07-28 10:33:46.016376,Lipitor,33,10.79
+Ward,1980-12-04,Solutions Group,2016-06-30 10:33:46.016409,iPhone,6,774.15
+Hunter,1996-11-04,Systems Vision Industries,2016-07-26 10:33:46.016437,iPhone,33,628.47
+Maryellen,1968-07-12,Systems North Future Limited,2016-07-22 10:33:46.016463,Thriller record,24,19.46
+Donald,1985-10-27,Application Incorporated,2016-07-06 10:33:46.016489,iPad,13,713.29
+Jewel,1982-09-16,Galaxy Incorporated,2016-07-25 10:33:46.016516,banana,21,10.0
+Amado,1991-11-03,Galaxy Omega Provider Incorporated,2016-07-03 10:33:46.016543,iPhone,35,797.53
+Hunter,1986-10-14,Studio Corporation,2016-07-26 10:33:46.016570,Thriller record,16,18.97
+Haywood,1980-02-22,Hardware Venture Group,2016-07-27 10:33:46.016595,PlayStation,22,267.77
+Erika,1978-11-03,Alpha LLC,2016-07-12 10:33:46.016621,Thriller record,5,11.41
+Josie,1962-08-25,Internet Analysis Incorporated,2016-07-10 10:33:46.016647,Thriller record,32,13.52
+Terrell,1975-01-30,Resource Provider Industries,2016-07-09 10:33:46.016673,Rubik’s Cube,41,15.69
+Roberta,1983-11-28,Frontier Inc,2016-07-19 10:33:46.016698,Thriller record,24,11.9
+Warren,1958-05-19,General Inc,2016-07-03 10:33:46.016724,iPhone,36,630.22
+Oralia,1979-10-03,Network Graphics Inc,2016-07-20 10:33:46.016750,iPhone,6,464.59
+Destiny,1986-02-13,Signal Vision Net LLC,2016-07-18 10:33:46.016779,Lipitor,39,11.84
+Meagan,1978-07-17,South Medicine Group,2016-07-25 10:33:46.016805,Rubik’s Cube,33,15.96
+Dion,1986-06-22,South Design International,2016-07-16 10:33:46.016830,Lipitor,50,11.82
+Murray,1976-08-05,Graphics LLC,2016-06-30 10:33:46.016856,PlayStation,11,203.21
+Jules,1962-09-25,Direct Universal Industries,2016-07-02 10:33:46.016882,PlayStation,5,235.88
+Earnestine,1967-09-21,Galaxy Application International,2016-07-22 10:33:46.016910,Star Wars,12,11.96
+Deon,1983-04-05,Atlantic Limited,2016-07-06 10:33:46.016937,PlayStation,27,285.37
+Leilani,1990-05-16,East Virtual Hill Co,2016-07-26 10:33:46.016964,iPad,26,584.55
+Randolph,1987-01-09,Hill Omega Data Industries,2016-07-24 10:33:46.016990,Harry Potter book,22,24.76
+Mohamed,1986-03-12,Star General People Inc,2016-07-22 10:33:46.017016,Rubik’s Cube,23,15.68
+Claudine,1984-05-11,Building Industries,2016-07-16 10:33:46.017043,Harry Potter book,49,30.23
+Sherman,1982-10-01,Resource Co,2016-07-15 10:33:46.017069,iPad,43,1022.45
+Annemarie,1986-09-04,Contract Omega Network Incorporated,2016-07-12 10:33:46.017095,Star Wars,32,8.23
+Genaro,1979-08-07,Resource Telecom Technology Limited,2016-07-06 10:33:46.017121,banana,34,10.0
+Tracey,1975-11-20,Signal Group,2016-07-09 10:33:46.017147,Star Wars,14,9.37
+Agatha,1977-09-14,Studio Future Telecom Co,2016-07-26 10:33:46.017173,Rubik’s Cube,17,18.13
+Griselda,1952-05-08,Telecom Omega Incorporated,2016-07-04 10:33:46.017199,Lipitor,16,11.84
+Krista,1980-08-08,Software Alpha Design Corporation,2016-07-09 10:33:46.017224,Lipitor,37,10.68
+Geri,1972-06-22,Interactive Power Application Co,2016-07-16 10:33:46.017249,Harry Potter book,20,14.56
+Miguel,1983-11-20,Federated Inc,2016-07-17 10:33:46.017274,banana,7,10.0
+Deidre,1981-08-24,Omega Telecom Limited,2016-07-22 10:33:46.017300,Rubik’s Cube,42,18.41
+Sophia,1977-09-30,Advanced Pacific Incorporated,2016-07-09 10:33:46.017325,iPad,32,883.68
+Berta,1972-03-07,Resource Hardware Analysis Corporation,2016-07-08 10:33:46.017351,Lipitor,1,10.72
+Zelda,1986-10-19,Contract Construction Frontier Corporation,2016-07-20 10:33:46.017377,Star Wars,9,9.37
+Earnest,1984-03-19,Advanced Virtual Alpha Organization,2016-07-19 10:33:46.017402,iPad,6,601.07
+Son,1995-07-15,Telecom Innovation Universal Group,2016-07-21 10:33:46.017428,iPhone,46,687.03
+Rudolph,1973-08-05,Solutions North LLC,2016-07-04 10:33:46.017454,iPhone,24,815.4
+Darrick,1957-08-17,Consulting Inc,2016-07-03 10:33:46.017479,Lipitor,38,11.15
+Vernell,1976-11-02,Solutions Consulting Telecom Co,2016-07-26 10:33:46.017505,PlayStation,41,293.07
+Elijah,1992-05-10,Solutions Future Universal Group,2016-07-19 10:33:46.017532,Thriller record,19,16.91
+Gregorio,1993-04-18,Consulting Research Net Organization,2016-07-22 10:33:46.017557,Thriller record,18,10.17
+Doris,1998-07-30,Construction International,2016-07-05 10:33:46.017583,Star Wars,30,9.47
+William,1990-11-27,Net Universal Limited,2016-07-13 10:33:46.017608,iPhone,10,581.76
+Harry,1985-01-10,Digital Solutions Group,2016-07-21 10:33:46.017634,iPhone,42,770.63
+Dominique,1975-07-07,Electronic Co,2016-07-25 10:33:46.017659,Corolla,36,22630.96
+Amy,1972-12-05,Consulting Star Net Limited,2016-07-21 10:33:46.017685,iPhone,12,596.44
+Carmelo,1978-12-19,Net Limited,2016-07-04 10:33:46.017710,Star Wars,37,11.79
+Chester,1967-05-24,Hardware Industries,2016-07-28 10:33:46.017735,Corolla,24,23625.49
+Michael,1987-03-07,Data General Agency,2016-07-13 10:33:46.017761,Corolla,37,23881.6
+Carroll,1981-08-29,Alpha Graphics Group,2016-07-16 10:33:46.017786,Rubik’s Cube,33,15.8
+Nola,1957-11-08,Pacific Incorporated,2016-07-25 10:33:46.017812,banana,35,10.0
+Garry,1957-06-20,Max Adventure Pacific LLC,2016-07-20 10:33:46.017837,Lipitor,11,10.13
+Zenaida,1982-01-26,Interactive Building Agency,2016-07-06 10:33:46.017862,Thriller record,1,14.77
+Roma,1984-01-11,Analysis Frontier Agency,2016-07-01 10:33:46.017888,Thriller record,24,12.68
+Oralia,1979-10-03,Network Graphics Inc,2016-07-06 10:33:46.017913,PlayStation,3,286.34
+Johnnie,1975-09-01,Power Limited,2016-07-18 10:33:46.017939,Thriller record,24,14.65
+Oralia,1979-10-03,Network Graphics Inc,2016-07-15 10:33:46.017964,banana,39,10.0
+Mayme,1981-05-17,Innovation Co,2016-07-10 10:33:46.017990,Star Wars,18,11.2
+Jefferson,1993-03-04,Interactive Hardware Vision Corporation,2016-07-10 10:33:46.018016,Thriller record,3,11.68
+Genaro,1980-05-13,Contract Corporation,2016-06-30 10:33:46.018042,banana,23,10.0
+Genaro,1979-08-07,Resource Telecom Technology Limited,2016-07-12 10:33:46.018071,banana,49,10.0
+Leonor,1986-07-14,Internet Signal Industries,2016-07-01 10:33:46.018098,Thriller record,26,18.13
+Pauline,1985-09-20,General Limited,2016-07-20 10:33:46.018123,Harry Potter book,7,31.3
+Clarice,1984-04-13,Max Telecom Agency,2016-07-23 10:33:46.018149,banana,3,10.0
+Agatha,1977-09-14,Studio Future Telecom Co,2016-07-05 10:33:46.018175,Lipitor,5,10.83
+Marva,1984-03-16,Technology Virtual Industries,2016-07-10 10:33:46.018203,Harry Potter book,9,20.34
+Eve,1981-01-09,Hill Application Limited,2016-07-04 10:33:46.018229,Corolla,11,21431.31
+Hayden,1966-02-17,Star Signal Provider Limited,2016-07-22 10:33:46.018255,Lipitor,49,11.34
+Marcelo,1981-12-17,Star Frontier Agency,2016-07-13 10:33:46.018325,PlayStation,40,216.24
+Lonnie,1955-01-28,Solutions Signal Inc,2016-07-20 10:33:46.018376,Lipitor,29,11.63
+Delois,1981-11-07,Electronic Omega Group,2016-07-12 10:33:46.018404,Rubik’s Cube,15,18.3
+Amy,1972-12-05,Consulting Star Net Limited,2016-07-06 10:33:46.018487,iPad,35,858.99
+Mayme,1981-05-17,Innovation Co,2016-07-02 10:33:46.018517,Rubik’s Cube,9,16.64
+Sunny,1977-01-09,Research North Group,2016-07-05 10:33:46.018543,iPad,30,736.59
+Felipe,1965-02-03,Design Signal Inc,2016-07-12 10:33:46.018568,PlayStation,39,295.09
+Christin,1969-07-20,North Systems International,2016-07-12 10:33:46.018594,Rubik’s Cube,23,16.6
+Vernell,1976-11-02,Solutions Consulting Telecom Co,2016-07-09 10:33:46.018625,iPhone,7,814.61
+Ulysses,1980-08-24,Research Group,2016-07-21 10:33:46.018708,Thriller record,44,19.54
+Morgan,1985-09-26,Architecture Solutions International,2016-07-15 10:33:46.018766,Rubik’s Cube,29,16.95
+Randi,1986-05-08,Pacific Solutions Vision LLC,2016-07-21 10:33:46.018827,iPhone,47,592.72
+Shelley,1984-05-15,Pacific Incorporated,2016-07-27 10:33:46.018856,Rubik’s Cube,48,16.1
+Javier,1975-12-10,Design Inc,2016-07-25 10:33:46.018883,iPhone,50,482.35
+Priscilla,1985-09-16,Hill Software Construction Co,2016-07-11 10:33:46.018909,Harry Potter book,48,5.78
+Elba,1970-03-13,Alpha Speed Internet Limited,2016-07-20 10:33:46.018956,Harry Potter book,8,27.86
+Eduardo,1970-09-14,Consulting Incorporated,2016-07-23 10:33:46.019005,PlayStation,28,238.24
+Karol,1987-06-26,People Industries,2016-07-07 10:33:46.019101,Thriller record,41,12.7
+Roxanne,1983-05-20,Electronics General Architecture Agency,2016-07-02 10:33:46.019172,Corolla,49,22730.48
+Cristopher,1973-06-28,Digital Co,2016-07-21 10:33:46.019226,iPad,44,435.86
+Amy,1972-12-05,Consulting Star Net Limited,2016-07-06 10:33:46.019272,Star Wars,22,10.6
+Geri,1972-06-22,Interactive Power Application Co,2016-07-10 10:33:46.019317,Star Wars,27,11.25
+Destiny,1986-02-13,Signal Vision Net LLC,2016-07-24 10:33:46.019368,Lipitor,2,11.99
+Ola,1974-04-15,Advanced Resource Electronics Co,2016-07-24 10:33:46.019398,Harry Potter book,2,11.47
+Tia,1975-02-05,Bell Incorporated,2016-07-23 10:33:46.019425,Star Wars,44,9.04
+Josette,1984-10-11,Universal Bell Technology Incorporated,2016-07-25 10:33:46.019452,iPhone,47,845.33
+Daphne,1975-12-21,Architecture Contract Atlantic Co,2016-07-03 10:33:46.019480,iPhone,12,866.38
+Darius,1984-03-27,Galaxy Universal Inc,2016-07-11 10:33:46.019507,Corolla,23,23993.9
+Mark,1979-01-09,Bell Source Group,2016-07-04 10:33:46.019533,Rubik’s Cube,21,18.9
+Maryellen,1968-07-12,Systems North Future Limited,2016-07-22 10:33:46.019559,iPhone,9,686.57
+Gregorio,1981-07-29,Power Incorporated,2016-07-14 10:33:46.019585,Star Wars,32,10.45
+Derek,1970-09-26,Net Limited,2016-07-08 10:33:46.019611,iPhone,41,740.56
+Whitney,1983-11-20,Signal Star Hill Industries,2016-07-12 10:33:46.019639,Corolla,17,24304.65
+Elisa,1971-09-11,Network Organization,2016-07-23 10:33:46.019666,iPhone,25,757.79
+Alejandro,1984-06-10,Power Star Net International,2016-07-14 10:33:46.019695,Corolla,2,23962.44
+Holli,1978-08-07,People Contract Inc,2016-07-18 10:33:46.019723,Corolla,35,23768.14
+Noemi,1986-12-12,Analysis Technology Limited,2016-07-05 10:33:46.019748,Lipitor,28,11.27
+Nathanael,1969-08-24,Building Electronics Limited,2016-07-07 10:33:46.019774,Lipitor,27,10.91
+Tabatha,1976-12-27,Power Incorporated,2016-07-20 10:33:46.019805,Lipitor,28,11.36
+Javier,1975-12-10,Design Inc,2016-07-23 10:33:46.019890,Corolla,6,21368.3
+Kerri,1977-11-25,Power Research Telecom International,2016-07-25 10:33:46.019936,iPhone,38,720.6
+Michael,1987-03-07,Data General Agency,2016-07-28 10:33:46.019983,Rubik’s Cube,18,18.71
+Elma,1984-02-27,Digital Bell Incorporated,2016-07-24 10:33:46.020033,Harry Potter book,25,6.03
+Tracey,1975-11-20,Signal Group,2016-07-11 10:33:46.020080,PlayStation,44,275.81
+Son,1995-07-15,Telecom Innovation Universal Group,2016-07-08 10:33:46.020108,Thriller record,14,18.45
+Lane,1983-11-04,Internet International,2016-07-18 10:33:46.020134,PlayStation,41,206.81
+Janeen,1972-09-11,Software Design Industries Industries,2016-07-10 10:33:46.020161,Harry Potter book,8,10.48
+Shantel,1975-07-10,East Corporation,2016-07-12 10:33:46.020186,iPhone,46,488.04
+Melisa,1974-11-01,Alpha Bell Inc,2016-07-21 10:33:46.020211,Star Wars,45,10.02
+Antonio,1976-06-08,North South Corporation,2016-07-19 10:33:46.020237,PlayStation,6,202.68
+Susana,1962-11-13,Telecom Inc,2016-07-07 10:33:46.020264,Star Wars,31,10.84
+Melinda,1969-01-08,Net Galaxy Internet LLC,2016-07-25 10:33:46.020291,Harry Potter book,4,7.38
+Hayden,1966-02-17,Star Signal Provider Limited,2016-07-22 10:33:46.020318,Corolla,15,20765.53
+Eldon,1981-03-22,Frontier Galaxy Analysis Inc,2016-07-17 10:33:46.020345,PlayStation,43,237.76
+Blake,1984-08-01,Star Industries,2016-07-05 10:33:46.020374,banana,36,10.0
+Chiquita,1968-06-05,Telecom Provider Corporation,2016-07-25 10:33:46.020456,Lipitor,18,11.12
+Romeo,1987-02-05,Contract Medicine Federated International,2016-07-20 10:33:46.020501,Harry Potter book,12,16.63
+Angie,1970-08-17,Medicine Industries,2016-07-20 10:33:46.020543,Lipitor,38,10.13
+Mohamed,1978-03-15,Federated North Corporation,2016-07-22 10:33:46.020586,Lipitor,33,10.66
+Pauline,1985-09-20,General Limited,2016-07-17 10:33:46.020632,iPhone,6,799.61
+Donald,1985-10-27,Application Incorporated,2016-07-23 10:33:46.020677,Harry Potter book,36,31.27
+Shantel,1975-07-10,East Corporation,2016-07-08 10:33:46.020720,banana,11,10.0
+Cristopher,1973-06-28,Digital Co,2016-07-01 10:33:46.020765,Lipitor,30,10.34
+Leone,1977-09-26,Signal Co,2016-07-22 10:33:46.020794,PlayStation,2,278.81
+Sang,1969-08-19,Industries People Group,2016-07-21 10:33:46.020820,PlayStation,30,285.13
+Melisa,1974-11-01,Alpha Bell Inc,2016-07-06 10:33:46.020890,banana,27,10.0
+Mohamed,1978-03-15,Federated North Corporation,2016-07-27 10:33:46.020935,Thriller record,3,8.81
+Jean,1985-12-01,General Network Corporation,2016-07-14 10:33:46.020962,Lipitor,36,11.14
+Dion,1986-06-22,South Design International,2016-07-28 10:33:46.020989,PlayStation,45,250.87
+Modesto,1972-06-15,People Building Virtual Industries,2016-07-22 10:33:46.021015,Lipitor,2,11.15
+Jewell,1982-07-30,South Incorporated,2016-07-01 10:33:46.021040,iPhone,12,861.47
+Myles,1991-01-30,Electronics Construction Source Inc,2016-07-19 10:33:46.021065,Harry Potter book,32,29.07
+Jacquelin,1998-12-17,Electronics Organization,2016-07-21 10:33:46.021097,iPad,23,531.77
+Graciela,1980-10-28,Hill Incorporated,2016-07-17 10:33:46.021127,Thriller record,28,10.62
+Annemarie,1986-09-04,Contract Omega Network Incorporated,2016-07-03 10:33:46.021152,Star Wars,33,10.55
+Lance,1982-04-19,Net Universal Speed Organization,2016-07-07 10:33:46.021265,Lipitor,39,10.97
+Lynda,1980-03-31,Graphics Signal South Industries,2016-07-01 10:33:46.021304,Harry Potter book,10,12.82
+Geri,1977-09-08,Signal Inc,2016-07-01 10:33:46.021335,Harry Potter book,49,13.73
+Luther,1974-10-24,Technology LLC,2016-07-01 10:33:46.021363,Thriller record,10,13.64
+Violet,1978-04-19,Max Corporation,2016-07-26 10:33:46.021390,iPad,42,888.3
+Eldon,1981-03-22,Frontier Galaxy Analysis Inc,2016-07-14 10:33:46.021417,Thriller record,22,14.13
+Jody,1974-08-25,West Construction International,2016-07-06 10:33:46.021444,banana,10,10.0
+Alexandra,1987-04-28,Universal North Provider International,2016-07-21 10:33:46.021471,PlayStation,43,243.97
+Darrick,1957-08-17,Consulting Inc,2016-07-28 10:33:46.021498,Rubik’s Cube,4,16.5
+Darius,1984-03-27,Galaxy Universal Inc,2016-07-17 10:33:46.021525,iPad,9,1085.22
+Tory,1969-11-23,Venture Limited,2016-07-07 10:33:46.021555,PlayStation,4,229.79
+Marva,1984-03-16,Technology Virtual Industries,2016-07-11 10:33:46.021582,Thriller record,44,19.03
+Young,1978-10-19,Universal LLC,2016-07-27 10:33:46.021608,Harry Potter book,14,16.13
+Tanisha,1979-04-23,Construction Consulting Star Organization,2016-07-19 10:33:46.021634,banana,18,10.0
+Vaughn,1959-12-18,Star Universal Co,2016-07-25 10:33:46.021660,Star Wars,40,11.72
+Haydee,1985-01-05,West Federated East Incorporated,2016-07-13 10:33:46.021687,Corolla,23,24963.76
+Eldon,1981-03-22,Frontier Galaxy Analysis Inc,2016-07-27 10:33:46.021713,Thriller record,24,12.33
+Lizette,1984-11-10,North Group,2016-07-07 10:33:46.021743,Thriller record,34,9.18
+Son,1995-07-15,Telecom Innovation Universal Group,2016-07-25 10:33:46.021769,Harry Potter book,8,31.89
+Carter,1969-03-08,Solutions Omega Limited,2016-07-05 10:33:46.021795,Rubik’s Cube,5,17.12
+Verna,1985-12-07,Digital Data Incorporated,2016-07-15 10:33:46.021821,Lipitor,9,10.56
+Jane,1973-02-03,Net West Federated LLC,2016-07-25 10:33:46.021847,Harry Potter book,39,13.69
+Issac,1984-03-20,Application Omega Future International,2016-07-25 10:33:46.021873,Lipitor,14,11.78
+Eduardo,1971-09-12,Digital Design Application Inc,2016-07-14 10:33:46.021901,PlayStation,19,249.63
+Clyde,1971-10-19,Federated Electronic LLC,2016-07-04 10:33:46.021926,Thriller record,19,16.6
+Roscoe,1972-02-28,Federated Systems Limited,2016-07-14 10:33:46.021952,iPad,29,387.96
+Pauline,1985-09-20,General Limited,2016-07-25 10:33:46.021978,PlayStation,43,246.92
+Deidra,1971-06-04,Electronics Co,2016-07-23 10:33:46.022004,Star Wars,42,8.46
+Homer,1974-01-24,Vision Construction Industries,2016-07-25 10:33:46.022029,Lipitor,32,11.04
+Chester,1967-05-24,Hardware Industries,2016-07-07 10:33:46.022054,Star Wars,48,10.62
+Deanne,1953-04-18,Pacific International,2016-07-07 10:33:46.022079,Rubik’s Cube,4,16.85
+Violet,1978-04-19,Max Corporation,2016-07-24 10:33:46.022105,banana,22,10.0
+Leif,1999-04-29,Power Incorporated,2016-07-10 10:33:46.022131,PlayStation,7,267.01
+Carter,1969-03-08,Solutions Omega Limited,2016-07-23 10:33:46.022157,Harry Potter book,30,25.57
+Garry,1957-06-20,Max Adventure Pacific LLC,2016-07-19 10:33:46.022182,Thriller record,40,8.64
+Jonnie,1981-03-02,Design Hill Corporation,2016-07-04 10:33:46.022208,PlayStation,14,214.19
+Morgan,1985-09-26,Architecture Solutions International,2016-07-09 10:33:46.022234,Corolla,24,20077.72
+Lonnie,1955-01-28,Solutions Signal Inc,2016-07-18 10:33:46.022261,iPad,49,635.34
+Haywood,1980-02-22,Hardware Venture Group,2016-07-04 10:33:46.022287,Corolla,5,23967.71
+Meagan,1978-07-17,South Medicine Group,2016-07-01 10:33:46.022313,iPhone,36,664.46
+Geri,1972-06-22,Interactive Power Application Co,2016-07-11 10:33:46.022338,Thriller record,23,11.76
+Kevin,1980-06-22,Medicine Internet Solutions Co,2016-07-25 10:33:46.022364,Harry Potter book,35,22.26
+Adelaide,1986-02-07,Application Electronics Telecom Inc,2016-07-14 10:33:46.022390,banana,6,10.0
+Deon,1983-04-05,Atlantic Limited,2016-07-22 10:33:46.022415,Harry Potter book,39,21.2
+Felipe,1965-02-03,Design Signal Inc,2016-07-07 10:33:46.022441,Corolla,8,23474.57
+Cristopher,1973-06-28,Digital Co,2016-07-03 10:33:46.022466,Rubik’s Cube,35,16.37
+Jewel,1982-09-16,Galaxy Incorporated,2016-07-09 10:33:46.022491,Lipitor,50,10.77
+Rey,1982-07-24,Data International,2016-07-24 10:33:46.022517,Rubik’s Cube,47,16.62
+Morgan,1985-09-26,Architecture Solutions International,2016-07-21 10:33:46.022542,Harry Potter book,10,7.66
+Jo,1974-11-09,Systems South Corporation,2016-07-26 10:33:46.022568,iPhone,48,551.66
+Jarrett,1970-01-23,Industries Incorporated,2016-07-19 10:33:46.022593,iPad,1,778.0
+Priscilla,1985-09-16,Hill Software Construction Co,2016-07-09 10:33:46.022619,PlayStation,6,250.97
+Hayden,1966-02-17,Star Signal Provider Limited,2016-07-17 10:33:46.022645,banana,17,10.0
+Nina,1956-11-12,West Signal Contract LLC,2016-06-30 10:33:46.022670,Star Wars,7,11.25
+Leone,1977-09-26,Signal Co,2016-07-27 10:33:46.022697,Harry Potter book,2,5.09
+Sasha,1999-04-24,Building Source International,2016-07-01 10:33:46.022722,PlayStation,14,240.58
+Justin,1958-10-03,Analysis Omega Venture International,2016-07-04 10:33:46.022747,Lipitor,17,11.95
+Marva,1984-03-16,Technology Virtual Industries,2016-07-21 10:33:46.022774,Lipitor,48,10.66
+Shelby,1985-10-13,Signal Max West International,2016-07-13 10:33:46.022799,Thriller record,10,15.75
+Maryellen,1968-07-12,Systems North Future Limited,2016-07-18 10:33:46.022824,Rubik’s Cube,4,18.69
+Tory,1969-11-23,Venture Limited,2016-07-24 10:33:46.022850,Star Wars,19,8.85
+Candida,1986-04-02,Solutions Pacific Future Limited,2016-07-07 10:33:46.022880,Harry Potter book,7,11.14
+Doris,1998-07-30,Construction International,2016-07-23 10:33:46.022906,banana,48,10.0
+Zelda,1986-10-19,Contract Construction Frontier Corporation,2016-06-30 10:33:46.022932,Star Wars,50,9.91
+Annemarie,1986-09-04,Contract Omega Network Incorporated,2016-07-10 10:33:46.022958,Corolla,2,20175.96
+Misty,1972-10-07,Universal International,2016-07-27 10:33:46.022984,Star Wars,32,11.96
+Gregorio,1981-07-29,Power Incorporated,2016-07-11 10:33:46.023009,iPhone,19,744.41
+Les,1993-06-03,Vision Galaxy Incorporated,2016-07-26 10:33:46.023040,Harry Potter book,32,14.04
+Gregoria,1970-06-15,Vision North General Industries,2016-07-04 10:33:46.023066,Lipitor,11,10.38
+Mark,1979-01-09,Bell Source Group,2016-07-14 10:33:46.023095,iPhone,18,564.02
+Augusta,1977-11-29,Building Architecture Bell International,2016-07-10 10:33:46.023122,Star Wars,17,8.82
+Cody,1981-06-22,Building Solutions Limited,2016-07-25 10:33:46.023148,iPhone,19,420.15
+Chiquita,1968-06-05,Telecom Provider Corporation,2016-07-28 10:33:46.023174,Corolla,42,20451.38
+Donald,1985-10-27,Application Incorporated,2016-07-08 10:33:46.023200,Thriller record,38,9.47
+Erika,1978-11-03,Alpha LLC,2016-07-28 10:33:46.023225,iPad,10,970.27
+Noemi,1986-12-12,Analysis Technology Limited,2016-07-15 10:33:46.023250,iPhone,20,463.92
+Sol,1955-01-27,Medicine Limited,2016-07-17 10:33:46.023276,Rubik’s Cube,29,18.11
+Noemi,1986-12-12,Analysis Technology Limited,2016-07-16 10:33:46.023302,Lipitor,10,11.73
+Elisa,1971-09-11,Network Organization,2016-07-25 10:33:46.023327,PlayStation,39,276.73
+Jody,1974-08-25,West Construction International,2016-07-09 10:33:46.023354,Rubik’s Cube,8,16.99
+Dominique,1975-07-07,Electronic Co,2016-07-04 10:33:46.023379,Star Wars,38,9.87
+Robert,1990-08-08,Alpha Atlantic Inc,2016-07-03 10:33:46.023405,PlayStation,31,236.99
+Booker,1979-12-15,Max Incorporated,2016-07-17 10:33:46.023430,Lipitor,17,10.45
+Leilani,1990-05-16,East Virtual Hill Co,2016-07-11 10:33:46.023456,Rubik’s Cube,8,15.13
+Verna,1985-12-07,Digital Data Incorporated,2016-07-14 10:33:46.023482,PlayStation,35,228.46
+Will,1985-11-03,Consulting Medicine Group,2016-07-12 10:33:46.023507,PlayStation,10,294.82
+Kimberly,1967-06-15,Solutions Medicine Atlantic Incorporated,2016-07-20 10:33:46.023533,banana,22,10.0
+Kami,1981-07-31,Star Incorporated,2016-07-18 10:33:46.023560,Rubik’s Cube,23,17.06
+Lavonne,1978-05-12,Construction Electronics Application Industries,2016-07-20 10:33:46.023586,Harry Potter book,20,27.89
+Whitney,1983-11-20,Signal Star Hill Industries,2016-07-12 10:33:46.023612,Rubik’s Cube,19,15.14
+Jefferson,1993-03-04,Interactive Hardware Vision Corporation,2016-07-20 10:33:46.023640,Rubik’s Cube,33,16.27
+Destiny,1986-02-13,Signal Vision Net LLC,2016-07-12 10:33:46.023666,iPhone,10,490.55
+Zelda,1986-10-19,Contract Construction Frontier Corporation,2016-07-27 10:33:46.023692,Thriller record,38,16.25
+Hayden,1966-02-17,Star Signal Provider Limited,2016-07-11 10:33:46.023718,Lipitor,4,10.23
+Muriel,1981-01-21,West Max Agency,2016-07-06 10:33:46.023743,banana,44,10.0
+Mathew,1963-01-23,Analysis Frontier Corporation,2016-07-06 10:33:46.023768,iPad,23,1014.66
+Roxanne,1983-05-20,Electronics General Architecture Agency,2016-07-01 10:33:46.023794,Star Wars,9,11.09
+Terrell,1975-01-30,Resource Provider Industries,2016-07-10 10:33:46.023819,Rubik’s Cube,22,18.81
+Jewel,1982-09-16,Galaxy Incorporated,2016-07-10 10:33:46.023845,Harry Potter book,2,32.68
+Tracey,1975-11-20,Signal Group,2016-07-11 10:33:46.023870,banana,14,10.0
+Valeria,1979-02-18,Speed Advanced Analysis Industries,2016-07-14 10:33:46.023895,banana,30,10.0
+Valeria,1979-02-18,Speed Advanced Analysis Industries,2016-07-17 10:33:46.023922,iPad,15,697.19
+Randi,1986-05-08,Pacific Solutions Vision LLC,2016-07-22 10:33:46.023947,banana,3,10.0
+Kurt,1997-11-25,Frontier Limited,2016-07-09 10:33:46.023972,banana,4,10.0
+Derek,1970-09-26,Net Limited,2016-06-30 10:33:46.023998,Lipitor,32,11.41
+Esperanza,1986-06-27,Data Resource Group,2016-07-19 10:33:46.024023,Rubik’s Cube,27,16.85
+Mia,1967-12-25,Alpha Power Net Limited,2016-07-05 10:33:46.024048,Corolla,32,21786.21
+Genaro,1979-08-07,Resource Telecom Technology Limited,2016-07-27 10:33:46.024074,PlayStation,6,247.09
+Felicita,1987-01-19,Source Inc,2016-07-04 10:33:46.024100,Thriller record,20,11.19
+Esperanza,1986-06-27,Data Resource Group,2016-07-16 10:33:46.024125,Harry Potter book,35,31.41
+Chong,1979-02-26,East Adventure Inc,2016-07-26 10:33:46.024150,Rubik’s Cube,49,16.38
+Sydney,1981-02-25,Design Network Source Incorporated,2016-07-21 10:33:46.024176,banana,46,10.0
+Randolph,1987-01-09,Hill Omega Data Industries,2016-07-03 10:33:46.024202,PlayStation,42,295.29
+Derek,1970-09-26,Net Limited,2016-07-23 10:33:46.024227,Star Wars,13,8.95
+Vernell,1976-11-02,Solutions Consulting Telecom Co,2016-07-27 10:33:46.024253,Rubik’s Cube,24,16.52
+Roscoe,1972-02-28,Federated Systems Limited,2016-07-10 10:33:46.024279,Star Wars,15,10.35
+Krista,1980-08-08,Software Alpha Design Corporation,2016-07-19 10:33:46.024305,PlayStation,37,212.98
+Leonor,1986-07-14,Internet Signal Industries,2016-07-11 10:33:46.024335,Star Wars,37,11.2
+Felipe,1965-02-03,Design Signal Inc,2016-07-16 10:33:46.024360,iPhone,17,460.52
+Mathew,1963-01-23,Analysis Frontier Corporation,2016-07-03 10:33:46.024386,banana,40,10.0
+Juliet,1983-09-01,Future Organization,2016-07-07 10:33:46.024412,iPhone,4,660.48
+Christin,1969-07-20,North Systems International,2016-07-16 10:33:46.024438,iPhone,27,466.31
+Eduardo,1971-09-12,Digital Design Application Inc,2016-07-22 10:33:46.024464,iPhone,4,494.22
+Mario,1954-09-14,Alpha Network Corporation,2016-07-05 10:33:46.024489,banana,43,10.0
+Candida,1986-04-02,Solutions Pacific Future Limited,2016-07-26 10:33:46.024519,Star Wars,24,11.99
+Nichole,1980-12-28,Direct Power Agency,2016-07-17 10:33:46.024546,iPad,46,826.94
+Lillian,1983-07-14,Digital Adventure Data Corporation,2016-07-13 10:33:46.024573,PlayStation,31,291.88
+Tabatha,1976-12-27,Power Incorporated,2016-07-25 10:33:46.024598,Thriller record,32,16.95
+Modesto,1972-06-15,People Building Virtual Industries,2016-07-02 10:33:46.024624,iPhone,49,645.41
+Angie,1970-08-17,Medicine Industries,2016-07-08 10:33:46.024649,PlayStation,6,255.03
+Les,1993-06-03,Vision Galaxy Incorporated,2016-07-06 10:33:46.024674,PlayStation,13,228.29
+Esperanza,1986-06-27,Data Resource Group,2016-07-10 10:33:46.024700,Lipitor,50,10.93
+Leif,1999-04-29,Power Incorporated,2016-07-11 10:33:46.024726,banana,22,10.0
+Holly,1953-12-25,Power Star LLC,2016-07-23 10:33:46.024751,Rubik’s Cube,27,18.07
+Sunny,1977-01-09,Research North Group,2016-07-19 10:33:46.024777,Lipitor,12,10.91
+Ulysses,1980-08-24,Research Group,2016-07-15 10:33:46.024804,Star Wars,40,10.19
+Dominique,1975-07-07,Electronic Co,2016-07-22 10:33:46.024829,iPad,21,383.62
+Eve,1980-01-04,Interactive Hardware Incorporated,2016-07-15 10:33:46.024856,PlayStation,6,266.4
+Issac,1984-03-20,Application Omega Future International,2016-07-28 10:33:46.024882,Thriller record,38,13.39
+Mandy,1955-03-28,Solutions Telecom Application Limited,2016-07-08 10:33:46.024908,iPhone,47,611.4
+Antonio,1976-06-08,North South Corporation,2016-07-01 10:33:46.024934,Corolla,10,20164.91
+Kim,1986-01-05,Star Application Agency,2016-07-27 10:33:46.024962,Lipitor,41,11.73
+Laura,1987-06-19,Interactive Organization,2016-07-18 10:33:46.024989,banana,42,10.0
+Hunter,1986-10-14,Studio Corporation,2016-07-28 10:33:46.025014,Lipitor,24,10.29
+Gregorio,1981-07-29,Power Incorporated,2016-07-02 10:33:46.025039,Lipitor,28,10.79
+Elba,1970-03-13,Alpha Speed Internet Limited,2016-07-12 10:33:46.025065,banana,29,10.0
+Leone,1977-09-26,Signal Co,2016-07-08 10:33:46.025090,PlayStation,49,237.31
+Romeo,1987-02-05,Contract Medicine Federated International,2016-07-12 10:33:46.025116,iPad,20,399.5
+Andrea,1965-07-21,Analysis Signal Technology LLC,2016-07-28 10:33:46.025142,iPad,43,486.43
+Ulysses,1980-08-24,Research Group,2016-06-30 10:33:46.025167,Lipitor,5,11.25
+Zenaida,1982-01-26,Interactive Building Agency,2016-07-06 10:33:46.025192,Rubik’s Cube,29,15.42
+Kevin,1980-06-22,Medicine Internet Solutions Co,2016-07-27 10:33:46.025217,PlayStation,38,270.8
+Antonette,1978-08-14,Power General Corporation,2016-07-21 10:33:46.025242,Star Wars,29,11.59
+Ariana,1979-08-11,Innovation People Consulting Industries,2016-07-23 10:33:46.025268,Rubik’s Cube,43,16.23
+Audrey,1984-11-01,Analysis Interactive Virtual International,2016-07-02 10:33:46.025293,iPhone,19,401.52
+Easter,1986-03-13,Speed Systems Solutions Limited,2016-07-08 10:33:46.025318,Harry Potter book,17,24.04
+Robert,1990-08-08,Alpha Atlantic Inc,2016-07-11 10:33:46.025343,Lipitor,21,10.47
+Genaro,1980-05-13,Contract Corporation,2016-07-27 10:33:46.025369,banana,22,10.0
+Romeo,1987-02-05,Contract Medicine Federated International,2016-07-12 10:33:46.025395,Rubik’s Cube,2,17.3
+Wendell,1986-10-03,Network Application Software International,2016-07-15 10:33:46.025420,Thriller record,12,8.08
+Kristie,1983-02-10,Electronics Signal LLC,2016-07-19 10:33:46.025445,banana,22,10.0
+Haywood,1980-02-22,Hardware Venture Group,2016-07-19 10:33:46.025472,Star Wars,9,10.11
+Christin,1969-07-20,North Systems International,2016-07-22 10:33:46.025497,Corolla,19,24201.68
+Miguel,1983-11-20,Federated Inc,2016-07-07 10:33:46.025523,Lipitor,3,11.04
+Moses,1983-09-29,Federated Vision Electronic Organization,2016-07-25 10:33:46.025548,Rubik’s Cube,4,15.44
+Rudolph,1973-08-05,Solutions North LLC,2016-07-28 10:33:46.025573,iPhone,8,792.11
+Tosha,1997-07-30,East Net Systems Agency,2016-07-22 10:33:46.025600,iPad,26,980.62
+Earnest,1984-03-19,Advanced Virtual Alpha Organization,2016-07-18 10:33:46.025628,Star Wars,38,8.43
+Lillian,1983-07-14,Digital Adventure Data Corporation,2016-07-14 10:33:46.025654,Rubik’s Cube,31,15.97
+Sunny,1977-01-09,Research North Group,2016-07-09 10:33:46.025679,Rubik’s Cube,14,17.69
+Warren,1958-05-19,General Inc,2016-07-17 10:33:46.025704,Rubik’s Cube,50,15.25
+Modesto,1972-06-15,People Building Virtual Industries,2016-07-23 10:33:46.025730,PlayStation,50,203.34
+Rosario,1968-09-03,Future South Hardware International,2016-07-28 10:33:46.025754,Lipitor,28,10.19
+Clarice,1984-04-13,Max Telecom Agency,2016-07-14 10:33:46.025779,Star Wars,14,11.43
+Clarice,1984-04-13,Max Telecom Agency,2016-07-25 10:33:46.025805,iPad,49,1026.23
+Mohamed,1978-03-15,Federated North Corporation,2016-07-09 10:33:46.025830,iPad,36,961.47
+Myles,1991-01-30,Electronics Construction Source Inc,2016-07-19 10:33:46.025855,iPhone,3,752.11
+Garry,1998-02-25,Internet Co,2016-07-06 10:33:46.025880,banana,31,10.0
+Ward,1980-12-04,Solutions Group,2016-07-13 10:33:46.025905,iPad,11,1072.5
+Moses,1983-09-29,Federated Vision Electronic Organization,2016-07-23 10:33:46.025930,iPhone,10,895.7
+Geri,1977-09-08,Signal Inc,2016-07-26 10:33:46.025956,iPhone,26,523.46
+Johnny,1971-04-16,General Organization,2016-07-18 10:33:46.025980,iPad,21,533.28
+George,1980-08-12,South Inc,2016-07-03 10:33:46.026005,Corolla,19,23465.33
+Son,1995-07-15,Telecom Innovation Universal Group,2016-07-07 10:33:46.026030,Rubik’s Cube,35,18.9
+Roxanne,1983-05-20,Electronics General Architecture Agency,2016-07-23 10:33:46.026055,Star Wars,26,10.51
+Augusta,1977-11-29,Building Architecture Bell International,2016-07-15 10:33:46.026080,banana,10,10.0
+Will,1985-11-03,Consulting Medicine Group,2016-07-23 10:33:46.026104,Corolla,47,22712.6
+Sol,1955-01-27,Medicine Limited,2016-07-10 10:33:46.026133,banana,41,10.0
+Lizette,1984-11-10,North Group,2016-07-02 10:33:46.026158,banana,49,10.0
+Pattie,1982-11-04,North Bell Data Industries,2016-07-20 10:33:46.026184,Rubik’s Cube,11,18.36
+Vaughn,1959-12-18,Star Universal Co,2016-07-21 10:33:46.026210,Lipitor,29,11.39
+Stella,1981-06-04,Speed Industries,2016-07-05 10:33:46.026248,Thriller record,35,12.16
+Michael,1987-03-07,Data General Agency,2016-07-25 10:33:46.026273,Rubik’s Cube,10,15.78
+Ward,1980-12-04,Solutions Group,2016-07-16 10:33:46.026298,Lipitor,43,10.79
+Garry,1998-02-25,Internet Co,2016-07-28 10:33:46.026322,Lipitor,48,11.98
+Hayden,1966-02-17,Star Signal Provider Limited,2016-07-18 10:33:46.026347,Harry Potter book,40,28.91
+Sasha,1999-04-24,Building Source International,2016-07-16 10:33:46.026371,Thriller record,20,16.39
+Homer,1974-01-24,Vision Construction Industries,2016-07-26 10:33:46.026395,PlayStation,38,206.24
+Romeo,1987-02-05,Contract Medicine Federated International,2016-07-06 10:33:46.026420,Harry Potter book,31,31.51
+Arron,1980-09-26,Software Research International,2016-07-24 10:33:46.026444,iPad,13,457.51
+Robert,1990-08-08,Alpha Atlantic Inc,2016-07-20 10:33:46.026469,iPad,21,748.53
+Calvin,1972-01-25,Application Solutions Direct Co,2016-07-09 10:33:46.026494,iPad,29,764.77
+Randolph,1987-01-09,Hill Omega Data Industries,2016-07-22 10:33:46.026518,Thriller record,37,13.03
+Graciela,1980-10-28,Hill Incorporated,2016-07-12 10:33:46.026543,iPad,48,430.01
+Denise,1987-03-08,Atlantic Limited,2016-07-20 10:33:46.026568,PlayStation,32,247.28
+Noah,1979-12-07,Bell Direct LLC,2016-07-08 10:33:46.026593,Thriller record,6,16.78
+Chong,1979-02-26,East Adventure Inc,2016-07-28 10:33:46.026618,Star Wars,2,11.93
+Priscilla,1985-09-16,Hill Software Construction Co,2016-06-30 10:33:46.026642,PlayStation,41,291.56
+Sang,1969-08-19,Industries People Group,2016-07-13 10:33:46.026667,Star Wars,39,9.27
+Kathi,1985-07-22,Consulting Limited,2016-07-03 10:33:46.026691,Corolla,47,22007.98
+Felipe,1965-02-03,Design Signal Inc,2016-07-20 10:33:46.026716,iPad,38,580.97
+Moses,1978-01-01,Future Consulting Co,2016-07-04 10:33:46.026740,Lipitor,49,11.36
+Lillian,1983-07-14,Digital Adventure Data Corporation,2016-07-07 10:33:46.026764,iPhone,49,874.02
+Aisha,1956-11-14,Federated International,2016-07-21 10:33:46.026791,Lipitor,48,10.25
+Delbert,1969-12-23,Virtual Interactive Organization,2016-07-08 10:33:46.026817,Corolla,45,20106.25
+Delois,1981-11-07,Electronic Omega Group,2016-07-19 10:33:46.026842,iPhone,27,449.31
+Tammi,1985-09-17,Pacific Venture Corporation,2016-07-13 10:33:46.026867,banana,30,10.0
+Carroll,1981-08-29,Alpha Graphics Group,2016-07-15 10:33:46.026893,Corolla,32,23464.17
+Josie,1962-08-25,Internet Analysis Incorporated,2016-07-14 10:33:46.026918,iPhone,48,725.14
+Justine,1981-02-07,Electronic Universal Star Industries,2016-07-17 10:33:46.026944,Thriller record,10,14.1
+Tammi,1985-09-17,Pacific Venture Corporation,2016-07-18 10:33:46.026969,PlayStation,8,297.72
+Oralia,1979-10-03,Network Graphics Inc,2016-07-17 10:33:46.026994,Thriller record,44,19.51
+Shari,1960-02-17,Signal Network Agency,2016-07-13 10:33:46.027019,PlayStation,39,285.32
+George,1980-08-12,South Inc,2016-07-08 10:33:46.027044,Star Wars,5,10.9
+Carmine,1981-03-17,Adventure Electronics Limited,2016-07-19 10:33:46.027068,Star Wars,44,10.04
+Mayme,1981-05-17,Innovation Co,2016-07-23 10:33:46.027093,Lipitor,48,11.38
+George,1980-08-12,South Inc,2016-07-17 10:33:46.027118,Harry Potter book,30,21.89
+Katheryn,1981-08-06,South Atlantic Digital Incorporated,2016-07-07 10:33:46.027142,banana,15,10.0
+Wilson,1986-07-20,Speed Industries,2016-07-14 10:33:46.027166,Rubik’s Cube,24,18.08
+Anton,1982-09-03,North Studio International,2016-07-11 10:33:46.027190,Corolla,27,23186.89
+Sang,1969-08-19,Industries People Group,2016-07-12 10:33:46.027214,Harry Potter book,40,20.43
+Marcelo,1981-12-17,Star Frontier Agency,2016-07-17 10:33:46.027239,Harry Potter book,49,8.13
+Pricilla,1973-08-25,Software Corporation,2016-07-12 10:33:46.027263,Star Wars,39,10.5
+Roscoe,1972-02-28,Federated Systems Limited,2016-07-28 10:33:46.027288,iPhone,49,656.64
+Ginger,1980-07-27,Industries Virtual Incorporated,2016-07-07 10:33:46.027312,Rubik’s Cube,12,16.26
+Eduardo,1970-09-14,Consulting Incorporated,2016-06-30 10:33:46.027337,Rubik’s Cube,2,18.8
+Felicita,1987-01-19,Source Inc,2016-07-27 10:33:46.027361,Rubik’s Cube,25,18.39
+Booker,1979-12-15,Max Incorporated,2016-07-21 10:33:46.027386,Harry Potter book,36,19.96
+Jarrett,1970-01-23,Industries Incorporated,2016-07-03 10:33:46.027410,Thriller record,29,9.87
+Karol,1987-06-26,People Industries,2016-07-01 10:33:46.027435,Rubik’s Cube,15,17.51
+Janeen,1972-09-11,Software Design Industries Industries,2016-07-06 10:33:46.027534,Lipitor,26,11.35
+Alexandra,1987-04-28,Universal North Provider International,2016-07-23 10:33:46.027584,Harry Potter book,6,9.69
+Sherman,1982-10-01,Resource Co,2016-07-11 10:33:46.027610,banana,41,10.0
+Theo,1981-12-26,Construction Organization,2016-07-09 10:33:46.027635,Star Wars,9,10.58
+Luther,1974-10-24,Technology LLC,2016-07-19 10:33:46.027660,Harry Potter book,17,26.94
+Johnny,1971-04-16,General Organization,2016-07-17 10:33:46.027685,Thriller record,50,8.38
+Harrison,1978-03-02,General Medicine Pacific Limited,2016-07-16 10:33:46.027709,banana,6,10.0
+Rudolph,1973-08-05,Solutions North LLC,2016-07-24 10:33:46.027734,iPad,6,778.01
+Stella,1981-06-04,Speed Industries,2016-07-07 10:33:46.027758,iPhone,47,880.56
+Daniela,1979-04-22,Network General Telecom Incorporated,2016-07-03 10:33:46.027782,iPhone,25,713.15
+Javier,1975-12-10,Design Inc,2016-07-21 10:33:46.027811,banana,50,10.0
+Chong,1979-02-26,East Adventure Inc,2016-07-11 10:33:46.027835,iPhone,31,556.71
+Lance,1982-04-19,Net Universal Speed Organization,2016-07-13 10:33:46.027860,Star Wars,21,8.71
+Garry,1998-02-25,Internet Co,2016-07-02 10:33:46.027884,Rubik’s Cube,17,15.31
+Jules,1962-09-25,Direct Universal Industries,2016-07-11 10:33:46.027908,iPhone,33,574.31
+Daniela,1979-04-22,Network General Telecom Incorporated,2016-07-24 10:33:46.027933,PlayStation,32,228.09
+Genaro,1979-08-07,Resource Telecom Technology Limited,2016-07-20 10:33:46.027957,Harry Potter book,17,21.86
+Sandra,1983-12-26,Interactive Inc,2016-07-13 10:33:46.027982,Corolla,5,24655.69
+Genaro,1979-08-07,Resource Telecom Technology Limited,2016-07-06 10:33:46.028009,PlayStation,18,224.96
+Vicki,1981-07-09,Solutions Vision Net LLC,2016-07-11 10:33:46.028034,iPhone,49,698.89
+Malinda,1978-04-13,Medicine People Galaxy Co,2016-07-06 10:33:46.028058,iPhone,20,816.12
+Annemarie,1986-09-04,Contract Omega Network Incorporated,2016-07-28 10:33:46.028083,Harry Potter book,50,17.59
+Maryellen,1968-07-12,Systems North Future Limited,2016-07-06 10:33:46.028107,Corolla,14,22706.93
+Darius,1984-03-27,Galaxy Universal Inc,2016-07-22 10:33:46.028132,iPhone,22,596.22
+Claudine,1984-05-11,Building Industries,2016-07-20 10:33:46.028157,banana,10,10.0
+Juliet,1983-09-01,Future Organization,2016-07-24 10:33:46.028182,Star Wars,24,11.7
+Tracey,1975-11-20,Signal Group,2016-07-04 10:33:46.028206,iPhone,16,611.12
+Jewel,1982-09-16,Galaxy Incorporated,2016-07-15 10:33:46.028233,Lipitor,9,11.38
+Janeen,1972-09-11,Software Design Industries Industries,2016-07-18 10:33:46.028257,Rubik’s Cube,44,17.75
+Roma,1984-01-11,Analysis Frontier Agency,2016-07-19 10:33:46.028304,iPad,27,903.2
+Wilson,1986-07-20,Speed Industries,2016-07-19 10:33:46.028347,iPad,32,1045.71
+Wilma,1953-12-24,Net Electronic Consulting Limited,2016-07-05 10:33:46.028450,iPhone,49,763.46
+Sang,1969-08-19,Industries People Group,2016-07-24 10:33:46.028492,iPad,19,526.91
+Mohamed,1978-03-15,Federated North Corporation,2016-07-19 10:33:46.028521,Corolla,47,23736.41
+Margret,1978-05-17,Software Limited,2016-07-27 10:33:46.028547,iPhone,27,795.87
+Young,1978-10-19,Universal LLC,2016-06-30 10:33:46.028573,Harry Potter book,38,26.52
+Daphne,1975-12-21,Architecture Contract Atlantic Co,2016-07-28 10:33:46.028598,PlayStation,5,214.18
+Donald,1985-10-27,Application Incorporated,2016-07-16 10:33:46.028623,PlayStation,10,214.23
+Adelaide,1986-02-07,Application Electronics Telecom Inc,2016-07-16 10:33:46.028647,banana,45,10.0
+Leif,1999-04-29,Power Incorporated,2016-07-11 10:33:46.028672,iPad,5,661.66
+Augusta,1977-11-29,Building Architecture Bell International,2016-07-14 10:33:46.028697,iPad,22,1046.61
+Emile,1980-10-25,People Inc,2016-07-05 10:33:46.028721,Harry Potter book,8,14.64
+Mark,1979-01-09,Bell Source Group,2016-07-13 10:33:46.028746,Corolla,39,20395.87
+Sophia,1977-09-30,Advanced Pacific Incorporated,2016-07-05 10:33:46.028770,Rubik’s Cube,43,15.47
+Marva,1984-03-16,Technology Virtual Industries,2016-07-24 10:33:46.028796,banana,30,10.0
+Andrea,1965-07-21,Analysis Signal Technology LLC,2016-07-27 10:33:46.028825,banana,34,10.0
+Heath,1965-01-10,Net Construction Inc,2016-07-06 10:33:46.028851,Harry Potter book,20,32.22
+Chong,1979-02-26,East Adventure Inc,2016-07-06 10:33:46.028875,Corolla,24,23941.43
+Randi,1986-05-08,Pacific Solutions Vision LLC,2016-07-27 10:33:46.028899,banana,46,10.0
+Katheryn,1981-08-06,South Atlantic Digital Incorporated,2016-07-02 10:33:46.028924,Lipitor,14,10.19
+Josette,1984-10-11,Universal Bell Technology Incorporated,2016-07-18 10:33:46.028948,Lipitor,29,11.42
+Ariana,1979-08-11,Innovation People Consulting Industries,2016-07-23 10:33:46.028972,Lipitor,16,11.51
+Graciela,1980-10-28,Hill Incorporated,2016-07-12 10:33:46.028997,banana,46,10.0
+Alejandro,1984-06-10,Power Star Net International,2016-07-09 10:33:46.029021,Rubik’s Cube,3,18.91
+Pauline,1985-09-20,General Limited,2016-07-13 10:33:46.029046,Thriller record,37,14.84
+Warren,1958-05-19,General Inc,2016-07-17 10:33:46.029071,Lipitor,8,11.0
+Angie,1970-08-17,Medicine Industries,2016-07-08 10:33:46.029095,Thriller record,30,16.4
+Daniela,1983-09-13,Medicine Network Frontier International,2016-07-04 10:33:46.029118,Rubik’s Cube,16,17.53
+Alejandro,1984-06-10,Power Star Net International,2016-07-12 10:33:46.029142,iPhone,18,699.76
+Daniela,1979-04-22,Network General Telecom Incorporated,2016-07-19 10:33:46.029166,Star Wars,3,9.13
+Earnest,1984-03-19,Advanced Virtual Alpha Organization,2016-07-14 10:33:46.029190,Rubik’s Cube,5,15.42
+Deanne,1953-04-18,Pacific International,2016-07-06 10:33:46.029214,Rubik’s Cube,10,18.58
+Pricilla,1968-11-29,Vision Federated Future Co,2016-07-26 10:33:46.029239,iPad,26,651.01
+Juliet,1983-09-01,Future Organization,2016-07-23 10:33:46.029263,banana,7,10.0
+Vicki,1981-07-09,Solutions Vision Net LLC,2016-07-08 10:33:46.029287,Star Wars,29,9.32
+Kristie,1983-02-10,Electronics Signal LLC,2016-07-18 10:33:46.029311,banana,31,10.0
+Moses,1978-01-01,Future Consulting Co,2016-07-01 10:33:46.029335,Rubik’s Cube,13,18.41
+Zenaida,1982-01-26,Interactive Building Agency,2016-07-03 10:33:46.029359,PlayStation,41,277.6
+Nathanael,1969-08-24,Building Electronics Limited,2016-07-18 10:33:46.029384,Star Wars,33,10.72
+Wilma,1953-12-24,Net Electronic Consulting Limited,2016-06-30 10:33:46.029408,Thriller record,25,16.72
+Rosario,1968-09-03,Future South Hardware International,2016-07-28 10:33:46.029432,PlayStation,23,264.17
+Amado,1991-11-03,Galaxy Omega Provider Incorporated,2016-07-12 10:33:46.029456,Harry Potter book,29,23.53
+Milton,1982-03-13,Alpha Co,2016-07-06 10:33:46.029480,iPhone,30,674.7
+Cathie,1970-11-04,Star Omega Source Inc,2016-07-02 10:33:46.029507,banana,23,10.0
+Garry,1998-02-25,Internet Co,2016-06-30 10:33:46.029531,banana,11,10.0
+Geri,1972-06-22,Interactive Power Application Co,2016-07-04 10:33:46.029554,iPad,9,851.71
+Pauline,1985-09-20,General Limited,2016-07-11 10:33:46.029578,Harry Potter book,29,20.52
+Miguel,1983-11-20,Federated Inc,2016-07-12 10:33:46.029606,PlayStation,41,230.58
+Geri,1972-06-22,Interactive Power Application Co,2016-07-13 10:33:46.029630,Lipitor,17,11.21
+Sandra,1983-12-26,Interactive Inc,2016-07-01 10:33:46.029654,Harry Potter book,38,23.16
+Sunny,1977-01-09,Research North Group,2016-06-30 10:33:46.029678,Lipitor,32,10.45
+Theo,1981-12-26,Construction Organization,2016-07-18 10:33:46.029702,Harry Potter book,6,10.96
+Kami,1981-07-31,Star Incorporated,2016-07-06 10:33:46.029726,banana,39,10.0
+Stella,1981-06-04,Speed Industries,2016-07-09 10:33:46.029750,PlayStation,8,243.83
+Javier,1975-12-10,Design Inc,2016-07-25 10:33:46.029774,Star Wars,45,11.16
+Ariana,1979-08-11,Innovation People Consulting Industries,2016-07-03 10:33:46.029798,iPad,34,683.04
+Valerie,1973-10-21,Power Net Contract International,2016-07-21 10:33:46.029822,iPad,27,310.46
+Angie,1970-08-17,Medicine Industries,2016-07-21 10:33:46.029847,Corolla,10,21395.33
+Kimberley,1954-12-04,Interactive Star Solutions Inc,2016-07-24 10:33:46.029871,iPad,50,636.89
+Son,1995-07-15,Telecom Innovation Universal Group,2016-07-21 10:33:46.029894,Lipitor,20,11.13
+Moses,1983-09-29,Federated Vision Electronic Organization,2016-07-14 10:33:46.029918,Rubik’s Cube,2,18.02
+Delbert,1969-12-23,Virtual Interactive Organization,2016-07-15 10:33:46.029941,Corolla,28,23562.22
+Jewel,1982-09-16,Galaxy Incorporated,2016-07-03 10:33:46.029965,Star Wars,50,11.08
+Lavonne,1978-05-12,Construction Electronics Application Industries,2016-07-17 10:33:46.029989,Star Wars,37,11.9
+Genaro,1980-05-13,Contract Corporation,2016-07-25 10:33:46.030013,PlayStation,37,283.25
+Felicita,1987-01-19,Source Inc,2016-07-19 10:33:46.030037,Star Wars,48,10.25
+Wilma,1953-12-24,Net Electronic Consulting Limited,2016-07-13 10:33:46.030061,Corolla,38,24445.59
+Denise,1987-03-08,Atlantic Limited,2016-07-21 10:33:46.030085,Thriller record,18,19.45
+Latosha,1972-03-19,Analysis Future Speed Inc,2016-07-09 10:33:46.030108,Harry Potter book,38,29.17
+Latosha,1972-03-19,Analysis Future Speed Inc,2016-07-18 10:33:46.030132,Rubik’s Cube,34,18.85
+Sandra,1983-12-26,Interactive Inc,2016-07-07 10:33:46.030155,iPad,50,840.26
+Hunter,1996-11-04,Systems Vision Industries,2016-07-27 10:33:46.030178,banana,29,10.0
+Lavonne,1978-05-12,Construction Electronics Application Industries,2016-07-12 10:33:46.030202,Rubik’s Cube,9,18.94
+Ariana,1979-08-11,Innovation People Consulting Industries,2016-07-16 10:33:46.030226,Lipitor,27,11.54
+Arnulfo,1979-06-28,Direct Corporation,2016-07-08 10:33:46.030263,Rubik’s Cube,9,15.35
+Moses,1978-01-01,Future Consulting Co,2016-07-16 10:33:46.030296,iPad,23,461.95
+Nathanael,1969-08-24,Building Electronics Limited,2016-07-24 10:33:46.030320,iPad,22,929.75
+Kathi,1985-07-22,Consulting Limited,2016-07-02 10:33:46.030345,iPhone,10,583.92
+Kami,1981-07-31,Star Incorporated,2016-07-08 10:33:46.030369,Thriller record,33,16.63
+Nichole,1980-12-28,Direct Power Agency,2016-07-11 10:33:46.030394,Rubik’s Cube,29,15.54
+Young,1978-10-19,Universal LLC,2016-07-28 10:33:46.030419,Thriller record,12,14.4
+Paige,1985-11-23,Analysis Alpha Incorporated,2016-07-03 10:33:46.030444,iPad,43,937.72
+Harry,1985-01-10,Digital Solutions Group,2016-06-30 10:33:46.030469,iPhone,33,533.56
+Belen,1978-05-30,Architecture West Co,2016-07-19 10:33:46.030494,PlayStation,25,231.79
+Wilson,1986-07-20,Speed Industries,2016-07-02 10:33:46.030519,Lipitor,27,10.83
+Felicita,1987-01-19,Source Inc,2016-07-27 10:33:46.030543,iPhone,42,676.27
+Mario,1954-09-14,Alpha Network Corporation,2016-07-04 10:33:46.030567,Lipitor,37,11.14
+Will,1985-11-03,Consulting Medicine Group,2016-07-26 10:33:46.030595,iPad,31,542.54
+Elvia,1983-03-04,Studio Group,2016-07-26 10:33:46.030620,Lipitor,36,10.5
+Theo,1981-12-26,Construction Organization,2016-07-01 10:33:46.030645,iPhone,41,584.04
+Shari,1960-02-17,Signal Network Agency,2016-07-07 10:33:46.030670,iPhone,19,512.83
+Doris,1998-07-30,Construction International,2016-07-16 10:33:46.030695,banana,46,10.0
+Chong,1979-02-26,East Adventure Inc,2016-07-27 10:33:46.030719,PlayStation,26,296.16
+Mandy,1955-03-28,Solutions Telecom Application Limited,2016-07-13 10:33:46.030744,Thriller record,42,12.08
+Vicki,1981-07-09,Solutions Vision Net LLC,2016-07-26 10:33:46.030770,iPhone,27,852.25
+Annemarie,1986-09-04,Contract Omega Network Incorporated,2016-07-21 10:33:46.030794,Lipitor,17,10.7
+Gregorio,1993-04-18,Consulting Research Net Organization,2016-07-20 10:33:46.030819,Star Wars,39,9.98
+Elma,1984-02-27,Digital Bell Incorporated,2016-07-09 10:33:46.030846,Lipitor,37,11.14
+Lacey,1996-10-05,Pacific Telecom Agency,2016-07-19 10:33:46.030871,Lipitor,40,10.43
+Alexandra,1987-04-28,Universal North Provider International,2016-07-24 10:33:46.030896,Rubik’s Cube,18,17.93
+Jewel,1982-10-03,Research Network LLC,2016-07-22 10:33:46.030920,iPhone,22,417.49
+Earnestine,1967-09-21,Galaxy Application International,2016-06-30 10:33:46.030944,Rubik’s Cube,44,16.17
+Mathew,1963-01-23,Analysis Frontier Corporation,2016-07-16 10:33:46.030970,Star Wars,8,11.49
+Lacey,1996-10-05,Pacific Telecom Agency,2016-07-12 10:33:46.030995,Harry Potter book,41,25.81
+Denise,1987-03-08,Atlantic Limited,2016-07-09 10:33:46.031019,Corolla,8,23196.81
+Christin,1969-07-20,North Systems International,2016-07-05 10:33:46.031043,Rubik’s Cube,25,18.95
+Terrell,1975-01-30,Resource Provider Industries,2016-07-25 10:33:46.031072,Corolla,47,23457.39
+Lacey,1996-10-05,Pacific Telecom Agency,2016-07-21 10:33:46.031097,iPhone,46,644.1
+Boyce,1980-11-12,Bell Building Co,2016-07-23 10:33:46.031122,Thriller record,39,16.7
+Jewel,1982-10-03,Research Network LLC,2016-07-22 10:33:46.031149,iPad,36,818.7
+Benedict,1981-12-11,Atlantic Agency,2016-07-18 10:33:46.031174,PlayStation,32,266.11
+Boyce,1980-11-12,Bell Building Co,2016-07-08 10:33:46.031198,iPhone,25,720.43
+Randolph,1987-01-09,Hill Omega Data Industries,2016-07-21 10:33:46.031223,Rubik’s Cube,11,15.89
+Antonette,1978-08-14,Power General Corporation,2016-07-16 10:33:46.031260,iPhone,23,555.94
+Elvia,1983-03-04,Studio Group,2016-07-17 10:33:46.031283,iPhone,28,480.58
+Nichole,1980-12-28,Direct Power Agency,2016-07-01 10:33:46.031307,Thriller record,10,10.66
+Elisa,1971-09-11,Network Organization,2016-07-16 10:33:46.031331,Star Wars,1,11.17
+Chong,1979-02-26,East Adventure Inc,2016-06-30 10:33:46.031356,iPhone,30,485.95
+Verna,1985-12-07,Digital Data Incorporated,2016-07-07 10:33:46.031381,Rubik’s Cube,33,15.47
+Pattie,1982-11-04,North Bell Data Industries,2016-07-02 10:33:46.031405,iPad,13,482.32
+Chester,1967-05-24,Hardware Industries,2016-07-06 10:33:46.031429,Corolla,11,24495.18
+Earnestine,1967-09-21,Galaxy Application International,2016-07-25 10:33:46.031454,Lipitor,33,11.6
+Denise,1987-03-08,Atlantic Limited,2016-07-11 10:33:46.031478,Rubik’s Cube,11,17.6
+Johnny,1971-04-16,General Organization,2016-07-23 10:33:46.031502,Lipitor,22,11.24
+Gussie,1984-06-08,General Contract Co,2016-07-21 10:33:46.031526,banana,13,10.0
+Donald,1985-10-27,Application Incorporated,2016-07-14 10:33:46.031550,Thriller record,34,14.74
+Tosha,1997-07-30,East Net Systems Agency,2016-07-06 10:33:46.031574,iPad,10,816.07
+Romeo,1987-02-05,Contract Medicine Federated International,2016-07-28 10:33:46.031598,Star Wars,34,12.0
+Genaro,1980-05-13,Contract Corporation,2016-07-15 10:33:46.031622,iPhone,36,885.66
+Pricilla,1973-08-25,Software Corporation,2016-07-11 10:33:46.031646,Lipitor,36,11.38
+Griselda,1982-04-12,Frontier International,2016-07-20 10:33:46.031669,Thriller record,4,9.36
+Chong,1979-02-26,East Adventure Inc,2016-07-15 10:33:46.031693,Rubik’s Cube,42,17.73
+Garry,1998-02-25,Internet Co,2016-07-12 10:33:46.031717,Thriller record,13,14.29
+Janeen,1972-09-11,Software Design Industries Industries,2016-07-13 10:33:46.031740,Thriller record,48,15.64
+Earnest,1984-03-19,Advanced Virtual Alpha Organization,2016-07-26 10:33:46.031764,Lipitor,36,10.08
+Griselda,1982-04-12,Frontier International,2016-07-12 10:33:46.031789,Star Wars,7,9.31
+Theo,1981-12-26,Construction Organization,2016-07-06 10:33:46.031812,Star Wars,29,10.09
+Ola,1974-04-15,Advanced Resource Electronics Co,2016-07-06 10:33:46.031836,iPhone,9,674.63
+Moses,1983-09-29,Federated Vision Electronic Organization,2016-07-01 10:33:46.031860,Rubik’s Cube,42,17.42
+Michael,1987-03-07,Data General Agency,2016-07-28 10:33:46.031884,Lipitor,42,10.02
+Oralia,1979-10-03,Network Graphics Inc,2016-07-15 10:33:46.031908,banana,23,10.0
+Marva,1984-03-16,Technology Virtual Industries,2016-06-30 10:33:46.031932,Harry Potter book,33,21.2
+Booker,1979-12-15,Max Incorporated,2016-07-26 10:33:46.031955,Lipitor,41,11.19
+Oralia,1979-10-03,Network Graphics Inc,2016-07-03 10:33:46.031979,PlayStation,32,247.31
+Harrison,1978-03-02,General Medicine Pacific Limited,2016-07-11 10:33:46.032003,Lipitor,34,10.12
+Daniel,1977-03-28,Net West Bell International,2016-07-16 10:33:46.032026,Rubik’s Cube,35,16.41
+Moses,1983-09-29,Federated Vision Electronic Organization,2016-07-25 10:33:46.032050,PlayStation,6,256.73
+Mohamed,1986-03-12,Star General People Inc,2016-07-18 10:33:46.032077,iPhone,37,680.57
+Theo,1981-12-26,Construction Organization,2016-07-27 10:33:46.032101,Rubik’s Cube,20,17.62
+Misty,1972-10-07,Universal International,2016-07-04 10:33:46.032159,Harry Potter book,49,24.47
+Morgan,1985-09-26,Architecture Solutions International,2016-07-23 10:33:46.032203,iPhone,32,752.01
+Morgan,1985-09-26,Architecture Solutions International,2016-07-14 10:33:46.032233,banana,35,10.0
+Anton,1982-09-03,North Studio International,2016-07-22 10:33:46.032259,Star Wars,32,11.56
+Delbert,1969-12-23,Virtual Interactive Organization,2016-07-14 10:33:46.032284,Corolla,8,21352.33
+Hayden,1983-09-26,Star Studio Group,2016-07-12 10:33:46.032310,iPhone,42,481.49
+Janeen,1972-09-11,Software Design Industries Industries,2016-07-03 10:33:46.032335,Lipitor,2,11.3
+Valerie,1973-10-21,Power Net Contract International,2016-07-23 10:33:46.032365,Harry Potter book,2,22.27
+Rosario,1968-09-03,Future South Hardware International,2016-07-18 10:33:46.032390,Lipitor,21,10.04
+Krista,1980-08-08,Software Alpha Design Corporation,2016-07-15 10:33:46.032415,Star Wars,21,11.83
+Winnifred,1967-01-08,Virtual Hardware Agency,2016-07-04 10:33:46.032444,Lipitor,31,10.85
+Dianne,1976-03-08,Telecom Universal Architecture Inc,2016-07-21 10:33:46.032470,iPhone,21,858.85
+Denise,1987-03-08,Atlantic Limited,2016-07-07 10:33:46.032495,Rubik’s Cube,18,17.13
+Antonette,1978-08-14,Power General Corporation,2016-07-21 10:33:46.032519,Lipitor,40,10.25
+Christin,1969-07-20,North Systems International,2016-07-11 10:33:46.032543,Lipitor,13,10.53
+Elijah,1992-05-10,Solutions Future Universal Group,2016-07-01 10:33:46.032567,Star Wars,11,9.89
+Daphne,1975-12-21,Architecture Contract Atlantic Co,2016-07-11 10:33:46.032592,iPhone,44,750.57
+Donna,1968-01-24,Vision Research Organization,2016-07-19 10:33:46.032616,Thriller record,31,12.71
+Eduardo,1970-09-14,Consulting Incorporated,2016-07-23 10:33:46.032641,PlayStation,49,214.96
+Stan,1973-08-22,Atlantic Pacific Application LLC,2016-07-21 10:33:46.032664,iPad,38,662.2
+Graciela,1980-10-28,Hill Incorporated,2016-07-02 10:33:46.032691,Rubik’s Cube,20,18.85
+Romeo,1987-02-05,Contract Medicine Federated International,2016-07-05 10:33:46.032716,Harry Potter book,36,31.35
+Elma,1984-02-27,Digital Bell Incorporated,2016-07-12 10:33:46.032740,Corolla,37,22115.44
+Meagan,1978-07-17,South Medicine Group,2016-07-17 10:33:46.032764,Rubik’s Cube,33,15.45
+Gregoria,1970-06-15,Vision North General Industries,2016-07-08 10:33:46.032787,Star Wars,13,11.78
+Lorri,1980-06-06,Solutions Atlantic Electronic LLC,2016-07-26 10:33:46.032811,Star Wars,20,8.73
+Alejandro,1984-06-10,Power Star Net International,2016-07-07 10:33:46.032835,Lipitor,42,10.94
+Tia,1975-02-05,Bell Incorporated,2016-07-26 10:33:46.032860,Star Wars,13,8.13
+Aisha,1956-11-14,Federated International,2016-07-09 10:33:46.032884,Corolla,48,24437.47
+Sophia,1977-09-30,Advanced Pacific Incorporated,2016-07-27 10:33:46.032908,Lipitor,18,10.34
+Griselda,1982-04-12,Frontier International,2016-07-20 10:33:46.032932,Star Wars,31,11.01
+Angie,1970-08-17,Medicine Industries,2016-07-13 10:33:46.032956,iPad,44,348.34
+Duane,1982-05-07,North Federated Industries,2016-07-19 10:33:46.032980,Star Wars,49,10.87
+Shelley,1984-05-15,Pacific Incorporated,2016-07-07 10:33:46.033004,iPad,26,450.85
+Kathi,1985-07-22,Consulting Limited,2016-07-15 10:33:46.033028,iPhone,28,522.93
+Margret,1978-05-17,Software Limited,2016-07-05 10:33:46.033052,iPhone,17,668.99
+Graciela,1980-10-28,Hill Incorporated,2016-07-01 10:33:46.033075,Thriller record,30,10.32
+Daniela,1979-04-22,Network General Telecom Incorporated,2016-07-26 10:33:46.033099,PlayStation,15,273.24
+Geri,1972-06-22,Interactive Power Application Co,2016-07-17 10:33:46.033123,PlayStation,21,272.05
+Justin,1958-10-03,Analysis Omega Venture International,2016-07-26 10:33:46.033146,PlayStation,27,228.97
+Paul,1967-07-08,Provider Electronics Group,2016-07-01 10:33:46.033171,Lipitor,38,11.03
+Cristopher,1973-06-28,Digital Co,2016-07-20 10:33:46.033194,Rubik’s Cube,4,16.18
+Justin,1958-10-03,Analysis Omega Venture International,2016-07-18 10:33:46.033218,Corolla,29,24551.17
+Theo,1981-12-26,Construction Organization,2016-07-26 10:33:46.033242,Rubik’s Cube,15,15.77
+Lonnie,1955-01-28,Solutions Signal Inc,2016-07-24 10:33:46.033265,Rubik’s Cube,24,15.84
+Pattie,1982-11-04,North Bell Data Industries,2016-07-22 10:33:46.033289,iPad,8,782.82
+Justin,1958-10-03,Analysis Omega Venture International,2016-07-15 10:33:46.033313,Lipitor,16,11.6
+Denis,1967-04-04,Venture Corporation,2016-07-28 10:33:46.033337,Harry Potter book,24,5.09
+Janeen,1972-09-11,Software Design Industries Industries,2016-07-01 10:33:46.033364,Star Wars,50,8.74
+Monique,1953-06-04,Contract Inc,2016-07-11 10:33:46.033389,banana,11,10.0
+Hayden,1983-09-26,Star Studio Group,2016-07-20 10:33:46.033413,iPad,37,934.07
+Sunny,1977-01-09,Research North Group,2016-07-20 10:33:46.033437,banana,50,10.0
+Arron,1980-09-26,Software Research International,2016-07-05 10:33:46.033461,PlayStation,31,209.68
+Kimberly,1967-06-15,Solutions Medicine Atlantic Incorporated,2016-07-17 10:33:46.033485,Thriller record,27,10.41
+Jean,1985-12-01,General Network Corporation,2016-07-22 10:33:46.033508,Lipitor,25,10.71
+Chong,1979-02-26,East Adventure Inc,2016-07-27 10:33:46.033532,banana,21,10.0
+Felicita,1987-01-19,Source Inc,2016-07-20 10:33:46.033555,banana,40,10.0
+Kathy,1986-12-15,Resource Limited,2016-07-01 10:33:46.033579,banana,20,10.0
+Laurel,1992-01-30,Omega Industries,2016-07-26 10:33:46.033603,Rubik’s Cube,48,16.05
+Javier,1975-12-10,Design Inc,2016-07-13 10:33:46.033627,Star Wars,41,8.87
+Rosendo,1983-07-03,Source International,2016-07-07 10:33:46.033651,Star Wars,33,11.68
+Marva,1984-03-16,Technology Virtual Industries,2016-07-21 10:33:46.033676,iPad,22,758.03
+Destiny,1986-02-13,Signal Vision Net LLC,2016-07-12 10:33:46.033699,iPad,48,478.23
+Nichole,1980-12-28,Direct Power Agency,2016-07-03 10:33:46.033789,iPhone,48,773.42
+Karol,1987-06-26,People Industries,2016-07-27 10:33:46.033849,Star Wars,13,8.6
+Kimberley,1954-12-04,Interactive Star Solutions Inc,2016-07-09 10:33:46.033907,Star Wars,45,11.8
+Ellen,1979-03-13,Contract International,2016-07-14 10:33:46.033936,Thriller record,18,14.44
+Jules,1962-09-25,Direct Universal Industries,2016-07-11 10:33:46.033962,iPad,2,1009.6
+Lily,1980-02-28,South Internet International,2016-07-21 10:33:46.033987,Thriller record,50,17.75
+Sang,1969-08-19,Industries People Group,2016-07-19 10:33:46.034013,Corolla,1,22259.94
+Amy,1972-12-05,Consulting Star Net Limited,2016-07-06 10:33:46.034037,Thriller record,32,17.37
+Dianne,1976-03-08,Telecom Universal Architecture Inc,2016-07-09 10:33:46.034062,Harry Potter book,39,34.74
+Felipe,1965-02-03,Design Signal Inc,2016-07-04 10:33:46.034086,Rubik’s Cube,3,18.4
+Antonio,1976-06-08,North South Corporation,2016-07-22 10:33:46.034111,Harry Potter book,24,33.34
+Earnest,1984-03-19,Advanced Virtual Alpha Organization,2016-07-17 10:33:46.034134,Harry Potter book,17,17.98
+Jerrell,1978-03-24,Application Star Corporation,2016-07-23 10:33:46.034159,Corolla,2,22448.57
+Justine,1981-02-07,Electronic Universal Star Industries,2016-07-06 10:33:46.034183,Corolla,49,23242.01
+Melisa,1974-11-01,Alpha Bell Inc,2016-07-07 10:33:46.034207,Rubik’s Cube,40,15.42
+Ulysses,1980-08-24,Research Group,2016-07-04 10:33:46.034230,PlayStation,32,280.97
+Pricilla,1973-08-25,Software Corporation,2016-07-06 10:33:46.034254,Star Wars,48,9.74
+Jarrett,1970-01-23,Industries Incorporated,2016-07-05 10:33:46.034278,iPad,14,628.97
+Deanne,1953-04-18,Pacific International,2016-07-24 10:33:46.034301,Harry Potter book,22,20.58
+Shelby,1985-10-13,Signal Max West International,2016-07-10 10:33:46.034330,Star Wars,39,11.6
+Vaughn,1959-12-18,Star Universal Co,2016-07-15 10:33:46.034359,iPad,23,621.68
+Andrea,1965-07-21,Analysis Signal Technology LLC,2016-07-14 10:33:46.034384,Rubik’s Cube,22,17.03
+Zelda,1986-10-19,Contract Construction Frontier Corporation,2016-07-22 10:33:46.034409,PlayStation,30,296.56
+Nina,1956-11-12,West Signal Contract LLC,2016-07-07 10:33:46.034433,Lipitor,46,11.16
+Mohamed,1978-03-15,Federated North Corporation,2016-07-04 10:33:46.034457,iPad,44,755.93
+Violet,1978-04-19,Max Corporation,2016-07-25 10:33:46.034482,iPad,49,884.31
+Arron,1980-09-26,Software Research International,2016-07-11 10:33:46.034506,banana,12,10.0
+Leonor,1986-07-14,Internet Signal Industries,2016-07-04 10:33:46.034530,Lipitor,36,11.78
+Sherman,1982-10-01,Resource Co,2016-06-30 10:33:46.034554,iPhone,6,408.21
+Jody,1974-08-25,West Construction International,2016-07-25 10:33:46.034578,Rubik’s Cube,26,18.32
+Darius,1984-03-27,Galaxy Universal Inc,2016-07-02 10:33:46.034602,PlayStation,46,272.25
+Erika,1978-11-03,Alpha LLC,2016-06-30 10:33:46.034626,iPad,46,935.78
+Kathy,1986-12-15,Resource Limited,2016-07-11 10:33:46.034649,banana,8,10.0
+Lily,1980-02-28,South Internet International,2016-07-14 10:33:46.034673,Thriller record,2,16.9
+Kimberley,1954-12-04,Interactive Star Solutions Inc,2016-07-21 10:33:46.034697,Corolla,36,22876.82
+Antonette,1978-08-14,Power General Corporation,2016-07-26 10:33:46.034723,Corolla,9,21440.6
+Boyce,1980-11-12,Bell Building Co,2016-07-14 10:33:46.034747,Lipitor,36,10.14
+Derek,1970-09-26,Net Limited,2016-07-01 10:33:46.034771,Rubik’s Cube,47,18.1
+Lizette,1984-11-10,North Group,2016-07-19 10:33:46.034795,Lipitor,20,11.6
+Felipe,1965-02-03,Design Signal Inc,2016-07-06 10:33:46.034819,Star Wars,2,8.57
+Alexandra,1987-04-28,Universal North Provider International,2016-07-18 10:33:46.034842,banana,5,10.0
+Karol,1987-06-26,People Industries,2016-07-13 10:33:46.034866,Rubik’s Cube,30,16.75
+Noemi,1986-12-12,Analysis Technology Limited,2016-07-07 10:33:46.034893,Harry Potter book,48,18.21
+Roxanne,1983-05-20,Electronics General Architecture Agency,2016-07-01 10:33:46.034917,iPhone,12,791.09
+Dianne,1976-03-08,Telecom Universal Architecture Inc,2016-07-19 10:33:46.034940,Corolla,1,21275.1
+Moses,1978-01-01,Future Consulting Co,2016-07-02 10:33:46.034964,PlayStation,44,233.3
+Robert,1990-08-08,Alpha Atlantic Inc,2016-07-22 10:33:46.034988,Corolla,20,23444.74
+Robert,1990-08-08,Alpha Atlantic Inc,2016-07-25 10:33:46.035012,Harry Potter book,27,28.11
+Adelaide,1986-02-07,Application Electronics Telecom Inc,2016-07-17 10:33:46.035087,Rubik’s Cube,22,16.02
+Leonor,1986-07-14,Internet Signal Industries,2016-07-12 10:33:46.035112,iPhone,36,495.72
+Chester,1967-05-24,Hardware Industries,2016-07-28 10:33:46.035136,Lipitor,37,10.74
+Dianne,1976-03-08,Telecom Universal Architecture Inc,2016-07-13 10:33:46.035160,Thriller record,27,11.19
+Lilian,1969-11-28,Net International,2016-07-08 10:33:46.035184,banana,35,10.0
+Duane,1982-05-07,North Federated Industries,2016-07-05 10:33:46.035207,iPhone,26,674.92
+Matilda,1981-06-08,Future Net Limited,2016-07-09 10:33:46.035231,Corolla,1,21768.23
+Claudine,1984-05-11,Building Industries,2016-07-10 10:33:46.035255,iPhone,33,830.91
+Elba,1970-03-13,Alpha Speed Internet Limited,2016-07-07 10:33:46.035278,iPad,44,620.83
+Homer,1974-01-24,Vision Construction Industries,2016-07-28 10:33:46.035302,PlayStation,40,283.8
+Boyce,1980-11-12,Bell Building Co,2016-07-09 10:33:46.035325,banana,14,10.0
+Dion,1986-06-22,South Design International,2016-07-22 10:33:46.035349,Rubik’s Cube,50,18.61
+Chiquita,1968-06-05,Telecom Provider Corporation,2016-07-24 10:33:46.035372,Rubik’s Cube,42,17.23
+Margret,1978-05-17,Software Limited,2016-07-14 10:33:46.035395,PlayStation,8,204.68
+Elvira,1978-03-12,Advanced Electronics Alpha Corporation,2016-07-10 10:33:46.035419,PlayStation,31,216.4
+Leilani,1990-05-16,East Virtual Hill Co,2016-07-14 10:33:46.035443,PlayStation,35,260.32
+Homer,1974-01-24,Vision Construction Industries,2016-07-19 10:33:46.035466,iPhone,4,758.55
+Holly,1953-12-25,Power Star LLC,2016-07-12 10:33:46.035490,PlayStation,27,288.96
+Moses,1983-09-29,Federated Vision Electronic Organization,2016-07-05 10:33:46.035514,iPhone,19,819.77
+Josette,1984-10-11,Universal Bell Technology Incorporated,2016-07-17 10:33:46.035538,banana,28,10.0
+Kevin,1980-06-22,Medicine Internet Solutions Co,2016-07-15 10:33:46.035562,Star Wars,25,9.14
+Nina,1956-11-12,West Signal Contract LLC,2016-07-13 10:33:46.035585,Harry Potter book,48,9.04
+Aaron,1986-09-26,Resource Organization,2016-07-27 10:33:46.035608,banana,28,10.0
+Paul,1967-07-08,Provider Electronics Group,2016-07-05 10:33:46.035633,banana,41,10.0
+Theo,1981-12-26,Construction Organization,2016-07-02 10:33:46.035657,banana,37,10.0
+Jewell,1982-07-30,South Incorporated,2016-07-26 10:33:46.035680,iPad,14,754.3
+Antonette,1978-08-14,Power General Corporation,2016-07-26 10:33:46.035704,iPhone,4,596.44
+Rosita,1962-06-13,Atlantic Power Omega Organization,2016-07-16 10:33:46.035728,Corolla,3,21218.74
+Malinda,1978-04-13,Medicine People Galaxy Co,2016-07-25 10:33:46.035751,Harry Potter book,19,21.05
+Agatha,1977-09-14,Studio Future Telecom Co,2016-07-16 10:33:46.035775,Harry Potter book,26,6.13
+Carl,1975-06-21,Systems Industries Industries,2016-07-19 10:33:46.035799,Harry Potter book,31,13.33
+Kathy,1986-12-15,Resource Limited,2016-07-05 10:33:46.035823,PlayStation,48,233.08
+Mandy,1955-03-28,Solutions Telecom Application Limited,2016-07-07 10:33:46.035846,Star Wars,9,8.99
+Christin,1969-07-20,North Systems International,2016-07-22 10:33:46.035870,Harry Potter book,17,5.53
+Ariana,1979-08-11,Innovation People Consulting Industries,2016-07-18 10:33:46.035894,Corolla,21,24986.46
+Kathy,1986-12-15,Resource Limited,2016-07-03 10:33:46.035921,Thriller record,37,13.79
+Destiny,1986-02-13,Signal Vision Net LLC,2016-07-25 10:33:46.035945,Star Wars,34,10.83
+Jewell,1982-07-30,South Incorporated,2016-07-09 10:33:46.035973,Lipitor,17,11.5
+Juliet,1983-09-01,Future Organization,2016-07-16 10:33:46.035997,Rubik’s Cube,1,18.43
+Janeen,1972-09-11,Software Design Industries Industries,2016-07-05 10:33:46.036020,iPad,23,1047.69
+Jerrell,1978-03-24,Application Star Corporation,2016-07-13 10:33:46.036044,Lipitor,1,11.68
+Dion,1986-06-22,South Design International,2016-07-14 10:33:46.036068,Corolla,20,21550.42
+Calvin,1972-01-25,Application Solutions Direct Co,2016-07-23 10:33:46.036091,iPhone,36,469.11
+Christin,1969-07-20,North Systems International,2016-07-17 10:33:46.036117,Lipitor,15,10.7
+Donald,1985-10-27,Application Incorporated,2016-07-04 10:33:46.036142,Thriller record,41,13.78
+Cody,1981-06-22,Building Solutions Limited,2016-07-10 10:33:46.036165,banana,47,10.0
+Justine,1981-02-07,Electronic Universal Star Industries,2016-06-30 10:33:46.036189,iPad,10,439.34
+Terrell,1975-01-30,Resource Provider Industries,2016-07-16 10:33:46.036213,iPad,30,696.23
+Winnifred,1967-01-08,Virtual Hardware Agency,2016-07-07 10:33:46.036236,PlayStation,32,221.11
+Denise,1987-03-08,Atlantic Limited,2016-07-24 10:33:46.036259,Harry Potter book,41,27.52
+Moses,1983-09-29,Federated Vision Electronic Organization,2016-07-04 10:33:46.036283,iPad,28,482.37
+Andrea,1965-07-21,Analysis Signal Technology LLC,2016-07-08 10:33:46.036306,iPhone,17,585.79
+Murray,1976-08-05,Graphics LLC,2016-07-19 10:33:46.036330,Harry Potter book,25,16.39
+Hayden,1983-09-26,Star Studio Group,2016-07-01 10:33:46.036353,Thriller record,33,18.16
+Lacey,1996-10-05,Pacific Telecom Agency,2016-07-01 10:33:46.036377,PlayStation,10,299.73
+Pricilla,1968-11-29,Vision Federated Future Co,2016-07-26 10:33:46.036400,Lipitor,26,10.86
+Violet,1978-04-19,Max Corporation,2016-07-15 10:33:46.036424,Rubik’s Cube,17,16.05
+Harry,1985-01-10,Digital Solutions Group,2016-07-09 10:33:46.036448,iPhone,2,425.84
+Earnestine,1967-09-21,Galaxy Application International,2016-07-05 10:33:46.036471,banana,18,10.0
+Murray,1976-08-05,Graphics LLC,2016-07-06 10:33:46.036495,iPhone,15,485.07
+Shante,1970-06-18,Hill Technology Organization,2016-07-20 10:33:46.036518,banana,3,10.0
+Geri,1977-09-08,Signal Inc,2016-06-30 10:33:46.036541,iPhone,26,788.53
+Mia,1967-12-25,Alpha Power Net Limited,2016-07-12 10:33:46.036565,Harry Potter book,19,10.42
+Graciela,1980-10-28,Hill Incorporated,2016-07-09 10:33:46.036589,Thriller record,22,12.58
+Warren,1958-05-19,General Inc,2016-07-21 10:33:46.036615,iPad,30,414.56
+Deanne,1953-04-18,Pacific International,2016-07-16 10:33:46.036642,PlayStation,21,229.34
+Sol,1955-01-27,Medicine Limited,2016-07-19 10:33:46.036665,Thriller record,11,17.53
+Eldon,1981-03-22,Frontier Galaxy Analysis Inc,2016-07-12 10:33:46.036689,Lipitor,45,10.98
+Nina,1956-11-12,West Signal Contract LLC,2016-07-11 10:33:46.036713,Corolla,19,20881.48
+Tory,1969-11-23,Venture Limited,2016-07-10 10:33:46.036736,Lipitor,49,10.78
+Randolph,1987-01-09,Hill Omega Data Industries,2016-07-23 10:33:46.036760,iPad,43,404.96
+Lawrence,1979-12-11,Internet Innovation Provider Inc,2016-07-09 10:33:46.036783,Lipitor,9,10.9
+Ward,1980-12-04,Solutions Group,2016-07-18 10:33:46.036807,Corolla,28,21155.09
+Jonnie,1981-03-02,Design Hill Corporation,2016-07-03 10:33:46.036831,iPad,42,570.57

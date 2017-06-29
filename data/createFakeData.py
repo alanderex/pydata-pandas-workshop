@@ -1,7 +1,7 @@
 from barnum import gen_data
 import random
 import pandas as pd
-
+import datetime
 
 """
 creates a fake set of popular products 
@@ -9,32 +9,28 @@ being sold by the Blooth store
 to company customers.
 """
 
-
-data = []
+humans = []
 for i in range(100):
-    data.append(
+    humans.append(
         [
             gen_data.create_name(full_name=False),
-            gen_data.create_birthday(min_age=18, max_age=65),
-            gen_data.create_date(past=True, max_years_future=0, max_years_past=2),
-            gen_data.create_company_name(biz_type='Generic'),
-         ]
-
-    )
-    data.append(
-        [
-            gen_data.create_name(full_name=False),
-            gen_data.create_birthday(min_age=30, max_age=50),
-            gen_data.create_date(past=True, max_years_future=0, max_years_past=1),
+            str(gen_data.create_birthday(min_age=18, max_age=65)),
             gen_data.create_company_name(biz_type='Generic'),
         ]
 
     )
-    data.append(
+    humans.append(
         [
             gen_data.create_name(full_name=False),
-            gen_data.create_birthday(min_age=30, max_age=39),
-            gen_data.create_date(past=True, max_years_future=0, max_years_past=1),
+            str(gen_data.create_birthday(min_age=30, max_age=50)),
+            gen_data.create_company_name(biz_type='Generic'),
+        ]
+
+    )
+    humans.append(
+        [
+            gen_data.create_name(full_name=False),
+            str(gen_data.create_birthday(min_age=30, max_age=39)),
             gen_data.create_company_name(biz_type='Generic'),
         ]
 
@@ -57,17 +53,27 @@ products = {
 
 salesdata = []
 for i in range(1000):
-    sel = random.sample(data, 1)[0]
+    sel = random.sample(humans, 1)[0]
     units = random.randint(1, 50)
     product = random.sample(products.keys(), 1)[0]
     unitprice = round(random.uniform(products[product][0], products[product][1]), 2)
-    salesdata.append(sel+[
+    salesdata.append(sel + [
+        str(gen_data.create_date(past=True, max_years_future=0, max_years_past=1)),
         product,
         units,
         unitprice,
     ])
 
 df = pd.DataFrame(salesdata)
-columns = ['name', 'birthday', 'orderdate', 'customer', 'product', 'units', 'unitprice']
+columns = ['name', 'birthday', 'customer', 'orderdate', 'product', 'units', 'unitprice']
 df.columns = columns
 df.to_csv('blooth_sales_data.csv', index=False)
+xlsxwriter = pd.ExcelWriter('blooth_sales_data.xlsx',
+                            engine='xlsxwriter',
+                            datetime_format='dd mmm hh:mm',
+                            date_format='dd mmm'
+                            )
+df.to_excel(xlsxwriter, index=False)
+df.to_json('blooth_sales_data.json', orient='records')
+df.to_html('blooth_sales_data.html')
+
