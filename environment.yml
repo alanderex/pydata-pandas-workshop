@@ -62,12 +62,16 @@ dependencies:
 - wcwidth=0.1.7=py36_0
 - wheel=0.29.0=py36_0
 - widgetsnbextension=2.0.0=py36_0
+- xlrd=1.0.0=py36_0
 - xlsxwriter=0.9.6=py36_0
 - xz=5.2.2=1
 - zlib=1.2.8=3
 - pip:
+  - barnum==0.5.1
+  - future==0.16.0
   - ipython-genutils==0.2.0
   - jupyter-client==5.0.1
   - jupyter-console==5.1.0
   - jupyter-core==4.3.0
   - prompt-toolkit==1.0.14
+

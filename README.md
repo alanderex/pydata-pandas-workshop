@@ -35,12 +35,17 @@ jupyter notebook
 * CSV
 * Excel
 * JSON
-* HTML
 * Clipboard
  
 * data
     * .info
     * .describe
+
+#### DataSeries & DataFrames / Numpy
+
+* Data-Series
+* Data-Frames
+* Power of Numpy
 
 #### Selecting Data
 
@@ -48,8 +53,6 @@ jupyter notebook
 * Rows
 * Returns a copy / inplace
 * Boolean indexing
-
-#### DataSeries & DataFrames / Numpy
 
 #### Selecting Data
 

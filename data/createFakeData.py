@@ -67,13 +67,16 @@ for i in range(1000):
 df = pd.DataFrame(salesdata)
 columns = ['name', 'birthday', 'customer', 'orderdate', 'product', 'units', 'unitprice']
 df.columns = columns
-df.to_csv('blooth_sales_data.csv', index=False)
-xlsxwriter = pd.ExcelWriter('blooth_sales_data.xlsx',
-                            engine='xlsxwriter',
-                            datetime_format='dd mmm hh:mm',
-                            date_format='dd mmm'
-                            )
-df.to_excel(xlsxwriter, index=False)
+
 df.to_json('blooth_sales_data.json', orient='records')
 df.to_html('blooth_sales_data.html')
 
+df['birthday'] = df['birthday'].map(lambda x: datetime.datetime.strptime(x, "%Y-%m-%d"))
+df['orderdate'] = df['orderdate'].map(lambda x: datetime.datetime.strptime(x, "%Y-%m-%d %H:%M:%S.%f"))
+df.to_csv('blooth_sales_data.csv', index=False)
+xlsxwriter = pd.ExcelWriter('blooth_sales_data.xlsx',
+                            engine='xlsxwriter',
+                            datetime_format='dd.mm.yyyy hh:mm:ss',
+                            date_format='dd.mm.yyyy'
+                            )
+df.to_excel(xlsxwriter, index=False)
