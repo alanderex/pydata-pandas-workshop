@@ -41,16 +41,22 @@ jupyter notebook
     * .info
     * .describe
 
-#### DataSeries & DataFrames / Numpy
+#### DataSeries & DataFrames / NumPy
 
+* Ode to NumPy
 * Data-Series
 * Data-Frames
-* Power of Numpy
 
-#### Selecting Data
+#### Data selection & Indexing
 
-* Colums
-* Rows
+* Data-Series: 
+    * Slicing
+    * Access by label
+    * Index
+* Data-Frames: 
+    * Slicing
+    * Access by label
+    * Peek into joining data
 * Returns a copy / inplace
 * Boolean indexing
 
@@ -68,7 +74,5 @@ jupyter notebook
 
 #### Peek Into Statistical Data Analysis & Aggregation
 
-#### How to Mangle, Reshape and Pivot
 
-#### Ode to Indexes
 
