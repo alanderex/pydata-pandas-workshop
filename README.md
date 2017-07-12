@@ -28,6 +28,12 @@ jupyter notebook
 # http://localhost:8888/?token=fa08a1f56d3d0fbbdf7d07fec0c39cd471e06501f79a782a
 ``` 
 
+If you don't want to use anaconda, you can use python3 and 
+``` 
+pip install pandas jupyter barnum numpy matplotlib xlsxwriter 
+``` 
+(at your own risk)
+
 ![alt tag](pic/front.jpeg)
 
 #### A Practical Start: Reading and Writing Data Across Multiple Formats 
