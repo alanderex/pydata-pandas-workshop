@@ -1,6 +1,6 @@
 # Introduction to Data-Analysis with Pandas
 
-## Follow-Along Tutorial PyData Berlin 2017
+## Follow-Along Tutorial PyData
 
 Pandas is the Swiss-Multipurpose Knife for Data Analysis in Python. With Pandas dealing with data-analysis is easy and simple but there are some things you need to get your head around first as Data-Frames and Data-Series. 
 
@@ -34,7 +34,6 @@ pip install pandas jupyter barnum numpy matplotlib xlsxwriter
 ``` 
 (at your own risk)
 
-![alt tag](pic/front.jpeg)
 
 #### A Practical Start: Reading and Writing Data Across Multiple Formats 
 
