@@ -1,0 +1,1 @@
+sales_data.style.highlight_max()

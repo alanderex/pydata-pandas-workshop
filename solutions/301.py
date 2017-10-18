@@ -1,0 +1,1 @@
+sales_data['turnover'].sum() / sales_data['turnover'].count()

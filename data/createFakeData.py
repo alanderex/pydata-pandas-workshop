@@ -52,7 +52,7 @@ products = {
 }
 
 salesdata = []
-for i in range(1000):
+for i in range(2345):
     sel = random.sample(humans, 1)[0]
     units = random.randint(1, 50)
     product = random.sample(products.keys(), 1)[0]
@@ -68,15 +68,18 @@ df = pd.DataFrame(salesdata)
 columns = ['name', 'birthday', 'customer', 'orderdate', 'product', 'units', 'unitprice']
 df.columns = columns
 
-df.to_json('blooth_sales_data.json', orient='records')
-df.to_html('blooth_sales_data.html')
+# df.to_json('blooth_sales_data_".json', orient='records')
+df.to_json('blooth_sales_data_2.json', orient='records', date_format="%m/%Y/%dT%I:%M:%S%p+0900")
+# df.to_html('blooth_sales_data.html')
 
 df['birthday'] = df['birthday'].map(lambda x: datetime.datetime.strptime(x, "%Y-%m-%d"))
 df['orderdate'] = df['orderdate'].map(lambda x: datetime.datetime.strptime(x, "%Y-%m-%d %H:%M:%S.%f"))
-df.to_csv('blooth_sales_data.csv', index=False)
-xlsxwriter = pd.ExcelWriter('blooth_sales_data.xlsx',
-                            engine='xlsxwriter',
-                            datetime_format='dd.mm.yyyy hh:mm:ss',
-                            date_format='dd.mm.yyyy'
-                            )
-df.to_excel(xlsxwriter, index=False)
+# df.to_csv('blooth_sales_data.csv', index=False)
+df.to_csv('blooth_sales_data_2.csv', index=False, decimal=',', sep=";")
+df.to_csv('blooth_sales_data_3.csv', index=False, decimal=',', sep=";", date_format="%m/%Y/%dT%I:%M:%S%p+0900")
+# xlsxwriter = pd.ExcelWriter('blooth_sales_data.xlsx',
+#                             engine='xlsxwriter',
+#                             datetime_format='dd.mm.yyyy hh:mm:ss',
+#                             date_format='dd.mm.yyyy'
+#                             )
+# df.to_excel(xlsxwriter, index=False)

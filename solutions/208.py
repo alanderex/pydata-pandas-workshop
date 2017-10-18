@@ -1,0 +1,1 @@
+sales_data.filter(regex='.+da(y|te)')
