@@ -30,7 +30,7 @@ jupyter notebook
 
 If you don't want to use anaconda, you can use python3 and 
 ``` 
-pip install pandas jupyter barnum numpy matplotlib xlsxwriter 
+pip install pandas jupyter barnum numpy matplotlib xlsxwriter seaborn bokeh
 ``` 
 (at your own risk)
 
