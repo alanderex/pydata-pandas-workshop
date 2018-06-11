@@ -2,7 +2,6 @@ name: pandas-introduction
 channels:
 - defaults
 dependencies:
-- appnope=0.1.0=py36_0
 - bkcharts=0.2=py36_0
 - bleach=1.5.0=py36_0
 - bokeh=0.12.7=py36_0
