@@ -11714,6 +11714,9 @@ ul.typeahead-list > li > a {
 .ansi-bold { font-weight: bold; }
 
     </style>
+<style type="text/css">
+    
+    </style>
 
 
 <style type="text/css">
@@ -11775,7 +11778,60 @@ div#notebook {
 </div>
 <div class="inner_cell">
 <div class="text_cell_render border-box-sizing rendered_html">
-<h1 id="Reading-and-writing-data-across-multiple-formats">Reading and writing data across multiple formats<a class="anchor-link" href="#Reading-and-writing-data-across-multiple-formats">&#182;</a></h1>
+<p><img src="../img/koenigsweg_150.png" alt="Königsweg Logo"></p>
+
+</div>
+</div>
+</div>
+<div class="cell border-box-sizing text_cell rendered"><div class="prompt input_prompt">
+</div>
+<div class="inner_cell">
+<div class="text_cell_render border-box-sizing rendered_html">
+<p><span style="font-size: small;float: right;">&copy; 2015-2018 Alexander C.S. Hendorf, <a href="http://koenigsweg.com">Königsweg GmbH</a>, Mannheim </span></p>
+
+</div>
+</div>
+</div>
+<div class="cell border-box-sizing text_cell rendered"><div class="prompt input_prompt">
+</div>
+<div class="inner_cell">
+<div class="text_cell_render border-box-sizing rendered_html">
+<hr>
+
+</div>
+</div>
+</div>
+<div class="cell border-box-sizing text_cell rendered"><div class="prompt input_prompt">
+</div>
+<div class="inner_cell">
+<div class="text_cell_render border-box-sizing rendered_html">
+<h1 id="Data-Wrangling-and-Visualisation-with-Juypter-and-Pandas">Data Wrangling and Visualisation with Juypter and Pandas<a class="anchor-link" href="#Data-Wrangling-and-Visualisation-with-Juypter-and-Pandas">&#182;</a></h1>
+</div>
+</div>
+</div>
+<div class="cell border-box-sizing text_cell rendered"><div class="prompt input_prompt">
+</div>
+<div class="inner_cell">
+<div class="text_cell_render border-box-sizing rendered_html">
+<hr>
+
+</div>
+</div>
+</div>
+<div class="cell border-box-sizing text_cell rendered"><div class="prompt input_prompt">
+</div>
+<div class="inner_cell">
+<div class="text_cell_render border-box-sizing rendered_html">
+<h1 id="Reading-and-Writing-Data-Across-Multiple-Formats">Reading and Writing Data Across Multiple Formats<a class="anchor-link" href="#Reading-and-Writing-Data-Across-Multiple-Formats">&#182;</a></h1>
+</div>
+</div>
+</div>
+<div class="cell border-box-sizing text_cell rendered"><div class="prompt input_prompt">
+</div>
+<div class="inner_cell">
+<div class="text_cell_render border-box-sizing rendered_html">
+<hr>
+
 </div>
 </div>
 </div>
@@ -11833,7 +11889,7 @@ div#notebook {
 
 
 <div class="output_subarea output_stream output_stdout output_text">
-<pre>/Users/hendorf/code/pandas-pydata-warsaw-2017/notebooks
+<pre>/Users/hendorf/code/pydata-pandas-workshop/notebooks
 </pre>
 </div>
 </div>
@@ -11864,13 +11920,14 @@ div#notebook {
 
 
 <div class="output_subarea output_stream output_stdout output_text">
-<pre>blooth_sales_data.csv         blooth_sales_data_clean_2.csv
-blooth_sales_data.html        blooth_sales_data_clean_3.csv
-blooth_sales_data.json        createFakeData.py
-blooth_sales_data.xlsx        sales_data_json_exported.xlsx
-blooth_sales_data_clean.csv   sampledf.json
-blooth_sales_data_clean.xlsx  <span class="ansi-red-fg">temp.csv</span>
-blooth_sales_data_clean_1.csv
+<pre>blooth_sales_data.csv         blooth_sales_data_clean.csv
+blooth_sales_data.html        blooth_sales_data_clean.xlsx
+blooth_sales_data.json        blooth_sales_data_clean_1.csv
+blooth_sales_data.xlsx        blooth_sales_data_clean_2.csv
+blooth_sales_data_2.csv       blooth_sales_data_clean_3.csv
+blooth_sales_data_2.json      sales_data_json_exported.xlsx
+blooth_sales_data_big.json    sampledf.json
+blooth_sales_data_big.xlsx    <span class="ansi-red-fg">temp.csv</span>
 </pre>
 </div>
 </div>
@@ -11925,17 +11982,17 @@ blooth_sales_data_clean_1.csv
 
 <div class="output_html rendered_html output_subarea output_execute_result">
 <div>
-<style>
-    .dataframe thead tr:only-child th {
-        text-align: right;
-    }
-
-    .dataframe thead th {
-        text-align: left;
+<style scoped>
+    .dataframe tbody tr th:only-of-type {
+        vertical-align: middle;
     }
 
     .dataframe tbody tr th {
         vertical-align: top;
+    }
+
+    .dataframe thead th {
+        text-align: right;
     }
 </style>
 <table border="1" class="dataframe">
@@ -22082,17 +22139,17 @@ blooth_sales_data_clean_1.csv
 
 <div class="output_html rendered_html output_subarea output_execute_result">
 <div>
-<style>
-    .dataframe thead tr:only-child th {
-        text-align: right;
-    }
-
-    .dataframe thead th {
-        text-align: left;
+<style scoped>
+    .dataframe tbody tr th:only-of-type {
+        vertical-align: middle;
     }
 
     .dataframe tbody tr th {
         vertical-align: top;
+    }
+
+    .dataframe thead th {
+        text-align: right;
     }
 </style>
 <table border="1" class="dataframe">
@@ -22194,17 +22251,17 @@ blooth_sales_data_clean_1.csv
 
 <div class="output_html rendered_html output_subarea output_execute_result">
 <div>
-<style>
-    .dataframe thead tr:only-child th {
-        text-align: right;
-    }
-
-    .dataframe thead th {
-        text-align: left;
+<style scoped>
+    .dataframe tbody tr th:only-of-type {
+        vertical-align: middle;
     }
 
     .dataframe tbody tr th {
         vertical-align: top;
+    }
+
+    .dataframe thead th {
+        text-align: right;
     }
 </style>
 <table border="1" class="dataframe">
@@ -22350,7 +22407,7 @@ memory usage: 54.8+ KB
 </div>
 <div class="cell border-box-sizing code_cell rendered">
 <div class="input">
-<div class="prompt input_prompt">In&nbsp;[12]:</div>
+<div class="prompt input_prompt">In&nbsp;[&nbsp;]:</div>
 <div class="inner_cell">
     <div class="input_area">
 <div class=" highlight hl-ipython3"><pre><span></span><span class="o">?</span>pd.read_csv
@@ -22384,7 +22441,7 @@ memory usage: 54.8+ KB
 </div>
 <div class="cell border-box-sizing code_cell rendered">
 <div class="input">
-<div class="prompt input_prompt">In&nbsp;[13]:</div>
+<div class="prompt input_prompt">In&nbsp;[12]:</div>
 <div class="inner_cell">
     <div class="input_area">
 <div class=" highlight hl-ipython3"><pre><span></span><span class="n">sales_data</span> <span class="o">=</span> <span class="n">pd</span><span class="o">.</span><span class="n">read_csv</span><span class="p">(</span><span class="s1">&#39;../data/blooth_sales_data.csv&#39;</span><span class="p">,</span>
@@ -22429,7 +22486,7 @@ memory usage: 54.8+ KB
 </div>
 <div class="cell border-box-sizing code_cell rendered">
 <div class="input">
-<div class="prompt input_prompt">In&nbsp;[14]:</div>
+<div class="prompt input_prompt">In&nbsp;[13]:</div>
 <div class="inner_cell">
     <div class="input_area">
 <div class=" highlight hl-ipython3"><pre><span></span><span class="n">sales_data</span><span class="o">.</span><span class="n">head</span><span class="p">(</span><span class="mi">5</span><span class="p">)</span>
@@ -22445,23 +22502,23 @@ memory usage: 54.8+ KB
 
 <div class="output_area">
 
-<div class="prompt output_prompt">Out[14]:</div>
+<div class="prompt output_prompt">Out[13]:</div>
 
 
 
 <div class="output_html rendered_html output_subarea output_execute_result">
 <div>
-<style>
-    .dataframe thead tr:only-child th {
-        text-align: right;
-    }
-
-    .dataframe thead th {
-        text-align: left;
+<style scoped>
+    .dataframe tbody tr th:only-of-type {
+        vertical-align: middle;
     }
 
     .dataframe tbody tr th {
         vertical-align: top;
+    }
+
+    .dataframe thead th {
+        text-align: right;
     }
 </style>
 <table border="1" class="dataframe">
@@ -22550,7 +22607,7 @@ memory usage: 54.8+ KB
 </div>
 <div class="cell border-box-sizing code_cell rendered">
 <div class="input">
-<div class="prompt input_prompt">In&nbsp;[15]:</div>
+<div class="prompt input_prompt">In&nbsp;[14]:</div>
 <div class="inner_cell">
     <div class="input_area">
 <div class=" highlight hl-ipython3"><pre><span></span><span class="n">sales_data</span> <span class="o">=</span> <span class="n">pd</span><span class="o">.</span><span class="n">read_csv</span><span class="p">(</span><span class="s1">&#39;../data/blooth_sales_data.csv&#39;</span><span class="p">,</span>
@@ -22569,23 +22626,23 @@ memory usage: 54.8+ KB
 
 <div class="output_area">
 
-<div class="prompt output_prompt">Out[15]:</div>
+<div class="prompt output_prompt">Out[14]:</div>
 
 
 
 <div class="output_html rendered_html output_subarea output_execute_result">
 <div>
-<style>
-    .dataframe thead tr:only-child th {
-        text-align: right;
-    }
-
-    .dataframe thead th {
-        text-align: left;
+<style scoped>
+    .dataframe tbody tr th:only-of-type {
+        vertical-align: middle;
     }
 
     .dataframe tbody tr th {
         vertical-align: top;
+    }
+
+    .dataframe thead th {
+        text-align: right;
     }
 </style>
 <table border="1" class="dataframe">
@@ -22725,8 +22782,7 @@ add</p>
 <div class="prompt input_prompt">In&nbsp;[&nbsp;]:</div>
 <div class="inner_cell">
     <div class="input_area">
-<div class=" highlight hl-ipython3"><pre><span></span><span class="c1"># solution</span>
-<span class="o">%</span><span class="k">load</span> ../solutions/101.py 
+<div class=" highlight hl-ipython3"><pre><span></span><span class="o">%</span><span class="k">load</span> ../solutions/101.py
 </pre></div>
 
 </div>
@@ -22747,7 +22803,7 @@ add</p>
 </div>
 <div class="cell border-box-sizing code_cell rendered">
 <div class="input">
-<div class="prompt input_prompt">In&nbsp;[&nbsp;]:</div>
+<div class="prompt input_prompt">In&nbsp;[19]:</div>
 <div class="inner_cell">
     <div class="input_area">
 <div class=" highlight hl-ipython3"><pre><span></span><span class="c1"># your code here</span>
@@ -22763,8 +22819,7 @@ add</p>
 <div class="prompt input_prompt">In&nbsp;[&nbsp;]:</div>
 <div class="inner_cell">
     <div class="input_area">
-<div class=" highlight hl-ipython3"><pre><span></span><span class="c1"># solution</span>
-<span class="o">%</span><span class="k">load</span> ../solutions/102.py 
+<div class=" highlight hl-ipython3"><pre><span></span><span class="o">%</span><span class="k">load</span> ../solutions/102.py
 </pre></div>
 
 </div>
@@ -22772,22 +22827,20 @@ add</p>
 </div>
 
 </div>
-<div class="cell border-box-sizing code_cell rendered">
-<div class="input">
-<div class="prompt input_prompt">In&nbsp;[&nbsp;]:</div>
+<div class="cell border-box-sizing text_cell rendered"><div class="prompt input_prompt">
+</div>
 <div class="inner_cell">
-    <div class="input_area">
-<div class=" highlight hl-ipython3"><pre><span></span><span class="o">*</span> <span class="err">`</span><span class="o">.</span><span class="n">info</span><span class="p">()</span><span class="err">`</span>
-</pre></div>
+<div class="text_cell_render border-box-sizing rendered_html">
+<ul>
+<li><code>.info()</code></li>
+</ul>
 
 </div>
 </div>
-</div>
-
 </div>
 <div class="cell border-box-sizing code_cell rendered">
 <div class="input">
-<div class="prompt input_prompt">In&nbsp;[&nbsp;]:</div>
+<div class="prompt input_prompt">In&nbsp;[21]:</div>
 <div class="inner_cell">
     <div class="input_area">
 <div class=" highlight hl-ipython3"><pre><span></span><span class="c1"># your code here</span>
@@ -22803,8 +22856,7 @@ add</p>
 <div class="prompt input_prompt">In&nbsp;[&nbsp;]:</div>
 <div class="inner_cell">
     <div class="input_area">
-<div class=" highlight hl-ipython3"><pre><span></span><span class="c1"># solution</span>
-<span class="o">%</span><span class="k">load</span> ../solutions/103.py 
+<div class=" highlight hl-ipython3"><pre><span></span><span class="o">%</span><span class="k">load</span> ../solutions/103.py
 </pre></div>
 
 </div>
@@ -22839,8 +22891,7 @@ add</p>
 <div class="prompt input_prompt">In&nbsp;[&nbsp;]:</div>
 <div class="inner_cell">
     <div class="input_area">
-<div class=" highlight hl-ipython3"><pre><span></span><span class="c1"># solution</span>
-<span class="o">%</span><span class="k">load</span> ../solutions/104.py 
+<div class=" highlight hl-ipython3"><pre><span></span><span class="o">%</span><span class="k">load</span> ../solutions/104.py
 </pre></div>
 
 </div>
@@ -22888,8 +22939,7 @@ add</p>
 <div class="prompt input_prompt">In&nbsp;[&nbsp;]:</div>
 <div class="inner_cell">
     <div class="input_area">
-<div class=" highlight hl-ipython3"><pre><span></span><span class="c1"># solution</span>
-<span class="o">%</span><span class="k">load</span> ../solutions/105.py 
+<div class=" highlight hl-ipython3"><pre><span></span><span class="o">%</span><span class="k">load</span> ../solutions/105.py
 </pre></div>
 
 </div>
@@ -22899,7 +22949,7 @@ add</p>
 </div>
 <div class="cell border-box-sizing code_cell rendered">
 <div class="input">
-<div class="prompt input_prompt">In&nbsp;[&nbsp;]:</div>
+<div class="prompt input_prompt">In&nbsp;[31]:</div>
 <div class="inner_cell">
     <div class="input_area">
 <div class=" highlight hl-ipython3"><pre><span></span><span class="c1"># check your import using .info()</span>
@@ -22907,6 +22957,35 @@ add</p>
 </pre></div>
 
 </div>
+</div>
+</div>
+
+<div class="output_wrapper">
+<div class="output">
+
+
+<div class="output_area">
+
+<div class="prompt"></div>
+
+
+<div class="output_subarea output_stream output_stdout output_text">
+<pre>&lt;class &#39;pandas.core.frame.DataFrame&#39;&gt;
+RangeIndex: 2345 entries, 0 to 2344
+Data columns (total 7 columns):
+name         2345 non-null object
+birthday     2345 non-null datetime64[ns]
+customer     2345 non-null object
+orderdate    2345 non-null datetime64[ns]
+product      2345 non-null object
+units        2345 non-null int64
+unitprice    2345 non-null float64
+dtypes: datetime64[ns](2), float64(1), int64(1), object(3)
+memory usage: 128.3+ KB
+</pre>
+</div>
+</div>
+
 </div>
 </div>
 
@@ -22918,6 +22997,119 @@ add</p>
 <h3 id="JSON">JSON<a class="anchor-link" href="#JSON">&#182;</a></h3>
 </div>
 </div>
+</div>
+<div class="cell border-box-sizing code_cell rendered">
+<div class="input">
+<div class="prompt input_prompt">In&nbsp;[15]:</div>
+<div class="inner_cell">
+    <div class="input_area">
+<div class=" highlight hl-ipython3"><pre><span></span><span class="n">sales_data_json</span> <span class="o">=</span> <span class="n">pd</span><span class="o">.</span><span class="n">read_json</span><span class="p">(</span><span class="s1">&#39;../data/blooth_sales_data.json&#39;</span><span class="p">)</span>
+<span class="n">sales_data_json</span><span class="o">.</span><span class="n">head</span><span class="p">(</span><span class="mi">5</span><span class="p">)</span>
+</pre></div>
+
+</div>
+</div>
+</div>
+
+<div class="output_wrapper">
+<div class="output">
+
+
+<div class="output_area">
+
+<div class="prompt output_prompt">Out[15]:</div>
+
+
+
+<div class="output_html rendered_html output_subarea output_execute_result">
+<div>
+<style scoped>
+    .dataframe tbody tr th:only-of-type {
+        vertical-align: middle;
+    }
+
+    .dataframe tbody tr th {
+        vertical-align: top;
+    }
+
+    .dataframe thead th {
+        text-align: right;
+    }
+</style>
+<table border="1" class="dataframe">
+  <thead>
+    <tr style="text-align: right;">
+      <th></th>
+      <th>birthday</th>
+      <th>customer</th>
+      <th>name</th>
+      <th>orderdate</th>
+      <th>product</th>
+      <th>unitprice</th>
+      <th>units</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <th>0</th>
+      <td>1974-01-07</td>
+      <td>Frontier Industries</td>
+      <td>Ernesto</td>
+      <td>2016-10-06 08:21:20.544568</td>
+      <td>Star Wars</td>
+      <td>11.81</td>
+      <td>27</td>
+    </tr>
+    <tr>
+      <th>1</th>
+      <td>1986-02-05</td>
+      <td>Bell Telecom Limited</td>
+      <td>Queen</td>
+      <td>2016-09-30 08:21:20.544599</td>
+      <td>PlayStation</td>
+      <td>284.71</td>
+      <td>1</td>
+    </tr>
+    <tr>
+      <th>2</th>
+      <td>1982-07-06</td>
+      <td>Software Co</td>
+      <td>Reid</td>
+      <td>2016-10-05 08:21:20.544622</td>
+      <td>banana</td>
+      <td>10.00</td>
+      <td>49</td>
+    </tr>
+    <tr>
+      <th>3</th>
+      <td>1971-04-12</td>
+      <td>Data Design Galaxy Co</td>
+      <td>Arlene</td>
+      <td>2016-10-02 08:21:20.544643</td>
+      <td>Thriller record</td>
+      <td>16.77</td>
+      <td>48</td>
+    </tr>
+    <tr>
+      <th>4</th>
+      <td>1984-12-14</td>
+      <td>Frontier Inc</td>
+      <td>Nikita</td>
+      <td>2016-10-16 08:21:20.544666</td>
+      <td>Harry Potter book</td>
+      <td>5.65</td>
+      <td>4</td>
+    </tr>
+  </tbody>
+</table>
+</div>
+</div>
+
+</div>
+
+</div>
+</div>
+
 </div>
 <div class="cell border-box-sizing code_cell rendered">
 <div class="input">
@@ -22944,17 +23136,17 @@ add</p>
 
 <div class="output_html rendered_html output_subarea output_execute_result">
 <div>
-<style>
-    .dataframe thead tr:only-child th {
-        text-align: right;
-    }
-
-    .dataframe thead th {
-        text-align: left;
+<style scoped>
+    .dataframe tbody tr th:only-of-type {
+        vertical-align: middle;
     }
 
     .dataframe tbody tr th {
         vertical-align: top;
+    }
+
+    .dataframe thead th {
+        text-align: right;
     }
 </style>
 <table border="1" class="dataframe">
@@ -23037,119 +23229,6 @@ add</p>
 <div class="prompt input_prompt">In&nbsp;[17]:</div>
 <div class="inner_cell">
     <div class="input_area">
-<div class=" highlight hl-ipython3"><pre><span></span><span class="n">sales_data_json</span> <span class="o">=</span> <span class="n">pd</span><span class="o">.</span><span class="n">read_json</span><span class="p">(</span><span class="s1">&#39;../data/blooth_sales_data.json&#39;</span><span class="p">)</span>
-<span class="n">sales_data_json</span><span class="o">.</span><span class="n">head</span><span class="p">(</span><span class="mi">5</span><span class="p">)</span>
-</pre></div>
-
-</div>
-</div>
-</div>
-
-<div class="output_wrapper">
-<div class="output">
-
-
-<div class="output_area">
-
-<div class="prompt output_prompt">Out[17]:</div>
-
-
-
-<div class="output_html rendered_html output_subarea output_execute_result">
-<div>
-<style>
-    .dataframe thead tr:only-child th {
-        text-align: right;
-    }
-
-    .dataframe thead th {
-        text-align: left;
-    }
-
-    .dataframe tbody tr th {
-        vertical-align: top;
-    }
-</style>
-<table border="1" class="dataframe">
-  <thead>
-    <tr style="text-align: right;">
-      <th></th>
-      <th>birthday</th>
-      <th>customer</th>
-      <th>name</th>
-      <th>orderdate</th>
-      <th>product</th>
-      <th>unitprice</th>
-      <th>units</th>
-    </tr>
-  </thead>
-  <tbody>
-    <tr>
-      <th>0</th>
-      <td>1974-01-07</td>
-      <td>Frontier Industries</td>
-      <td>Ernesto</td>
-      <td>2016-10-06 08:21:20.544568</td>
-      <td>Star Wars</td>
-      <td>11.81</td>
-      <td>27</td>
-    </tr>
-    <tr>
-      <th>1</th>
-      <td>1986-02-05</td>
-      <td>Bell Telecom Limited</td>
-      <td>Queen</td>
-      <td>2016-09-30 08:21:20.544599</td>
-      <td>PlayStation</td>
-      <td>284.71</td>
-      <td>1</td>
-    </tr>
-    <tr>
-      <th>2</th>
-      <td>1982-07-06</td>
-      <td>Software Co</td>
-      <td>Reid</td>
-      <td>2016-10-05 08:21:20.544622</td>
-      <td>banana</td>
-      <td>10.00</td>
-      <td>49</td>
-    </tr>
-    <tr>
-      <th>3</th>
-      <td>1971-04-12</td>
-      <td>Data Design Galaxy Co</td>
-      <td>Arlene</td>
-      <td>2016-10-02 08:21:20.544643</td>
-      <td>Thriller record</td>
-      <td>16.77</td>
-      <td>48</td>
-    </tr>
-    <tr>
-      <th>4</th>
-      <td>1984-12-14</td>
-      <td>Frontier Inc</td>
-      <td>Nikita</td>
-      <td>2016-10-16 08:21:20.544666</td>
-      <td>Harry Potter book</td>
-      <td>5.65</td>
-      <td>4</td>
-    </tr>
-  </tbody>
-</table>
-</div>
-</div>
-
-</div>
-
-</div>
-</div>
-
-</div>
-<div class="cell border-box-sizing code_cell rendered">
-<div class="input">
-<div class="prompt input_prompt">In&nbsp;[18]:</div>
-<div class="inner_cell">
-    <div class="input_area">
 <div class=" highlight hl-ipython3"><pre><span></span><span class="n">sales_data_json</span><span class="o">.</span><span class="n">info</span><span class="p">()</span>
 </pre></div>
 
@@ -23168,7 +23247,7 @@ add</p>
 
 <div class="output_subarea output_stream output_stdout output_text">
 <pre>&lt;class &#39;pandas.core.frame.DataFrame&#39;&gt;
-Int64Index: 2345 entries, 0 to 2344
+RangeIndex: 2345 entries, 0 to 2344
 Data columns (total 7 columns):
 birthday     2345 non-null object
 customer     2345 non-null object
@@ -23178,7 +23257,7 @@ product      2345 non-null object
 unitprice    2345 non-null float64
 units        2345 non-null int64
 dtypes: float64(1), int64(1), object(5)
-memory usage: 146.6+ KB
+memory usage: 128.3+ KB
 </pre>
 </div>
 </div>
@@ -23207,7 +23286,7 @@ memory usage: 146.6+ KB
 </div>
 <div class="cell border-box-sizing code_cell rendered">
 <div class="input">
-<div class="prompt input_prompt">In&nbsp;[19]:</div>
+<div class="prompt input_prompt">In&nbsp;[18]:</div>
 <div class="inner_cell">
     <div class="input_area">
 <div class=" highlight hl-ipython3"><pre><span></span><span class="kn">import</span> <span class="nn">json</span>
@@ -23226,7 +23305,7 @@ memory usage: 146.6+ KB
 
 <div class="output_area">
 
-<div class="prompt output_prompt">Out[19]:</div>
+<div class="prompt output_prompt">Out[18]:</div>
 
 
 
@@ -23249,7 +23328,7 @@ memory usage: 146.6+ KB
 </div>
 <div class="cell border-box-sizing code_cell rendered">
 <div class="input">
-<div class="prompt input_prompt">In&nbsp;[20]:</div>
+<div class="prompt input_prompt">In&nbsp;[19]:</div>
 <div class="inner_cell">
     <div class="input_area">
 <div class=" highlight hl-ipython3"><pre><span></span><span class="kn">import</span> <span class="nn">datetime</span>
@@ -23269,7 +23348,7 @@ memory usage: 146.6+ KB
 
 <div class="output_area">
 
-<div class="prompt output_prompt">Out[20]:</div>
+<div class="prompt output_prompt">Out[19]:</div>
 
 
 
@@ -23292,7 +23371,7 @@ memory usage: 146.6+ KB
 </div>
 <div class="cell border-box-sizing code_cell rendered">
 <div class="input">
-<div class="prompt input_prompt">In&nbsp;[21]:</div>
+<div class="prompt input_prompt">In&nbsp;[20]:</div>
 <div class="inner_cell">
     <div class="input_area">
 <div class=" highlight hl-ipython3"><pre><span></span><span class="n">sales_data_from_dict</span> <span class="o">=</span> <span class="n">pd</span><span class="o">.</span><span class="n">DataFrame</span><span class="p">(</span><span class="n">_json</span><span class="p">)</span>
@@ -23309,23 +23388,23 @@ memory usage: 146.6+ KB
 
 <div class="output_area">
 
-<div class="prompt output_prompt">Out[21]:</div>
+<div class="prompt output_prompt">Out[20]:</div>
 
 
 
 <div class="output_html rendered_html output_subarea output_execute_result">
 <div>
-<style>
-    .dataframe thead tr:only-child th {
-        text-align: right;
-    }
-
-    .dataframe thead th {
-        text-align: left;
+<style scoped>
+    .dataframe tbody tr th:only-of-type {
+        vertical-align: middle;
     }
 
     .dataframe tbody tr th {
         vertical-align: top;
+    }
+
+    .dataframe thead th {
+        text-align: right;
     }
 </style>
 <table border="1" class="dataframe">
@@ -23405,7 +23484,7 @@ memory usage: 146.6+ KB
 </div>
 <div class="cell border-box-sizing code_cell rendered">
 <div class="input">
-<div class="prompt input_prompt">In&nbsp;[22]:</div>
+<div class="prompt input_prompt">In&nbsp;[21]:</div>
 <div class="inner_cell">
     <div class="input_area">
 <div class=" highlight hl-ipython3"><pre><span></span><span class="n">sales_data_from_dict</span><span class="o">.</span><span class="n">info</span><span class="p">()</span>
@@ -23447,7 +23526,7 @@ memory usage: 128.3+ KB
 </div>
 <div class="cell border-box-sizing code_cell rendered">
 <div class="input">
-<div class="prompt input_prompt">In&nbsp;[23]:</div>
+<div class="prompt input_prompt">In&nbsp;[22]:</div>
 <div class="inner_cell">
     <div class="input_area">
 <div class=" highlight hl-ipython3"><pre><span></span><span class="k">with</span> <span class="nb">open</span><span class="p">(</span><span class="s1">&#39;../data/blooth_sales_data.json&#39;</span><span class="p">,</span> <span class="s1">&#39;r&#39;</span><span class="p">)</span> <span class="k">as</span> <span class="n">f</span><span class="p">:</span>
@@ -23504,7 +23583,7 @@ memory usage: 128.3+ KB
 </div>
 <div class="cell border-box-sizing code_cell rendered">
 <div class="input">
-<div class="prompt input_prompt">In&nbsp;[24]:</div>
+<div class="prompt input_prompt">In&nbsp;[23]:</div>
 <div class="inner_cell">
     <div class="input_area">
 <div class=" highlight hl-ipython3"><pre><span></span><span class="n">sales_data_json</span> <span class="o">=</span> <span class="n">pd</span><span class="o">.</span><span class="n">read_json</span><span class="p">(</span><span class="s1">&#39;../data/blooth_sales_data.json&#39;</span><span class="p">,</span>
@@ -23523,23 +23602,23 @@ memory usage: 128.3+ KB
 
 <div class="output_area">
 
-<div class="prompt output_prompt">Out[24]:</div>
+<div class="prompt output_prompt">Out[23]:</div>
 
 
 
 <div class="output_html rendered_html output_subarea output_execute_result">
 <div>
-<style>
-    .dataframe thead tr:only-child th {
-        text-align: right;
-    }
-
-    .dataframe thead th {
-        text-align: left;
+<style scoped>
+    .dataframe tbody tr th:only-of-type {
+        vertical-align: middle;
     }
 
     .dataframe tbody tr th {
         vertical-align: top;
+    }
+
+    .dataframe thead th {
+        text-align: right;
     }
 </style>
 <table border="1" class="dataframe">
@@ -23619,7 +23698,7 @@ memory usage: 128.3+ KB
 </div>
 <div class="cell border-box-sizing code_cell rendered">
 <div class="input">
-<div class="prompt input_prompt">In&nbsp;[25]:</div>
+<div class="prompt input_prompt">In&nbsp;[24]:</div>
 <div class="inner_cell">
     <div class="input_area">
 <div class=" highlight hl-ipython3"><pre><span></span><span class="n">sales_data_json</span><span class="o">.</span><span class="n">info</span><span class="p">()</span>
@@ -23640,7 +23719,7 @@ memory usage: 128.3+ KB
 
 <div class="output_subarea output_stream output_stdout output_text">
 <pre>&lt;class &#39;pandas.core.frame.DataFrame&#39;&gt;
-Int64Index: 2345 entries, 0 to 2344
+RangeIndex: 2345 entries, 0 to 2344
 Data columns (total 7 columns):
 birthday     2345 non-null datetime64[ns]
 customer     2345 non-null object
@@ -23650,7 +23729,7 @@ product      2345 non-null object
 unitprice    2345 non-null float64
 units        2345 non-null int64
 dtypes: datetime64[ns](2), float64(1), int64(1), object(3)
-memory usage: 146.6+ KB
+memory usage: 128.3+ KB
 </pre>
 </div>
 </div>
@@ -23661,7 +23740,7 @@ memory usage: 146.6+ KB
 </div>
 <div class="cell border-box-sizing code_cell rendered">
 <div class="input">
-<div class="prompt input_prompt">In&nbsp;[26]:</div>
+<div class="prompt input_prompt">In&nbsp;[25]:</div>
 <div class="inner_cell">
     <div class="input_area">
 <div class=" highlight hl-ipython3"><pre><span></span><span class="n">sales_data_json</span><span class="o">.</span><span class="n">describe</span><span class="p">()</span>
@@ -23677,23 +23756,23 @@ memory usage: 146.6+ KB
 
 <div class="output_area">
 
-<div class="prompt output_prompt">Out[26]:</div>
+<div class="prompt output_prompt">Out[25]:</div>
 
 
 
 <div class="output_html rendered_html output_subarea output_execute_result">
 <div>
-<style>
-    .dataframe thead tr:only-child th {
-        text-align: right;
-    }
-
-    .dataframe thead th {
-        text-align: left;
+<style scoped>
+    .dataframe tbody tr th:only-of-type {
+        vertical-align: middle;
     }
 
     .dataframe tbody tr th {
         vertical-align: top;
+    }
+
+    .dataframe thead th {
+        text-align: right;
     }
 </style>
 <table border="1" class="dataframe">
@@ -23758,11 +23837,10 @@ memory usage: 146.6+ KB
 </div>
 <div class="cell border-box-sizing code_cell rendered">
 <div class="input">
-<div class="prompt input_prompt">In&nbsp;[27]:</div>
+<div class="prompt input_prompt">In&nbsp;[26]:</div>
 <div class="inner_cell">
     <div class="input_area">
-<div class=" highlight hl-ipython3"><pre><span></span><span class="n">sales_data</span><span class="o">.</span><span class="n">head</span><span class="p">(</span><span class="mi">100000000</span>
-            <span class="p">)</span>
+<div class=" highlight hl-ipython3"><pre><span></span><span class="n">sales_data</span><span class="o">.</span><span class="n">head</span><span class="p">(</span><span class="mi">100000000</span><span class="p">)</span>
 </pre></div>
 
 </div>
@@ -23775,23 +23853,23 @@ memory usage: 146.6+ KB
 
 <div class="output_area">
 
-<div class="prompt output_prompt">Out[27]:</div>
+<div class="prompt output_prompt">Out[26]:</div>
 
 
 
 <div class="output_html rendered_html output_subarea output_execute_result">
 <div>
-<style>
-    .dataframe thead tr:only-child th {
-        text-align: right;
-    }
-
-    .dataframe thead th {
-        text-align: left;
+<style scoped>
+    .dataframe tbody tr th:only-of-type {
+        vertical-align: middle;
     }
 
     .dataframe tbody tr th {
         vertical-align: top;
+    }
+
+    .dataframe thead th {
+        text-align: right;
     }
 </style>
 <table border="1" class="dataframe">
@@ -24444,7 +24522,7 @@ memory usage: 146.6+ KB
 <div class="inner_cell">
     <div class="input_area">
 <div class=" highlight hl-ipython3"><pre><span></span><span class="n">sales_data_excel</span> <span class="o">=</span> <span class="n">pd</span><span class="o">.</span><span class="n">read_excel</span><span class="p">(</span><span class="s1">&#39;../data/blooth_sales_data.xlsx&#39;</span><span class="p">,</span>
-                                <span class="n">parse_cols</span><span class="o">=</span><span class="s1">&#39;A:B&#39;</span><span class="p">)</span>
+                                <span class="n">usecols</span><span class="o">=</span><span class="s1">&#39;A:B&#39;</span><span class="p">)</span>
 <span class="n">sales_data_excel</span><span class="o">.</span><span class="n">head</span><span class="p">(</span><span class="mi">5</span><span class="p">)</span>
 </pre></div>
 
@@ -24464,17 +24542,17 @@ memory usage: 146.6+ KB
 
 <div class="output_html rendered_html output_subarea output_execute_result">
 <div>
-<style>
-    .dataframe thead tr:only-child th {
-        text-align: right;
-    }
-
-    .dataframe thead th {
-        text-align: left;
+<style scoped>
+    .dataframe tbody tr th:only-of-type {
+        vertical-align: middle;
     }
 
     .dataframe tbody tr th {
         vertical-align: top;
+    }
+
+    .dataframe thead th {
+        text-align: right;
     }
 </style>
 <table border="1" class="dataframe">
@@ -24591,17 +24669,17 @@ memory usage: 15.7+ KB
 
 <div class="output_html rendered_html output_subarea output_execute_result">
 <div>
-<style>
-    .dataframe thead tr:only-child th {
-        text-align: right;
-    }
-
-    .dataframe thead th {
-        text-align: left;
+<style scoped>
+    .dataframe tbody tr th:only-of-type {
+        vertical-align: middle;
     }
 
     .dataframe tbody tr th {
         vertical-align: top;
+    }
+
+    .dataframe thead th {
+        text-align: right;
     }
 </style>
 <table border="1" class="dataframe">
@@ -24712,7 +24790,7 @@ memory usage: 15.7+ KB
 </div>
 <div class="cell border-box-sizing code_cell rendered">
 <div class="input">
-<div class="prompt input_prompt">In&nbsp;[32]:</div>
+<div class="prompt input_prompt">In&nbsp;[48]:</div>
 <div class="inner_cell">
     <div class="input_area">
 <div class=" highlight hl-ipython3"><pre><span></span><span class="c1"># put this in your clipboard</span>
@@ -24729,7 +24807,7 @@ memory usage: 15.7+ KB
 
 <div class="output_area">
 
-<div class="prompt output_prompt">Out[32]:</div>
+<div class="prompt output_prompt">Out[48]:</div>
 
 
 
@@ -24825,7 +24903,7 @@ memory usage: 15.7+ KB
 </div>
 <div class="cell border-box-sizing code_cell rendered">
 <div class="input">
-<div class="prompt input_prompt">In&nbsp;[36]:</div>
+<div class="prompt input_prompt">In&nbsp;[49]:</div>
 <div class="inner_cell">
     <div class="input_area">
 <div class=" highlight hl-ipython3"><pre><span></span><span class="n">sales_from_clipboard</span> <span class="o">=</span> <span class="n">pd</span><span class="o">.</span><span class="n">read_clipboard</span><span class="p">()</span>
@@ -24842,7 +24920,7 @@ memory usage: 15.7+ KB
 
 <div class="output_area">
 
-<div class="prompt output_prompt">Out[36]:</div>
+<div class="prompt output_prompt">Out[49]:</div>
 
 
 
@@ -24865,19 +24943,30 @@ memory usage: 15.7+ KB
   <thead>
     <tr style="text-align: right;">
       <th></th>
-      <th>1</th>
-      <th>1986-02-05</th>
-      <th>Bell Telecom Limited</th>
-      <th>Queen</th>
-      <th>2016-09-30 08:21:20.544599</th>
-      <th>PlayStation</th>
-      <th>284.71</th>
-      <th>1.1</th>
+      <th>0</th>
+      <th>1974-01-07</th>
+      <th>Frontier Industries</th>
+      <th>Ernesto</th>
+      <th>2016-10-06 08:21:20.544568</th>
+      <th>Star Wars</th>
+      <th>11.81</th>
+      <th>27</th>
     </tr>
   </thead>
   <tbody>
     <tr>
       <th>0</th>
+      <td>1</td>
+      <td>1986-02-05</td>
+      <td>Bell Telecom Limited</td>
+      <td>Queen</td>
+      <td>2016-09-30 08:21:20.544599</td>
+      <td>PlayStation</td>
+      <td>284.71</td>
+      <td>1</td>
+    </tr>
+    <tr>
+      <th>1</th>
       <td>2</td>
       <td>1982-07-06</td>
       <td>Software Co</td>
@@ -24888,7 +24977,7 @@ memory usage: 15.7+ KB
       <td>49</td>
     </tr>
     <tr>
-      <th>1</th>
+      <th>2</th>
       <td>3</td>
       <td>1971-04-12</td>
       <td>Data Design Galaxy Co</td>
@@ -24899,7 +24988,7 @@ memory usage: 15.7+ KB
       <td>48</td>
     </tr>
     <tr>
-      <th>2</th>
+      <th>3</th>
       <td>4</td>
       <td>1984-12-14</td>
       <td>Frontier Inc</td>

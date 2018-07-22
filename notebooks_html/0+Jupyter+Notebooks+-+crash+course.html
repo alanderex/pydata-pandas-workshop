@@ -11714,6 +11714,9 @@ ul.typeahead-list > li > a {
 .ansi-bold { font-weight: bold; }
 
     </style>
+<style type="text/css">
+    
+    </style>
 
 
 <style type="text/css">
@@ -11784,7 +11787,7 @@ div#notebook {
 </div>
 <div class="inner_cell">
 <div class="text_cell_render border-box-sizing rendered_html">
-<p><span style="font-size: small;float: right;">&copy; 2015-2017 Alexander C.S. Hendorf, <a href="http://koenigsweg.com">Königsweg GmbH</a>, Mannheim </span></p>
+<p><span style="font-size: small;float: right;">&copy; 2015-2018 Alexander C.S. Hendorf, <a href="http://koenigsweg.com">Königsweg GmbH</a>, Mannheim </span></p>
 
 </div>
 </div>
@@ -11837,7 +11840,7 @@ div#notebook {
 </div>
 <div class="inner_cell">
 <div class="text_cell_render border-box-sizing rendered_html">
-<h1 id="Introduction-Data-Analytics-with-Pandas-and-Juypter">Introduction Data Analytics with Pandas and Juypter<a class="anchor-link" href="#Introduction-Data-Analytics-with-Pandas-and-Juypter">&#182;</a></h1>
+<h1 id="Data-Wrangling-and-Visualisation-with-Juypter-and-Pandas">Data Wrangling and Visualisation with Juypter and Pandas<a class="anchor-link" href="#Data-Wrangling-and-Visualisation-with-Juypter-and-Pandas">&#182;</a></h1>
 </div>
 </div>
 </div>
@@ -11974,7 +11977,7 @@ div#notebook {
 
 
 <div class="output_subarea output_stream output_stdout output_text">
-<pre>Hallo Welt!
+<pre>Hello world!
 </pre>
 </div>
 </div>
@@ -12008,7 +12011,7 @@ div#notebook {
 
 
 <div class="output_text output_subarea output_execute_result">
-<pre>&#39;hallo&#39;</pre>
+<pre>&#39;hello&#39;</pre>
 </div>
 
 </div>
@@ -12315,7 +12318,7 @@ after the last cell a new cell is created by default.</p>
 </div>
 <div class="cell border-box-sizing code_cell rendered">
 <div class="input">
-<div class="prompt input_prompt">In&nbsp;[1]:</div>
+<div class="prompt input_prompt">In&nbsp;[7]:</div>
 <div class="inner_cell">
     <div class="input_area">
 <div class=" highlight hl-ipython3"><pre><span></span><span class="o">?</span>
@@ -12325,16 +12328,369 @@ after the last cell a new cell is created by default.</p>
 </div>
 </div>
 
+<div class="output_wrapper">
+<div class="output">
+
+
+<div class="output_area">
+
+<div class="prompt"></div>
+
+
+
+
+<div class="output_text output_subarea ">
+<pre>
+IPython -- An enhanced Interactive Python
+=========================================
+
+IPython offers a fully compatible replacement for the standard Python
+interpreter, with convenient shell features, special commands, command
+history mechanism and output results caching.
+
+At your system command line, type &#39;ipython -h&#39; to see the command line
+options available. This document only describes interactive features.
+
+GETTING HELP
+------------
+
+Within IPython you have various way to access help:
+
+  ?         -&gt; Introduction and overview of IPython&#39;s features (this screen).
+  object?   -&gt; Details about &#39;object&#39;.
+  object??  -&gt; More detailed, verbose information about &#39;object&#39;.
+  %quickref -&gt; Quick reference of all IPython specific syntax and magics.
+  help      -&gt; Access Python&#39;s own help system.
+
+If you are in terminal IPython you can quit this screen by pressing `q`.
+
+
+MAIN FEATURES
+-------------
+
+* Access to the standard Python help with object docstrings and the Python
+  manuals. Simply type &#39;help&#39; (no quotes) to invoke it.
+
+* Magic commands: type %magic for information on the magic subsystem.
+
+* System command aliases, via the %alias command or the configuration file(s).
+
+* Dynamic object information:
+
+  Typing ?word or word? prints detailed information about an object. Certain
+  long strings (code, etc.) get snipped in the center for brevity.
+
+  Typing ??word or word?? gives access to the full information without
+  snipping long strings. Strings that are longer than the screen are printed
+  through the less pager.
+
+  The ?/?? system gives access to the full source code for any object (if
+  available), shows function prototypes and other useful information.
+
+  If you just want to see an object&#39;s docstring, type &#39;%pdoc object&#39; (without
+  quotes, and without % if you have automagic on).
+
+* Tab completion in the local namespace:
+
+  At any time, hitting tab will complete any available python commands or
+  variable names, and show you a list of the possible completions if there&#39;s
+  no unambiguous one. It will also complete filenames in the current directory.
+
+* Search previous command history in multiple ways:
+
+  - Start typing, and then use arrow keys up/down or (Ctrl-p/Ctrl-n) to search
+    through the history items that match what you&#39;ve typed so far.
+
+  - Hit Ctrl-r: opens a search prompt. Begin typing and the system searches
+    your history for lines that match what you&#39;ve typed so far, completing as
+    much as it can.
+
+  - %hist: search history by index.
+
+* Persistent command history across sessions.
+
+* Logging of input with the ability to save and restore a working session.
+
+* System shell with !. Typing !ls will run &#39;ls&#39; in the current directory.
+
+* The reload command does a &#39;deep&#39; reload of a module: changes made to the
+  module since you imported will actually be available without having to exit.
+
+* Verbose and colored exception traceback printouts. See the magic xmode and
+  xcolor functions for details (just type %magic).
+
+* Input caching system:
+
+  IPython offers numbered prompts (In/Out) with input and output caching. All
+  input is saved and can be retrieved as variables (besides the usual arrow
+  key recall).
+
+  The following GLOBAL variables always exist (so don&#39;t overwrite them!):
+  _i: stores previous input.
+  _ii: next previous.
+  _iii: next-next previous.
+  _ih : a list of all input _ih[n] is the input from line n.
+
+  Additionally, global variables named _i&lt;n&gt; are dynamically created (&lt;n&gt;
+  being the prompt counter), such that _i&lt;n&gt; == _ih[&lt;n&gt;]
+
+  For example, what you typed at prompt 14 is available as _i14 and _ih[14].
+
+  You can create macros which contain multiple input lines from this history,
+  for later re-execution, with the %macro function.
+
+  The history function %hist allows you to see any part of your input history
+  by printing a range of the _i variables. Note that inputs which contain
+  magic functions (%) appear in the history with a prepended comment. This is
+  because they aren&#39;t really valid Python code, so you can&#39;t exec them.
+
+* Output caching system:
+
+  For output that is returned from actions, a system similar to the input
+  cache exists but using _ instead of _i. Only actions that produce a result
+  (NOT assignments, for example) are cached. If you are familiar with
+  Mathematica, IPython&#39;s _ variables behave exactly like Mathematica&#39;s %
+  variables.
+
+  The following GLOBAL variables always exist (so don&#39;t overwrite them!):
+  _ (one underscore): previous output.
+  __ (two underscores): next previous.
+  ___ (three underscores): next-next previous.
+
+  Global variables named _&lt;n&gt; are dynamically created (&lt;n&gt; being the prompt
+  counter), such that the result of output &lt;n&gt; is always available as _&lt;n&gt;.
+
+  Finally, a global dictionary named _oh exists with entries for all lines
+  which generated output.
+
+* Directory history:
+
+  Your history of visited directories is kept in the global list _dh, and the
+  magic %cd command can be used to go to any entry in that list.
+
+* Auto-parentheses and auto-quotes (adapted from Nathan Gray&#39;s LazyPython)
+
+  1. Auto-parentheses
+        
+     Callable objects (i.e. functions, methods, etc) can be invoked like
+     this (notice the commas between the arguments)::
+       
+         In [1]: callable_ob arg1, arg2, arg3
+       
+     and the input will be translated to this::
+       
+         callable_ob(arg1, arg2, arg3)
+       
+     This feature is off by default (in rare cases it can produce
+     undesirable side-effects), but you can activate it at the command-line
+     by starting IPython with `--autocall 1`, set it permanently in your
+     configuration file, or turn on at runtime with `%autocall 1`.
+
+     You can force auto-parentheses by using &#39;/&#39; as the first character
+     of a line.  For example::
+       
+          In [1]: /globals             # becomes &#39;globals()&#39;
+       
+     Note that the &#39;/&#39; MUST be the first character on the line!  This
+     won&#39;t work::
+       
+          In [2]: print /globals    # syntax error
+
+     In most cases the automatic algorithm should work, so you should
+     rarely need to explicitly invoke /. One notable exception is if you
+     are trying to call a function with a list of tuples as arguments (the
+     parenthesis will confuse IPython)::
+       
+          In [1]: zip (1,2,3),(4,5,6)  # won&#39;t work
+       
+     but this will work::
+       
+          In [2]: /zip (1,2,3),(4,5,6)
+          ------&gt; zip ((1,2,3),(4,5,6))
+          Out[2]= [(1, 4), (2, 5), (3, 6)]
+
+     IPython tells you that it has altered your command line by
+     displaying the new command line preceded by --&gt;.  e.g.::
+       
+          In [18]: callable list
+          -------&gt; callable (list)
+
+  2. Auto-Quoting
+    
+     You can force auto-quoting of a function&#39;s arguments by using &#39;,&#39; as
+     the first character of a line.  For example::
+       
+          In [1]: ,my_function /home/me   # becomes my_function(&#34;/home/me&#34;)
+
+     If you use &#39;;&#39; instead, the whole argument is quoted as a single
+     string (while &#39;,&#39; splits on whitespace)::
+       
+          In [2]: ,my_function a b c   # becomes my_function(&#34;a&#34;,&#34;b&#34;,&#34;c&#34;)
+          In [3]: ;my_function a b c   # becomes my_function(&#34;a b c&#34;)
+
+     Note that the &#39;,&#39; MUST be the first character on the line!  This
+     won&#39;t work::
+       
+          In [4]: x = ,my_function /home/me    # syntax error
+</pre>
+</div>
+
+</div>
+
+</div>
+</div>
+
 </div>
 <div class="cell border-box-sizing code_cell rendered">
 <div class="input">
-<div class="prompt input_prompt">In&nbsp;[2]:</div>
+<div class="prompt input_prompt">In&nbsp;[8]:</div>
 <div class="inner_cell">
     <div class="input_area">
 <div class=" highlight hl-ipython3"><pre><span></span><span class="o">?</span>open
 </pre></div>
 
 </div>
+</div>
+</div>
+
+<div class="output_wrapper">
+<div class="output">
+
+
+<div class="output_area">
+
+<div class="prompt"></div>
+
+
+
+
+<div class="output_text output_subarea ">
+<pre><span class="ansi-red-fg">Signature:</span> open<span class="ansi-blue-fg">(</span>file<span class="ansi-blue-fg">,</span> mode<span class="ansi-blue-fg">=</span><span class="ansi-blue-fg">&#39;r&#39;</span><span class="ansi-blue-fg">,</span> buffering<span class="ansi-blue-fg">=</span><span class="ansi-blue-fg">-</span><span class="ansi-cyan-fg">1</span><span class="ansi-blue-fg">,</span> encoding<span class="ansi-blue-fg">=</span><span class="ansi-green-fg">None</span><span class="ansi-blue-fg">,</span> errors<span class="ansi-blue-fg">=</span><span class="ansi-green-fg">None</span><span class="ansi-blue-fg">,</span> newline<span class="ansi-blue-fg">=</span><span class="ansi-green-fg">None</span><span class="ansi-blue-fg">,</span> closefd<span class="ansi-blue-fg">=</span><span class="ansi-green-fg">True</span><span class="ansi-blue-fg">,</span> opener<span class="ansi-blue-fg">=</span><span class="ansi-green-fg">None</span><span class="ansi-blue-fg">)</span>
+<span class="ansi-red-fg">Docstring:</span>
+Open file and return a stream.  Raise IOError upon failure.
+
+file is either a text or byte string giving the name (and the path
+if the file isn&#39;t in the current working directory) of the file to
+be opened or an integer file descriptor of the file to be
+wrapped. (If a file descriptor is given, it is closed when the
+returned I/O object is closed, unless closefd is set to False.)
+
+mode is an optional string that specifies the mode in which the file
+is opened. It defaults to &#39;r&#39; which means open for reading in text
+mode.  Other common values are &#39;w&#39; for writing (truncating the file if
+it already exists), &#39;x&#39; for creating and writing to a new file, and
+&#39;a&#39; for appending (which on some Unix systems, means that all writes
+append to the end of the file regardless of the current seek position).
+In text mode, if encoding is not specified the encoding used is platform
+dependent: locale.getpreferredencoding(False) is called to get the
+current locale encoding. (For reading and writing raw bytes use binary
+mode and leave encoding unspecified.) The available modes are:
+
+========= ===============================================================
+Character Meaning
+--------- ---------------------------------------------------------------
+&#39;r&#39;       open for reading (default)
+&#39;w&#39;       open for writing, truncating the file first
+&#39;x&#39;       create a new file and open it for writing
+&#39;a&#39;       open for writing, appending to the end of the file if it exists
+&#39;b&#39;       binary mode
+&#39;t&#39;       text mode (default)
+&#39;+&#39;       open a disk file for updating (reading and writing)
+&#39;U&#39;       universal newline mode (deprecated)
+========= ===============================================================
+
+The default mode is &#39;rt&#39; (open for reading text). For binary random
+access, the mode &#39;w+b&#39; opens and truncates the file to 0 bytes, while
+&#39;r+b&#39; opens the file without truncation. The &#39;x&#39; mode implies &#39;w&#39; and
+raises an `FileExistsError` if the file already exists.
+
+Python distinguishes between files opened in binary and text modes,
+even when the underlying operating system doesn&#39;t. Files opened in
+binary mode (appending &#39;b&#39; to the mode argument) return contents as
+bytes objects without any decoding. In text mode (the default, or when
+&#39;t&#39; is appended to the mode argument), the contents of the file are
+returned as strings, the bytes having been first decoded using a
+platform-dependent encoding or using the specified encoding if given.
+
+&#39;U&#39; mode is deprecated and will raise an exception in future versions
+of Python.  It has no effect in Python 3.  Use newline to control
+universal newlines mode.
+
+buffering is an optional integer used to set the buffering policy.
+Pass 0 to switch buffering off (only allowed in binary mode), 1 to select
+line buffering (only usable in text mode), and an integer &gt; 1 to indicate
+the size of a fixed-size chunk buffer.  When no buffering argument is
+given, the default buffering policy works as follows:
+
+* Binary files are buffered in fixed-size chunks; the size of the buffer
+  is chosen using a heuristic trying to determine the underlying device&#39;s
+  &#34;block size&#34; and falling back on `io.DEFAULT_BUFFER_SIZE`.
+  On many systems, the buffer will typically be 4096 or 8192 bytes long.
+
+* &#34;Interactive&#34; text files (files for which isatty() returns True)
+  use line buffering.  Other text files use the policy described above
+  for binary files.
+
+encoding is the name of the encoding used to decode or encode the
+file. This should only be used in text mode. The default encoding is
+platform dependent, but any encoding supported by Python can be
+passed.  See the codecs module for the list of supported encodings.
+
+errors is an optional string that specifies how encoding errors are to
+be handled---this argument should not be used in binary mode. Pass
+&#39;strict&#39; to raise a ValueError exception if there is an encoding error
+(the default of None has the same effect), or pass &#39;ignore&#39; to ignore
+errors. (Note that ignoring encoding errors can lead to data loss.)
+See the documentation for codecs.register or run &#39;help(codecs.Codec)&#39;
+for a list of the permitted encoding error strings.
+
+newline controls how universal newlines works (it only applies to text
+mode). It can be None, &#39;&#39;, &#39;\n&#39;, &#39;\r&#39;, and &#39;\r\n&#39;.  It works as
+follows:
+
+* On input, if newline is None, universal newlines mode is
+  enabled. Lines in the input can end in &#39;\n&#39;, &#39;\r&#39;, or &#39;\r\n&#39;, and
+  these are translated into &#39;\n&#39; before being returned to the
+  caller. If it is &#39;&#39;, universal newline mode is enabled, but line
+  endings are returned to the caller untranslated. If it has any of
+  the other legal values, input lines are only terminated by the given
+  string, and the line ending is returned to the caller untranslated.
+
+* On output, if newline is None, any &#39;\n&#39; characters written are
+  translated to the system default line separator, os.linesep. If
+  newline is &#39;&#39; or &#39;\n&#39;, no translation takes place. If newline is any
+  of the other legal values, any &#39;\n&#39; characters written are translated
+  to the given string.
+
+If closefd is False, the underlying file descriptor will be kept open
+when the file is closed. This does not work when a file name is given
+and must be True in that case.
+
+A custom opener can be used by passing a callable as *opener*. The
+underlying file descriptor for the file object is then obtained by
+calling *opener* with (*file*, *flags*). *opener* must return an open
+file descriptor (passing os.open as *opener* results in functionality
+similar to passing None).
+
+open() returns a file object whose type depends on the mode, and
+through which the standard file operations such as reading and writing
+are performed. When open() is used to open a file in a text mode (&#39;w&#39;,
+&#39;r&#39;, &#39;wt&#39;, &#39;rt&#39;, etc.), it returns a TextIOWrapper. When used to open
+a file in a binary mode, the returned class varies: in read binary
+mode, it returns a BufferedReader; in write binary and append binary
+modes, it returns a BufferedWriter, and in read/write mode, it returns
+a BufferedRandom.
+
+It is also possible to use a string or bytearray as a file for both
+reading and writing. For strings StringIO can be used like a file
+opened in a text mode, and for bytes a BytesIO can be used like a file
+opened in a binary mode.
+<span class="ansi-red-fg">Type:</span>      builtin_function_or_method
+</pre>
+</div>
+
+</div>
+
 </div>
 </div>
 
@@ -12348,6 +12704,33 @@ after the last cell a new cell is created by default.</p>
 </pre></div>
 
 </div>
+</div>
+</div>
+
+<div class="output_wrapper">
+<div class="output">
+
+
+<div class="output_area">
+
+<div class="prompt"></div>
+
+
+
+
+<div class="output_text output_subarea ">
+<pre><span class="ansi-red-fg">Docstring:</span>
+S.replace(old, new[, count]) -&gt; str
+
+Return a copy of S with all occurrences of substring
+old replaced by new.  If the optional argument count is
+given, only the first count occurrences are replaced.
+<span class="ansi-red-fg">Type:</span>      method_descriptor
+</pre>
+</div>
+
+</div>
+
 </div>
 </div>
 
@@ -12484,35 +12867,38 @@ Automagic is ON, % prefix IS NOT needed for line magics.</pre>
 
 
 <div class="output_text output_subarea output_execute_result">
-<pre>{&#39;Apple_PubSub_Socket_Render&#39;: &#39;/private/tmp/com.apple.launchd.AGZ8igshT0/Render&#39;,
+<pre>{&#39;Apple_PubSub_Socket_Render&#39;: &#39;/private/tmp/com.apple.launchd.87g3bgBgxm/Render&#39;,
+ &#39;BASH_FUNC_generate_command_executed_sequence%%&#39;: &#34;() {  printf &#39;\\e\\7&#39;\n}&#34;,
  &#39;CLICOLOR&#39;: &#39;1&#39;,
- &#39;CONDA_DEFAULT_ENV&#39;: &#39;trainjp&#39;,
- &#39;CONDA_PATH_BACKUP&#39;: &#39;/usr/local/bin:/Users/hendorf/anaconda/bin:/usr/local/bin:/usr/bin:/bin:/usr/sbin:/sbin:/Library/TeX/texbin&#39;,
- &#39;CONDA_PREFIX&#39;: &#39;/Users/hendorf/anaconda/envs/trainjp&#39;,
- &#39;CONDA_PS1_BACKUP&#39;: &#39;\\h:\\W \\u\\$ &#39;,
+ &#39;CONDA_DEFAULT_ENV&#39;: &#39;pydata-pandas-workshop&#39;,
+ &#39;CONDA_EXE&#39;: &#39;/Users/hendorf/anaconda/bin/conda&#39;,
+ &#39;CONDA_PREFIX&#39;: &#39;/Users/hendorf/anaconda/envs/pydata-pandas-workshop&#39;,
+ &#39;CONDA_PROMPT_MODIFIER&#39;: &#39;(pydata-pandas-workshop) &#39;,
+ &#39;CONDA_PYTHON_EXE&#39;: &#39;/Users/hendorf/anaconda/bin/python&#39;,
+ &#39;CONDA_SHLVL&#39;: &#39;1&#39;,
+ &#39;CUDA_HOME&#39;: &#39;/usr/local/cuda&#39;,
+ &#39;DISPLAY&#39;: &#39;/private/tmp/com.apple.launchd.ToKf5qSe4Y/org.macosforge.xquartz:0&#39;,
+ &#39;DYLD_LIBRARY_PATH&#39;: &#39;/usr/local/cuda/lib:/usr/local/cuda:/usr/local/cuda/extras/CUPTI/lib&#39;,
  &#39;GIT_PAGER&#39;: &#39;cat&#39;,
  &#39;HOME&#39;: &#39;/Users/hendorf&#39;,
- &#39;JPY_PARENT_PID&#39;: &#39;5822&#39;,
- &#39;LANG&#39;: &#39;de_DE.UTF-8&#39;,
+ &#39;JPY_PARENT_PID&#39;: &#39;15509&#39;,
+ &#39;LC_CTYPE&#39;: &#39;de_DE.UTF-8&#39;,
+ &#39;LD_LIBRARY_PATH&#39;: &#39;/usr/local/cuda/lib:/usr/local/cuda:/usr/local/cuda/extras/CUPTI/lib&#39;,
  &#39;LOGNAME&#39;: &#39;hendorf&#39;,
  &#39;MPLBACKEND&#39;: &#39;module://ipykernel.pylab.backend_inline&#39;,
  &#39;MYVAR&#39;: &#39;&#34;JUPYTER SET&#34;&#39;,
- &#39;OLDPWD&#39;: &#39;/Users/hendorf/Desktop/pyconDE/pycon&#39;,
  &#39;PAGER&#39;: &#39;cat&#39;,
- &#39;PATH&#39;: &#39;/Users/hendorf/anaconda/envs/trainjp/bin:/Users/hendorf/anaconda/envs/trainjp/bin:/usr/local/bin:/Users/hendorf/anaconda/bin:/usr/local/bin:/usr/bin:/bin:/usr/sbin:/sbin:/Library/TeX/texbin&#39;,
+ &#39;PATH&#39;: &#39;/Users/hendorf/anaconda/envs/pydata-pandas-workshop/bin:/Users/hendorf/anaconda/envs/pydata-pandas-workshop/bin:/Users/hendorf/Downloads/google-cloud-sdk/bin:/usr/local/cuda/bin/:/usr/local/bin:/Users/hendorf/anaconda/bin/:/Users/hendorf/Library/Python/2.7/bin:/usr/local/bin:/usr/bin:/bin:/usr/sbin:/sbin:/Library/TeX/texbin:/opt/X11/bin&#39;,
  &#39;PROJECT_HOME&#39;: &#39;/Users/hendorf/code&#39;,
- &#39;PS1&#39;: &#39;(trainjp) \\h:\\W \\u\\$ &#39;,
- &#39;PWD&#39;: &#39;/Users/hendorf/code/data2day-koeningsweg-jupyter-pandas&#39;,
+ &#39;PWD&#39;: &#39;/Users/hendorf/code/pydata-pandas-workshop&#39;,
  &#39;PYSPARK_DRIVER_PYTHON&#39;: &#39;jupyter&#39;,
  &#39;PYSPARK_DRIVER_PYTHON_OPTS&#39;: &#39;notebook&#39;,
  &#39;SHELL&#39;: &#39;/bin/bash&#39;,
+ &#39;SHELL_SESSION_HISTORY&#39;: &#39;0&#39;,
  &#39;SHLVL&#39;: &#39;1&#39;,
  &#39;SPARK_PATH&#39;: &#39;/Users/hendorf/code/spark-demo/spark-2.2.0-bin-hadoop2.6&#39;,
- &#39;SSH_AUTH_SOCK&#39;: &#39;/private/tmp/com.apple.launchd.aDDpkf3Gda/Listeners&#39;,
+ &#39;SSH_AUTH_SOCK&#39;: &#39;/private/tmp/com.apple.launchd.cQTkHLedSr/Listeners&#39;,
  &#39;TERM&#39;: &#39;xterm-color&#39;,
- &#39;TERM_PROGRAM&#39;: &#39;Apple_Terminal&#39;,
- &#39;TERM_PROGRAM_VERSION&#39;: &#39;388.1.1&#39;,
- &#39;TERM_SESSION_ID&#39;: &#39;178EF20A-4680-404D-A0C6-EDA9F7B82305&#39;,
  &#39;TMPDIR&#39;: &#39;/var/folders/ct/f9b5x6vd7171vqmqsx7c0n5h0000gn/T/&#39;,
  &#39;USER&#39;: &#39;hendorf&#39;,
  &#39;VIRTUALENVWRAPPER_HOOK_DIR&#39;: &#39;/Users/hendorf/code/.virtualenvs&#39;,
@@ -12523,7 +12909,7 @@ Automagic is ON, % prefix IS NOT needed for line magics.</pre>
  &#39;WORKON_HOME&#39;: &#39;/Users/hendorf/code/.virtualenvs&#39;,
  &#39;XPC_FLAGS&#39;: &#39;0x0&#39;,
  &#39;XPC_SERVICE_NAME&#39;: &#39;0&#39;,
- &#39;_&#39;: &#39;/Users/hendorf/anaconda/envs/trainjp/bin/jupyter&#39;,
+ &#39;_&#39;: &#39;/Users/hendorf/anaconda/envs/pydata-pandas-workshop/bin/jupyter&#39;,
  &#39;__CF_USER_TEXT_ENCODING&#39;: &#39;0x1F5:0x0:0x3&#39;}</pre>
 </div>
 
@@ -12555,7 +12941,7 @@ Automagic is ON, % prefix IS NOT needed for line magics.</pre>
 
 
 <div class="output_subarea output_stream output_stdout output_text">
-<pre>pandas==0.20.2
+<pre>pandas==0.23.3
 </pre>
 </div>
 </div>
@@ -12586,7 +12972,8 @@ Automagic is ON, % prefix IS NOT needed for line magics.</pre>
 
 
 <div class="output_subarea output_stream output_stdout output_text">
-<pre>pandas                    0.20.2              np113py36_0  
+<pre># packages in environment at /Users/hendorf/anaconda/envs/pydata-pandas-workshop:
+pandas                    0.23.3           py36h6440ff4_0  
 </pre>
 </div>
 </div>
@@ -12664,8 +13051,8 @@ Automagic is ON, % prefix IS NOT needed for line magics.</pre>
 
 
 <div class="output_subarea output_stream output_stdout output_text">
-<pre>CPU times: user 26 µs, sys: 0 ns, total: 26 µs
-Wall time: 31 µs
+<pre>CPU times: user 8 µs, sys: 1e+03 ns, total: 9 µs
+Wall time: 14.1 µs
 </pre>
 </div>
 </div>
@@ -12696,7 +13083,7 @@ Wall time: 31 µs
 
 
 <div class="output_subarea output_stream output_stdout output_text">
-<pre>527 ns ± 12.6 ns per loop (mean ± std. dev. of 7 runs, 1000000 loops each)
+<pre>502 ns ± 9.92 ns per loop (mean ± std. dev. of 7 runs, 1000000 loops each)
 </pre>
 </div>
 </div>
@@ -12731,6 +13118,26 @@ Wall time: 31 µs
 <div class="output_subarea output_stream output_stdout output_text">
 <pre> </pre>
 </div>
+</div>
+
+<div class="output_area">
+
+<div class="prompt"></div>
+
+
+
+
+<div class="output_text output_subarea ">
+<pre>         3 function calls in 0.000 seconds
+
+   Ordered by: internal time
+
+   ncalls  tottime  percall  cumtime  percall filename:lineno(function)
+        1    0.000    0.000    0.000    0.000 {built-in method builtins.exec}
+        1    0.000    0.000    0.000    0.000 {method &#39;disable&#39; of &#39;_lsprof.Profiler&#39; objects}
+        1    0.000    0.000    0.000    0.000 &lt;string&gt;:1(&lt;module&gt;)</pre>
+</div>
+
 </div>
 
 </div>
@@ -13135,7 +13542,7 @@ iIiIIkkYERFR5P8DP9TmTgzhICwAAAAASUVORK5CYII=
 
 
 <div class="output_text output_subarea ">
-<pre>&lt;matplotlib.figure.Figure at 0x11253ee48&gt;</pre>
+<pre>&lt;matplotlib.figure.Figure at 0x108d4fc88&gt;</pre>
 </div>
 
 </div>
@@ -13209,6 +13616,29 @@ for n, i in enumerate(range(10), 1):
 </pre></div>
 
 </div>
+</div>
+</div>
+
+<div class="output_wrapper">
+<div class="output">
+
+
+<div class="output_area">
+
+<div class="prompt"></div>
+
+
+
+
+<div class="output_text output_subarea ">
+<pre>
+<span class="ansi-green-fg">for</span> n<span class="ansi-blue-fg">,</span> i <span class="ansi-green-fg">in</span> enumerate<span class="ansi-blue-fg">(</span>range<span class="ansi-blue-fg">(</span><span class="ansi-cyan-fg">10</span><span class="ansi-blue-fg">)</span><span class="ansi-blue-fg">,</span> <span class="ansi-cyan-fg">1</span><span class="ansi-blue-fg">)</span><span class="ansi-blue-fg">:</span>
+    print<span class="ansi-blue-fg">(</span>n<span class="ansi-blue-fg">,</span> i<span class="ansi-blue-fg">)</span>
+</pre>
+</div>
+
+</div>
+
 </div>
 </div>
 
@@ -14175,7 +14605,7 @@ G0sxBAyBGiBgTq4GRrQqGAKGQDEC/wPPVyKxgVp/rwAAAABJRU5ErkJggg==
 </div>
 <div class="cell border-box-sizing code_cell rendered">
 <div class="input">
-<div class="prompt input_prompt">In&nbsp;[3]:</div>
+<div class="prompt input_prompt">In&nbsp;[30]:</div>
 <div class="inner_cell">
     <div class="input_area">
 <div class=" highlight hl-ipython3"><pre><span></span><span class="o">%%</span><span class="k">HTML</span>
@@ -14219,7 +14649,7 @@ G0sxBAyBGiBgTq4GRrQqGAKGQDEC/wPPVyKxgVp/rwAAAABJRU5ErkJggg==
 </div>
 <div class="inner_cell">
 <div class="text_cell_render border-box-sizing rendered_html">
-<h2 id="Codezellen">Codezellen<a class="anchor-link" href="#Codezellen">&#182;</a></h2>
+<h2 id="Code-Cells">Code Cells<a class="anchor-link" href="#Code-Cells">&#182;</a></h2>
 </div>
 </div>
 </div>
@@ -14267,7 +14697,7 @@ G0sxBAyBGiBgTq4GRrQqGAKGQDEC/wPPVyKxgVp/rwAAAABJRU5ErkJggg==
 
 
 <div class="output_subarea output_stream output_stdout output_text">
-<pre>Es ist 20:04 Uhr.
+<pre>It&#39;s 23:46 o&#39;clock.
 </pre>
 </div>
 </div>
@@ -14309,7 +14739,7 @@ G0sxBAyBGiBgTq4GRrQqGAKGQDEC/wPPVyKxgVp/rwAAAABJRU5ErkJggg==
 
 
 <div class="output_text output_subarea output_execute_result">
-<pre>datetime.datetime(2017, 9, 29, 20, 22, 4, 395882)</pre>
+<pre>datetime.datetime(2018, 7, 22, 23, 26, 46, 251294)</pre>
 </div>
 
 </div>
@@ -14342,7 +14772,7 @@ G0sxBAyBGiBgTq4GRrQqGAKGQDEC/wPPVyKxgVp/rwAAAABJRU5ErkJggg==
 
 
 <div class="output_text output_subarea output_execute_result">
-<pre>0</pre>
+<pre>1</pre>
 </div>
 
 </div>
@@ -14480,9 +14910,6 @@ G0sxBAyBGiBgTq4GRrQqGAKGQDEC/wPPVyKxgVp/rwAAAABJRU5ErkJggg==
 </div>
 <div class="inner_cell">
 <div class="text_cell_render border-box-sizing rendered_html">
-<ul>
-<li>Demo Variable Inspector</li>
-</ul>
 
 </div>
 </div>
