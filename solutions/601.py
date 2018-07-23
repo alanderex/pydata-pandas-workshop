@@ -1,0 +1,1 @@
+sales_data.groupby(sales_data.index.week).sum()['turnover'].plot.bar(figsize=(10, 4));

@@ -1,0 +1,2 @@
+customer = sales_data.groupby(['customer']).sum().sort_values('turnover', ascending=False)[:1].index[0]
+sales_data[sales_data['customer'] == customer].groupby(['product']).sum().sort_values('turnover')[:1]

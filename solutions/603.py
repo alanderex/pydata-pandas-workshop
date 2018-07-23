@@ -1,0 +1,1 @@
+sales_data['units'].resample('H').count().plot(figsize=(10, 4));

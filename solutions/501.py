@@ -1,0 +1,1 @@
+sales_data.groupby(['product']).sum().sort_values('turnover', ascending=True)[:1]
