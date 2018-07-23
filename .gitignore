@@ -181,6 +181,6 @@ pyvenv.cfg
 .venv
 pip-selfcheck.json
 
+.idea/*
 .idea
 
-data/YouTube_asset_raw_v1-1*

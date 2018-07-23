@@ -1,6 +1,8 @@
-# Introduction to Data-Analysis with Pandas
+# Data Wrangling & Visualisation with Pandas & Jupyter
 
 ## Follow-Along tutorial presented at PyData conferences all over Europe.
+
+![Poster](img/cover.jpg)
 
 Pandas is the Swiss-Multipurpose Knife for Data Analysis in Python. With Pandas dealing with data-analysis is easy and simple but there are some things you need to get your head around first as Data-Frames and Data-Series. 
 
