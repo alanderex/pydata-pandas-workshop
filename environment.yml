@@ -11,3 +11,10 @@ dependencies:
   - seaborn
   - pyarrow
   - fastparquet
+  - bokeh
+  - nbdime
+  - nbformat
+  - nodejs
+  - pip:
+    - python-snappy
+    - barnum
