@@ -10,3 +10,4 @@ dependencies:
   - dask
   - seaborn
   - pyarrow
+  - fastparquet
