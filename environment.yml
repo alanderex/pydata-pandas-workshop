@@ -15,6 +15,7 @@ dependencies:
   - nbdime
   - nbformat
   - nodejs
+  - python>=3.6.8
   - pip:
     - python-snappy
     - barnum
