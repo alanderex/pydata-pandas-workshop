@@ -1,8 +1,6 @@
-[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/alanderex/pydata-pandas-workshop/master?url=lab)
-
 # Analytics with Pandas and Jupyterlab
 
-## Follow-Along tutorial presented at PyData conferences.
+## Follow-Along tutorial to get you started.
 
 ![Poster](img/cover2019.jpg)
 
@@ -11,6 +9,13 @@ Pandas is the Swiss-Multipurpose Knife for Data Analysis in Python. With Pandas 
 The tutorial provides a compact introduction to Pandas for beginners for I/O, data visualisation, statistical data analysis and aggregation within Jupiter notebooks.
 
 ### Installation
+
+#### Binder
+
+[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/alanderex/pydata-pandas-workshop/master?url=lab)
+
+
+#### Local Installation
 
 Copy this repository to your computer
 ```
