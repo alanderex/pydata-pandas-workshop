@@ -8,12 +8,12 @@ Pandas is the Swiss-Multipurpose Knife for Data Analysis in Python. With Pandas 
 
 The tutorial provides a compact introduction to Pandas for beginners for I/O, data visualisation, statistical data analysis and aggregation within Jupiter notebooks.
 
+### Binder
+Run Jupyterlab in the cloud, requires internet access.
+
+[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/alanderex/pydata-pandas-workshop/master?urlpath=lab)
+
 ### Installation
-
-#### Binder
-
-[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/alanderex/pydata-pandas-workshop/master?url=lab)
-
 
 #### Local Installation
 
