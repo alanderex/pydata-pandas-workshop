@@ -2,7 +2,7 @@
 
 ## Follow-Along tutorial presented at PyData conferences.
 
-![Poster](img/cover.jpg)
+![Poster](img/cover2019.jpg)
 
 Pandas is the Swiss-Multipurpose Knife for Data Analysis in Python. With Pandas dealing with data-analysis is easy and simple but there are some things you need to get your head around first as Data-Frames and Data-Series. 
 
