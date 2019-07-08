@@ -1,3 +1,5 @@
+[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/alanderex/pydata-pandas-workshop/master?url=lab)
+
 # Analytics with Pandas and Jupyterlab
 
 ## Follow-Along tutorial presented at PyData conferences.
