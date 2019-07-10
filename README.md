@@ -54,7 +54,7 @@ pip install -r requirements.txt
 
 If you don't want to use anaconda, you can use python3 and 
 ``` 
-pip install pandas jupyter barnum numpy matplotlib xlsxwriter seaborn bokeh jupyter parquet dask
+pip install pandas jupyter barnum numpy matplotlib xlsxwriter seaborn bokeh jupyterlab parquet dask
 ``` 
 (at your own risk)
 
