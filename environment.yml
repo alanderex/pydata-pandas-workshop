@@ -3,8 +3,8 @@ channels:
   - conda-forge
   - defaults
 dependencies:
-  - pandas
-  - jupyterlab
+  - pandas=0.24
+  - jupyterlab=1.2
   - xlrd
   - xlsxwriter
   - dask
@@ -15,4 +15,4 @@ dependencies:
   - nbdime
   - nbformat
   - nodejs
-  - python>=3.6.8
+  - python=3.7

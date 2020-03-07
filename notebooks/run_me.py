@@ -9,8 +9,8 @@ xweights = 100 * np.ones_like(x) / x.size
 yweights = 100 * np.ones_like(y) / y.size
 
 fig, ax = plt.subplots()
-ax.hist(x, weights=xweights, color='lightblue', alpha=0.5, normed=True)
-ax.hist(y, weights=yweights, color='salmon', alpha=0.5, normed=True)
+ax.hist(x, weights=xweights, color='lightblue', alpha=0.5, density=True)
+ax.hist(y, weights=yweights, color='salmon', alpha=0.5, density=True)
 
 ax.set(title='Histogram Comparison', ylabel='% of Dataset in Bin')
 ax.margins(0.05)
