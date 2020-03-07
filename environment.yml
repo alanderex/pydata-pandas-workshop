@@ -12,7 +12,5 @@ dependencies:
   - pyarrow
   - fastparquet
   - bokeh
-  - nbdime
-  - nbformat
   - nodejs
   - python=3.7
