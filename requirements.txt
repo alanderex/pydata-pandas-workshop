@@ -46,7 +46,7 @@ mkl-random==1.0.2
 more-itertools==7.0.0
 msgpack==0.6.1
 nbconvert==5.5.0
-nbdime==1.0.6
+nbdime==1.1.1
 nbformat==4.4.0
 notebook==6.1.5
 numba==0.44.1
