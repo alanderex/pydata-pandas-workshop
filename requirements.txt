@@ -50,7 +50,7 @@ nbdime==1.1.1
 nbformat==4.4.0
 notebook==6.1.5
 numba==0.44.1
-numpy==1.16.4
+numpy==1.21.0
 olefile==0.46
 packaging==19.0
 pandas==0.24.2
